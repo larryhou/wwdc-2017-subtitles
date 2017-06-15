@@ -1,7 +1,7 @@
 # wwdc-2017-subtitles
 Subtitles for session videos in WWDC 2017
 
-You can convert `*.WEBVTT` to `*.srt`(or some other format) with `ffmpeg`
+You can convert `*.webvtt` to `*.srt`(or some other format) with `ffmpeg`
 
 ```bash
 find . -iname '*.webvtt' | while read vtt
