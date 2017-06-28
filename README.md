@@ -9,9 +9,3 @@ do
 	echo "ffmpeg -i ${vtt} $(echo ${vtt}| sed 's/\.webvtt$/\.srt/') -y" | xargs -I{} bash -c "{}"
 done
 ```
-TODO
-237
-514
-811
-814
-816
