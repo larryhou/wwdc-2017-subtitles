@@ -1,0 +1,10361 @@
+1
+00:00:06,006 --> 00:00:12,012
+CENTRO DE CONVENCIONES
+DE SAN JOSE, SAN JOSÉ
+
+2
+00:00:33,500 --> 00:00:36,737
+Mi escritorio está en el séptimo piso.
+Si necesitas algo, llámame.
+
+3
+00:00:36,970 --> 00:00:41,375
+Asegúrate de traer tu identificación,
+la necesitarás cada vez que entres.
+
+4
+00:00:41,808 --> 00:00:45,979
+La cafetería está en el cuarto piso
+y por lo general almorzamos a las 12:30.
+
+5
+00:00:47,514 --> 00:00:48,515
+¿Este es mi lugar?
+
+6
+00:00:48,582 --> 00:00:50,717
+Por ahora, sí.
+Con la mudanza que se viene,
+
+7
+00:00:50,784 --> 00:00:52,786
+todo aquí es una locura.
+
+8
+00:00:53,220 --> 00:00:55,155
+Te aseguro que es temporal.
+
+9
+00:00:55,722 --> 00:00:56,723
+Muy bien, gracias.
+
+10
+00:01:54,815 --> 00:01:56,984
+¡Vamos, déjanos entrar,
+necesitamos el airbnb!
+
+11
+00:01:57,251 --> 00:01:58,819
+¡Esto no es un airbnb!
+
+12
+00:01:59,453 --> 00:02:02,256
+- ¿En dónde estamos?
+- ¡No lo sé!
+
+13
+00:02:02,656 --> 00:02:04,758
+¡Ni siquiera sé en qué ciudad estamos!
+
+14
+00:02:04,958 --> 00:02:06,159
+¡Cuidado!
+
+15
+00:02:17,004 --> 00:02:20,207
+<i>Líderes mundiales declaran</i>
+<i>un estado global de emergencia</i>
+
+16
+00:02:20,274 --> 00:02:22,843
+<i>hasta que se resuelva el problema</i>
+<i>de las aplicaciones.</i>
+
+17
+00:02:24,511 --> 00:02:25,379
+Selfies.
+
+18
+00:02:25,512 --> 00:02:26,346
+¿Nadie quiere?
+
+19
+00:02:26,580 --> 00:02:27,414
+Selfies.
+
+20
+00:02:27,548 --> 00:02:28,382
+¡Selfies!
+
+21
+00:02:28,448 --> 00:02:30,350
+¡El Apocalipsis está cerca!
+
+22
+00:02:30,417 --> 00:02:31,818
+CENTRO DE CIRUGÍA PLÁSTICA
+
+23
+00:02:31,885 --> 00:02:32,853
+HACEMOS FACE SWAP
+
+24
+00:02:33,453 --> 00:02:34,288
+Muy bien.
+
+25
+00:02:34,621 --> 00:02:35,856
+¿Quién será el primero?
+
+26
+00:02:40,861 --> 00:02:42,062
+iTunes.
+
+27
+00:02:42,196 --> 00:02:43,630
+Lleve su iTunes.
+
+28
+00:02:45,599 --> 00:02:47,467
+Quizás debimos elegir la del cachorro.
+
+29
+00:02:47,668 --> 00:02:49,503
+Me comí esta pizza entera yo solo.
+
+30
+00:02:50,437 --> 00:02:52,873
+Hashtag, "demasiado rica para compartir".
+
+31
+00:02:53,373 --> 00:02:55,475
+Hashtag, emoticono de pizza.
+
+32
+00:02:55,542 --> 00:02:57,244
+Oigan todos, aquí está Farm Ville 2.
+
+33
+00:02:57,511 --> 00:02:58,979
+Hashtag, "comida rápida".
+
+34
+00:02:59,046 --> 00:03:00,480
+Brian, busco a Brian.
+
+35
+00:03:00,747 --> 00:03:02,983
+Hashtag, "¿Quieren una rebanada?"
+
+36
+00:03:03,951 --> 00:03:05,586
+SIGAN HACIENDO APLICACIONES.
+
+37
+00:03:05,652 --> 00:03:07,621
+EL MUNDO DEPENDE DE USTEDES.
+
+38
+00:03:10,657 --> 00:03:13,427
+<i>Muy bien, creo que lo lograremos</i>
+
+39
+00:03:13,493 --> 00:03:16,363
+BIENVENIDOS A LA WWDC
+
+40
+00:03:30,344 --> 00:03:31,612
+¡Buenos días!
+
+41
+00:03:35,782 --> 00:03:38,352
+Me alegra mucho que eso no pueda suceder.
+
+42
+00:03:39,653 --> 00:03:41,889
+Bienvenidos a la WWDC.
+
+43
+00:03:42,723 --> 00:03:45,058
+Es grandioso regresar a San Jose,
+
+44
+00:03:45,692 --> 00:03:48,629
+el corazón de Silicon Valley
+y justo a una calle
+
+45
+00:03:48,929 --> 00:03:50,797
+de Apple y nuestro nuevo campus.
+
+46
+00:03:51,265 --> 00:03:55,235
+Hace 15 años tuvimos la Conferencia
+de Desarrolladores en San Jose,
+
+47
+00:03:55,602 --> 00:03:57,437
+y demasiadas cosas han cambiado.
+
+48
+00:03:58,138 --> 00:04:00,007
+Pero lo único que no ha cambiado
+
+49
+00:04:00,274 --> 00:04:03,043
+es nuestro compromiso
+con la comunidad de desarrolladores
+
+50
+00:04:03,143 --> 00:04:06,413
+y nuestra habilidad para hacer juntos
+cosas asombrosas.
+
+51
+00:04:07,447 --> 00:04:08,849
+Ésta será
+
+52
+00:04:09,449 --> 00:04:13,687
+la mejor y más grande WWDC
+que haya habido.
+
+53
+00:04:21,228 --> 00:04:25,966
+Cada año hacemos la WWDC
+para reunir a ingenieros de Apple
+
+54
+00:04:26,400 --> 00:04:28,502
+con nuestros maravillosos desarrolladores
+
+55
+00:04:28,869 --> 00:04:31,705
+en nuestra misión colectiva
+de cambiar al mundo.
+
+56
+00:04:32,472 --> 00:04:33,907
+Y me complace decirles
+
+57
+00:04:34,341 --> 00:04:38,445
+que la comunidad de desarrolladores
+de Apple nunca fue tan dinámica.
+
+58
+00:04:39,112 --> 00:04:41,415
+Ya tenemos a 16 millones
+
+59
+00:04:41,481 --> 00:04:44,651
+de desarrolladores de todo el mundo
+registrados en el programa,
+
+60
+00:04:45,052 --> 00:04:48,655
+y agregamos a 3 millones sólo este año.
+
+61
+00:04:49,590 --> 00:04:52,593
+Esta mañana tenemos aquí
+a 5300 desarrolladores,
+
+62
+00:04:53,427 --> 00:04:55,729
+el grupo más grande que hemos tenido.
+
+63
+00:04:57,231 --> 00:05:02,669
+Esta mañana tenemos asistentes
+de 75 países de todo el mundo.
+
+64
+00:05:03,036 --> 00:05:05,439
+En verdad es una conferencia mundial.
+
+65
+00:05:06,673 --> 00:05:10,644
+¡Y tenemos a la mayor cantidad
+de estudiantes desarrolladores
+
+66
+00:05:10,711 --> 00:05:11,845
+de la historia!
+
+67
+00:05:19,720 --> 00:05:20,721
+De hecho,
+
+68
+00:05:21,321 --> 00:05:23,857
+uno de los más jóvenes
+está aquí esta mañana.
+
+69
+00:05:25,025 --> 00:05:26,026
+Su...
+
+70
+00:05:27,194 --> 00:05:29,730
+Su nombre es Yuma Soerianto.
+
+71
+00:05:29,796 --> 00:05:32,999
+Es de Australia.
+Y sólo tiene 10 años de edad.
+
+72
+00:05:33,967 --> 00:05:36,970
+Comenzó a codificar
+cuando tenía seis años,
+
+73
+00:05:37,471 --> 00:05:40,574
+y ya tiene cinco aplicaciones
+en la App Store.
+
+74
+00:05:46,747 --> 00:05:48,815
+Ayer conocí a Yuma
+
+75
+00:05:48,882 --> 00:05:52,252
+y no puedo esperar a ver
+lo que logrará próximamente.
+
+76
+00:05:52,853 --> 00:05:56,523
+Y mientras hay desarrolladores
+grandiosos como Yuma,
+
+77
+00:05:56,857 --> 00:06:00,027
+tenemos otros que comenzaron
+un poco tarde.
+
+78
+00:06:02,196 --> 00:06:03,397
+Masako.
+
+79
+00:06:05,966 --> 00:06:07,935
+Masako Wakamiya
+
+80
+00:06:08,001 --> 00:06:10,304
+acaba de cumplir 82 años,
+
+81
+00:06:11,338 --> 00:06:16,643
+es de Japón y publicó su primera
+aplicación a principios de año.
+
+82
+00:06:17,344 --> 00:06:18,178
+Así...
+
+83
+00:06:21,815 --> 00:06:25,018
+Así que si aún no publican,
+aún hay tiempo.
+
+84
+00:06:25,719 --> 00:06:27,955
+Démosles un gran aplauso.
+
+85
+00:06:34,828 --> 00:06:38,665
+Ahora pongamos nuestra atención
+en nuestras 4 increíbles plataformas.
+
+86
+00:06:39,066 --> 00:06:43,637
+Claro, como saben, cada una
+se basa en la misma tecnología,
+
+87
+00:06:44,271 --> 00:06:46,807
+pero cada una se expresa
+y se diseña de forma única
+
+88
+00:06:47,040 --> 00:06:50,944
+para ofrecer la mejor experiencia
+en su funcionamiento.
+
+89
+00:06:51,612 --> 00:06:54,281
+Seguimos desarrollando estas plataformas,
+
+90
+00:06:54,348 --> 00:06:57,451
+dándoles a ustedes, los desarrolladores,
+poderosas herramientas
+
+91
+00:06:57,518 --> 00:07:00,354
+y oportunidades para cambiar el mundo.
+
+92
+00:07:01,054 --> 00:07:04,825
+Es por eso que esta conferencia
+de desarrolladores es tan importante.
+
+93
+00:07:05,592 --> 00:07:08,161
+Ahora, hoy tenemos mucho de qué hablar,
+
+94
+00:07:08,595 --> 00:07:10,664
+y en verdad me refiero a mucho.
+
+95
+00:07:11,164 --> 00:07:14,701
+Así que no entraré en más detalles
+y sólo les diré
+
+96
+00:07:15,169 --> 00:07:16,370
+qué a Apple le va muy bien.
+
+97
+00:07:23,343 --> 00:07:28,348
+Esta mañana tenemos seis anuncios
+importantes que compartirles.
+
+98
+00:07:29,416 --> 00:07:31,518
+Así que vamos al grano
+
+99
+00:07:31,585 --> 00:07:34,054
+y yo comenzaré con tvOS.
+
+100
+00:07:35,355 --> 00:07:39,359
+Recientemente presentamos
+la aplicación de TV en Apple TV,
+
+101
+00:07:39,626 --> 00:07:41,061
+iPhone, y iPad
+
+102
+00:07:41,128 --> 00:07:43,530
+para crear la manera
+más sencilla de descubrir
+
+103
+00:07:43,697 --> 00:07:47,801
+y disfrutar el contenido de TV
+te todos sus canales de video
+
+104
+00:07:48,135 --> 00:07:50,237
+reunidos en un lugar conveniente.
+
+105
+00:07:50,904 --> 00:07:54,274
+Hicimos el lanzamiento con el apoyo
+de sólo un puñado de canales de video,
+
+106
+00:07:54,341 --> 00:07:58,478
+pero ahora tenemos a 50 socios
+integrados a la aplicación de TV.
+
+107
+00:07:59,313 --> 00:08:00,480
+Y hoy
+
+108
+00:08:00,981 --> 00:08:03,150
+estamos muy emocionados de anunciar
+
+109
+00:08:03,750 --> 00:08:06,019
+que Amazon llegará...
+
+110
+00:08:09,823 --> 00:08:12,259
+Amazon llegará a la aplicación de TV
+
+111
+00:08:12,326 --> 00:08:15,696
+y a toda Apple TV a finales de este año
+
+112
+00:08:15,762 --> 00:08:17,731
+con Amazon Prime Video.
+
+113
+00:08:18,098 --> 00:08:19,766
+Y claro, como saben,
+
+114
+00:08:20,200 --> 00:08:23,437
+Prime Video provee gran contenido,
+
+115
+00:08:23,504 --> 00:08:25,572
+miles de programas de TV y películas
+
+116
+00:08:25,772 --> 00:08:28,141
+y algo de contenido original grandioso
+
+117
+00:08:28,208 --> 00:08:29,710
+como <i>Transparent,</i>
+
+118
+00:08:30,043 --> 00:08:33,145
+<i>Mozart in the Jungle,</i>
+<i>Man in the High Castle</i>
+
+119
+00:08:33,881 --> 00:08:35,215
+y mucho más.
+
+120
+00:08:35,282 --> 00:08:36,783
+También nos complace
+
+121
+00:08:36,850 --> 00:08:39,352
+recibir a Amazon en Apple TV.
+
+122
+00:08:45,425 --> 00:08:47,361
+Eso es en tvOS.
+
+123
+00:08:47,427 --> 00:08:50,864
+Escucharán mucho más de tvOS
+
+124
+00:08:50,931 --> 00:08:52,065
+a finales de año.
+
+125
+00:08:53,166 --> 00:08:54,168
+Número dos,
+
+126
+00:08:55,169 --> 00:08:57,304
+hablemos de Apple Watch.
+
+127
+00:09:00,440 --> 00:09:04,411
+Apple Watch tuvo un crecimiento
+increíble el año pasado.
+
+128
+00:09:04,778 --> 00:09:08,182
+De hecho, es el smartwatch
+número uno en ventas,
+
+129
+00:09:08,549 --> 00:09:09,583
+por mucho,
+
+130
+00:09:09,783 --> 00:09:11,752
+y lo más importante para nosotros,
+
+131
+00:09:11,818 --> 00:09:15,189
+es que es el número uno
+en satisfacción al cliente
+
+132
+00:09:15,455 --> 00:09:17,891
+otra vez, por mucho.
+
+133
+00:09:18,725 --> 00:09:22,162
+Apple Watch fue diseñado para ayudarles
+a llevar una vida más saludable
+
+134
+00:09:22,296 --> 00:09:25,232
+y la gente adora
+las capacidades de condicionamiento,
+
+135
+00:09:25,599 --> 00:09:27,835
+las capacidades de salud,
+
+136
+00:09:28,101 --> 00:09:30,404
+el acceso rápido a la información
+
+137
+00:09:31,038 --> 00:09:33,774
+e incluso la habilidad de nadar con él.
+
+138
+00:09:34,208 --> 00:09:38,412
+Tenemos algunas actualizaciones
+muy emocionantes para watchOS
+
+139
+00:09:38,612 --> 00:09:42,349
+y para mostrárselas,
+quisiera invitar a Kevin Lynch.
+
+140
+00:09:42,416 --> 00:09:43,250
+¿Kevin?
+
+141
+00:09:47,187 --> 00:09:48,021
+Gracias, Tim.
+
+142
+00:09:50,691 --> 00:09:53,260
+Entonces watchOS está avanzando
+con mucha velocidad
+
+143
+00:09:53,327 --> 00:09:56,630
+y estoy muy emocionado
+de presentarles hoy watchOS 4.
+
+144
+00:09:57,130 --> 00:09:59,066
+Mejoramos las áreas que la gente adora.
+
+145
+00:09:59,132 --> 00:10:02,369
+También presenta formas nuevas
+de personalizar más al Watch.
+
+146
+00:10:02,703 --> 00:10:04,104
+Comencemos con Watch Faces.
+
+147
+00:10:05,606 --> 00:10:07,908
+Apple Watch es grandioso
+para dar vistazos rápidos
+
+148
+00:10:07,975 --> 00:10:10,344
+y mucha gente utiliza
+carátulas como está hoy en día.
+
+149
+00:10:10,410 --> 00:10:12,546
+Debes elegir qué información
+se mostrará aquí,
+
+150
+00:10:12,613 --> 00:10:14,982
+por ejemplo, clima, calendario, ejercicios
+
+151
+00:10:15,048 --> 00:10:18,318
+o quizá les gustaría ver la fecha,
+recordatorios y el ocaso.
+
+152
+00:10:18,719 --> 00:10:21,288
+La información que quieren ver
+varía según la hora,
+
+153
+00:10:21,355 --> 00:10:23,056
+su ubicación y sus rutinas.
+
+154
+00:10:23,657 --> 00:10:25,826
+¿Qué tal si les mostráramos
+de forma automática
+
+155
+00:10:25,893 --> 00:10:27,895
+la información que pudieran necesitar?
+
+156
+00:10:28,462 --> 00:10:31,265
+Siri es una asistente
+cada vez más proactiva,
+
+157
+00:10:31,331 --> 00:10:33,867
+al saber qué información necesitas
+y cuándo.
+
+158
+00:10:34,001 --> 00:10:37,471
+Y hemos creado una nueva carátula
+alimentada por la inteligencia de Siri.
+
+159
+00:10:37,538 --> 00:10:39,373
+Ésta es la nueva carátula de Siri.
+
+160
+00:10:39,640 --> 00:10:42,743
+Muestra automáticamente la información
+más relevante para ti
+
+161
+00:10:42,976 --> 00:10:46,513
+y accede a Siri tocando el símbolo
+en la esquina superior izquierda.
+
+162
+00:10:47,047 --> 00:10:48,982
+Muestra todo esto de forma automática
+
+163
+00:10:49,049 --> 00:10:51,852
+con el mismo tipo de inteligencia
+que hemos aplicado en iOS.
+
+164
+00:10:52,052 --> 00:10:54,154
+Usamos aprendizaje automático
+para adaptarlo
+
+165
+00:10:54,221 --> 00:10:57,457
+a tus rutinas y las apps
+que usas y cuándo las usas.
+
+166
+00:10:57,858 --> 00:10:59,793
+Así, en la mañana podría ver, por ejemplo,
+
+167
+00:10:59,860 --> 00:11:02,095
+mi tiempo de traslado
+a mi primera reunión.
+
+168
+00:11:02,162 --> 00:11:05,232
+Y si giro la corona, puedo ver
+más información de Siri.
+
+169
+00:11:05,566 --> 00:11:07,968
+Como recordatorios
+o recuerdos fotográficos
+
+170
+00:11:08,035 --> 00:11:11,038
+de la misma época en el año pasado
+o quizá de la misma ubicación.
+
+171
+00:11:11,104 --> 00:11:13,240
+Y durante todo el día,
+cuando levante mi muñeca,
+
+172
+00:11:13,307 --> 00:11:15,976
+la carátula se actualizará
+dinámicamente para ti.
+
+173
+00:11:16,343 --> 00:11:19,079
+A mediodía, puedo ver
+un recordatorio de una llamada
+
+174
+00:11:19,346 --> 00:11:22,082
+y puedo obtener un pase
+para un vuelo que tomaré en la tarde.
+
+175
+00:11:22,149 --> 00:11:24,918
+Los pases relevantes en mi Wallet
+pueden aparecer aquí,
+
+176
+00:11:24,985 --> 00:11:26,687
+incluyendo lo de apps de terceros.
+
+177
+00:11:27,421 --> 00:11:29,890
+Al final del día, podría ver
+a qué hora se pondrá el sol
+
+178
+00:11:29,957 --> 00:11:32,593
+y también obtener acceso
+a los controles que suelo utilizar
+
+179
+00:11:32,659 --> 00:11:34,361
+en la noche, en la aplicación de Home.
+
+180
+00:11:34,595 --> 00:11:37,497
+Es un asistente proactivo inteligente
+justo en tu muñeca
+
+181
+00:11:37,564 --> 00:11:39,967
+y ésta es la nueva carátula de Siri
+en Apple Watch.
+
+182
+00:11:46,373 --> 00:11:49,443
+Bien, a veces querrás tener
+menos información y más gráficos,
+
+183
+00:11:49,510 --> 00:11:51,979
+y esa es el alma
+de la nueva carátula de caleidoscopio.
+
+184
+00:11:52,045 --> 00:11:54,414
+Muestra un hermoso patrón simétrico
+
+185
+00:11:54,481 --> 00:11:56,383
+que cambia lentamente durante el día.
+
+186
+00:11:56,450 --> 00:11:57,484
+Puedes girar la corona
+
+187
+00:11:57,551 --> 00:11:59,853
+y verás este efecto alucinante
+cuando quieras.
+
+188
+00:12:00,954 --> 00:12:02,756
+Hay muchos estilos para elegir.
+
+189
+00:12:02,823 --> 00:12:04,491
+Por ejemplo, con una foto como ésta,
+
+190
+00:12:04,558 --> 00:12:07,094
+puedes crear una variedad
+de estilos de caleidoscopios.
+
+191
+00:12:07,160 --> 00:12:09,329
+Ésta es la nueva carátula
+de caleidoscopio.
+
+192
+00:12:13,867 --> 00:12:16,303
+Mickey y Minnie han sido
+un gran éxito en Apple Watch
+
+193
+00:12:16,370 --> 00:12:19,273
+y más personajes se han esforzado
+por abrirse paso.
+
+194
+00:12:19,339 --> 00:12:21,475
+Estoy muy emocionado de recibir
+
+195
+00:12:21,542 --> 00:12:24,311
+a Woody y Jessie y Buzz.
+
+196
+00:12:28,916 --> 00:12:31,485
+Se sentirán como en casa en el Watch
+y son muy divertidos.
+
+197
+00:12:31,752 --> 00:12:34,521
+Y siempre que levantes tu Watch
+con la carátula de Toy Story,
+
+198
+00:12:34,588 --> 00:12:37,457
+verás una variedad de viñetas
+parecidas a ésta.
+
+199
+00:12:39,993 --> 00:12:41,628
+Están gastándose muchas bromas ahí.
+
+200
+00:12:42,429 --> 00:12:44,998
+Ahí tenemos tres carátulas
+muy vistosas en watchOS,
+
+201
+00:12:45,265 --> 00:12:47,668
+la de Siri, el caleidoscopio y Toy Story.
+
+202
+00:12:53,006 --> 00:12:54,374
+Ahora hablemos de Activity.
+
+203
+00:12:54,575 --> 00:12:57,644
+Apple Watch ya ha ayudado a mucha gente
+a mejorar su salud y físico.
+
+204
+00:12:57,711 --> 00:13:00,781
+Activity es una de las aplicaciones
+más utilizadas en watchOS.
+
+205
+00:13:00,848 --> 00:13:02,015
+En watchOS 4,
+
+206
+00:13:02,082 --> 00:13:04,818
+las notificaciones de Activity
+están más personalizadas
+
+207
+00:13:04,885 --> 00:13:06,687
+para que cierres anillos más a menudo.
+
+208
+00:13:06,753 --> 00:13:09,022
+Puedes comenzar cada día
+con algo de inspiración
+
+209
+00:13:09,089 --> 00:13:10,557
+recibiendo un mensaje como éste.
+
+210
+00:13:11,225 --> 00:13:13,961
+Esto te permite saber si estás cerca
+de completar tus logros
+
+211
+00:13:14,027 --> 00:13:16,029
+o qué hacer para alcanzar
+las metas de ayer.
+
+212
+00:13:16,096 --> 00:13:17,831
+Esto está personalizado para ti.
+
+213
+00:13:18,298 --> 00:13:22,436
+Como parte del entreno inteligente,
+presentamos los retos mensuales.
+
+214
+00:13:22,936 --> 00:13:24,805
+Los retos están diseñados para ayudarte
+
+215
+00:13:24,872 --> 00:13:27,140
+ya sea a completar o repetir
+alguno de tus logros
+
+216
+00:13:27,207 --> 00:13:28,442
+o acercarte a hacerlo,
+
+217
+00:13:28,509 --> 00:13:31,512
+y todos son alcanzables
+porque se basan en tu historial real.
+
+218
+00:13:32,112 --> 00:13:34,281
+Como todo entrenador,
+celebramos tus éxitos,
+
+219
+00:13:34,348 --> 00:13:36,049
+así que agregamos un poco de diversión
+
+220
+00:13:36,116 --> 00:13:38,185
+cuando cierras anillos
+u obtienes un logro.
+
+221
+00:13:41,555 --> 00:13:43,857
+Celebraciones pequeñas para éxitos diarios
+
+222
+00:13:43,924 --> 00:13:46,493
+y grandes celebraciones
+para los logros más difíciles.
+
+223
+00:13:47,194 --> 00:13:50,731
+También mejoramos la app Workout
+para potenciar y simplificar su uso,
+
+224
+00:13:51,265 --> 00:13:53,834
+comenzando con la nueva UI,
+con Quick Start al frente.
+
+225
+00:13:53,901 --> 00:13:56,270
+Puedes sólo tocar y arrancar.
+Es mucho más fácil.
+
+226
+00:13:56,370 --> 00:13:58,105
+Y los clientes en verdad adoraron
+
+227
+00:13:58,172 --> 00:14:00,674
+las capacidades de nado en las Series 2.
+
+228
+00:14:01,074 --> 00:14:04,478
+Estamos mejorando el ejercicio de piscina
+con programas automáticos.
+
+229
+00:14:04,545 --> 00:14:06,613
+Con sólo tomar un descanso en la orilla
+
+230
+00:14:06,847 --> 00:14:09,950
+automáticamente marcará
+cada tipo de nado que estés haciendo.
+
+231
+00:14:10,017 --> 00:14:12,686
+Al final, obtendrás la distancia
+por cada tipo de brazada
+
+232
+00:14:12,753 --> 00:14:14,721
+y tu ritmo por cada vuelta que haces.
+
+233
+00:14:15,489 --> 00:14:16,890
+También estamos creando...
+
+234
+00:14:17,157 --> 00:14:19,359
+Es grandioso.
+Esto del nado es muy popular.
+
+235
+00:14:19,760 --> 00:14:22,262
+También creamos
+algoritmos de movimiento y pulso
+
+236
+00:14:22,329 --> 00:14:25,132
+para un nuevo ejercicio llamado
+intervalo de alta intensidad.
+
+237
+00:14:25,199 --> 00:14:27,501
+Es uno de los ejercicios
+más populares en el mundo.
+
+238
+00:14:27,568 --> 00:14:30,170
+Sabemos que será el favorito
+de muchos de ustedes.
+
+239
+00:14:31,271 --> 00:14:33,473
+Si quieren hacer
+más de un ejercicio seguidos,
+
+240
+00:14:33,540 --> 00:14:36,910
+ahora es superfácil dar un golpe
+durante el ejercicio actual
+
+241
+00:14:37,277 --> 00:14:39,479
+y agregar otro
+presionando el botón de "más".
+
+242
+00:14:39,713 --> 00:14:40,714
+Ahora presiono "más",
+
+243
+00:14:40,781 --> 00:14:42,516
+y puedo continuar con otro ejercicio.
+
+244
+00:14:42,583 --> 00:14:44,852
+Aquí podría hacer bicicleta en exteriores.
+
+245
+00:14:44,918 --> 00:14:46,453
+Sólo toco y continúo.
+
+246
+00:14:46,753 --> 00:14:49,656
+Es superfácil hacer varios ejercicios
+en una sola sesión.
+
+247
+00:14:55,229 --> 00:14:58,332
+Mucha gente hace ejercicio
+en interiores, en el gimnasio,
+
+248
+00:14:58,398 --> 00:15:01,935
+y el equipo del gimnasio tiene información
+que el Apple Watch no tiene
+
+249
+00:15:02,002 --> 00:15:04,771
+y el Watch tiene información
+que el gimnasio no tiene.
+
+250
+00:15:04,838 --> 00:15:08,342
+Así que terminas con cifras,
+como calorías y distancia, que no cuadran.
+
+251
+00:15:08,675 --> 00:15:11,545
+En watchOS 4, se nos ocurrió
+una solución grandiosa para esto.
+
+252
+00:15:12,279 --> 00:15:13,914
+Estamos permitiendo por primera vez
+
+253
+00:15:13,981 --> 00:15:17,150
+el intercambio de información
+de dos vías con el equipo del gimnasio.
+
+254
+00:15:17,518 --> 00:15:19,553
+Podrás simplemente tocar tu Apple Watch
+
+255
+00:15:19,620 --> 00:15:21,688
+en un lector NFC del equipo del gimnasio.
+
+256
+00:15:21,755 --> 00:15:24,658
+Tu Watch abrirá la app Workout
+y podrás conectarte,
+
+257
+00:15:24,892 --> 00:15:27,728
+entonces el Watch lee tu pulso
+y lo envía al equipo,
+
+258
+00:15:27,794 --> 00:15:31,265
+e información como pendiente y velocidad
+se envía el equipó a tu Watch.
+
+259
+00:15:31,598 --> 00:15:35,035
+Al comenzar el ejercicio en un aparato,
+hace lo mismo con tu Watch.
+
+260
+00:15:35,369 --> 00:15:39,239
+Ahora, toda la información concuerda,
+es más sencilla y más precisa.
+
+261
+00:15:39,706 --> 00:15:40,741
+Esto recibe el apoyo
+
+262
+00:15:40,807 --> 00:15:43,110
+del mayor fabricante de gimnasios
+del mundo,
+
+263
+00:15:43,477 --> 00:15:45,846
+provee cerca del 80%
+del equipo para gimnasios,
+
+264
+00:15:46,346 --> 00:15:49,917
+y la conectividad de Apple Watch
+con este equipo comenzará este otoño.
+
+265
+00:15:56,390 --> 00:15:58,025
+Ahora hablemos de música.
+
+266
+00:15:58,992 --> 00:16:02,462
+Apple Watch junto con AirPods
+se han convertido en una pareja mágica.
+
+267
+00:16:02,796 --> 00:16:04,898
+Y estamos rediseñando
+la app Music en el Watch
+
+268
+00:16:04,965 --> 00:16:06,900
+para mejorar más aún esta experiencia.
+
+269
+00:16:06,967 --> 00:16:08,001
+Con la nueva app Music
+
+270
+00:16:08,068 --> 00:16:11,638
+sincronizaremos música para ti
+basados en lo que te encanta escuchar.
+
+271
+00:16:12,139 --> 00:16:14,908
+Por ejemplo, pondremos
+tus mezclas de Apple Music,
+
+272
+00:16:14,975 --> 00:16:18,378
+como New Music y Favorites,
+actualizadas en tu Watch.
+
+273
+00:16:18,579 --> 00:16:20,647
+El Watch presenta arte bello
+
+274
+00:16:20,714 --> 00:16:24,318
+e imágenes de la lista de reproducción,
+y puedes navegar con la corona digital.
+
+275
+00:16:24,818 --> 00:16:27,154
+Al dar con lo que buscas,
+puedes tocar y reproducir.
+
+276
+00:16:27,387 --> 00:16:29,022
+Reproduce tu música fácilmente.
+
+277
+00:16:29,089 --> 00:16:32,292
+Ahora soportamos varias listas
+de reproducción y música en el Watch,
+
+278
+00:16:32,693 --> 00:16:34,127
+así que la música que amas
+
+279
+00:16:34,194 --> 00:16:35,896
+estará lista cuando tú lo estés,
+
+280
+00:16:35,963 --> 00:16:39,766
+escuchar Apple Watch con AirPods
+es una experiencia en verdad mágica.
+
+281
+00:16:39,833 --> 00:16:41,068
+Esa es la nueva app Music.
+
+282
+00:16:45,439 --> 00:16:48,308
+Ahora, demos un vistazo
+a una demostración de watchOS 4,
+
+283
+00:16:48,375 --> 00:16:51,712
+den la bienvenida a Vera Carr del equipo
+de ingeniería de Watch and Health.
+
+284
+00:16:55,215 --> 00:16:56,216
+Gracias, Kevin.
+
+285
+00:16:57,684 --> 00:17:00,521
+Buenos días.
+Me emociona mucho estar aquí.
+
+286
+00:17:01,221 --> 00:17:03,824
+Lo primero que quiero mostrarles
+es el nuevo <i>dock</i>.
+
+287
+00:17:04,525 --> 00:17:07,493
+Ahora puedo recorrer verticalmente
+mis apps más recientes,
+
+288
+00:17:07,861 --> 00:17:09,195
+como la nueva app Music.
+
+289
+00:17:09,930 --> 00:17:13,767
+Con el <i>dock</i> encontrar las aplicaciones
+que busco es más fácil que nunca.
+
+290
+00:17:14,800 --> 00:17:18,704
+Luego, veamos la nueva carátula
+inteligente de Siri.
+
+291
+00:17:19,772 --> 00:17:20,773
+Aquí, en la mañana,
+
+292
+00:17:20,840 --> 00:17:24,344
+puedo ver cosas como el clima de hoy
+y los eventos próximos.
+
+293
+00:17:25,846 --> 00:17:28,682
+Al rato volveré a San Francisco
+para ver a mis padres,
+
+294
+00:17:28,916 --> 00:17:29,983
+y en la tarde,
+
+295
+00:17:30,050 --> 00:17:31,919
+la carátula de Siri se actualizará sola
+
+296
+00:17:31,985 --> 00:17:34,454
+para decirme cuánto me llevará
+llegar hasta allá.
+
+297
+00:17:35,489 --> 00:17:37,558
+En la noche veremos
+la nueva película de <i>Alien,</i>
+
+298
+00:17:37,624 --> 00:17:40,527
+lo que me emociona mucho,
+nadie me ha contado nada.
+
+299
+00:17:41,395 --> 00:17:43,063
+Para cada cosa en la carátula de Siri,
+
+300
+00:17:43,130 --> 00:17:45,866
+puedo tocar directamente la app
+y recibir más detalles.
+
+301
+00:17:46,200 --> 00:17:48,468
+Por ejemplo, esta carátula
+tiene mis boletos,
+
+302
+00:17:48,535 --> 00:17:50,504
+así que en la noche sólo alzaré mi muñeca
+
+303
+00:17:50,671 --> 00:17:52,439
+y, con un toque, estarán listos.
+
+304
+00:17:53,974 --> 00:17:56,276
+La carátula también muestra
+contenido temporal,
+
+305
+00:17:56,343 --> 00:17:58,378
+como recuerdos fotográficos y noticias.
+
+306
+00:17:58,779 --> 00:18:00,581
+Aquí tenemos un titular elegido para mí
+
+307
+00:18:00,647 --> 00:18:03,784
+por la nueva app News,
+disponible en el Apple Watch.
+
+308
+00:18:04,318 --> 00:18:06,887
+En la aplicación puedo ver
+fotos asombrosas,
+
+309
+00:18:07,120 --> 00:18:09,289
+y ojear noticias importantes
+durante el día,
+
+310
+00:18:09,356 --> 00:18:11,859
+y guardarlas para leerlas
+más tarde en mi teléfono.
+
+311
+00:18:13,927 --> 00:18:17,130
+Integramos notificaciones
+de entreno de la nueva Activity
+
+312
+00:18:17,197 --> 00:18:19,066
+directo en la carátula de Siri.
+
+313
+00:18:19,499 --> 00:18:21,368
+Bien, cuando se acerca el final del día
+
+314
+00:18:21,435 --> 00:18:24,204
+o ya casi cierras tus anillos,
+los algoritmos de entreno
+
+315
+00:18:24,271 --> 00:18:26,907
+te dirán cuánto debes caminar
+para alcanzar tu meta.
+
+316
+00:18:27,341 --> 00:18:29,409
+Caminé mucho por los nervios
+antes de esto,
+
+317
+00:18:29,476 --> 00:18:32,012
+así que ahora sólo necesito
+una caminata de 16 minutos.
+
+318
+00:18:32,346 --> 00:18:33,614
+Cerremos esos anillos.
+
+319
+00:18:34,915 --> 00:18:38,118
+Aquí agregamos algo nuevo en Workout
+que es fabuloso.
+
+320
+00:18:38,719 --> 00:18:40,754
+La música me motiva al instante,
+
+321
+00:18:40,821 --> 00:18:44,091
+y ahora, en watchOS 4,
+puedo elegir una lista de reproducción
+
+322
+00:18:44,157 --> 00:18:46,360
+que comienza automáticamente
+con mi ejercicio.
+
+323
+00:18:47,261 --> 00:18:48,262
+Hagámoslo.
+
+324
+00:18:57,838 --> 00:18:59,206
+Y cuando estoy en un ejercicio,
+
+325
+00:18:59,273 --> 00:19:03,310
+puedo deslizar hacia la izquierda
+y controlar la música justo aquí.
+
+326
+00:19:09,983 --> 00:19:12,853
+Estas son solo algunas
+de las funciones de watchOS 4.
+
+327
+00:19:12,920 --> 00:19:14,721
+No puedo esperar a que las prueben.
+
+328
+00:19:14,788 --> 00:19:16,356
+Y ahora Kevin les platicará más.
+
+329
+00:19:22,329 --> 00:19:23,797
+Gran trabajo, Vera. Gracias.
+
+330
+00:19:24,498 --> 00:19:26,967
+Vendrán mucho más cosas con watchOS 4,
+
+331
+00:19:27,034 --> 00:19:29,837
+incluyendo una nueva linterna
+en el Centro de Control,
+
+332
+00:19:29,903 --> 00:19:33,006
+que sirve como intermitente de seguridad
+cuando corran de noche.
+
+333
+00:19:33,073 --> 00:19:34,641
+Y están pasando mucho más cosas.
+
+334
+00:19:34,808 --> 00:19:36,944
+Por supuesto, tenemos actualizaciones
+
+335
+00:19:37,010 --> 00:19:39,913
+que permiten desarrollar
+apps grandiosas para watchOS,
+
+336
+00:19:39,980 --> 00:19:42,549
+incluyendo más soporte
+para apps en segundo plano,
+
+337
+00:19:42,616 --> 00:19:45,619
+una respuesta más veloz
+y nuevas capacidades de la UI.
+
+338
+00:19:45,953 --> 00:19:48,922
+También soportamos
+Core Bluetooth nativo en el Watch,
+
+339
+00:19:48,989 --> 00:19:52,860
+que permitirá a las apps funcionar
+con aparatos pequeños a su alrededor.
+
+340
+00:19:53,227 --> 00:19:55,696
+Por ejemplo,
+el monitoreo continuo de glucosa
+
+341
+00:19:55,762 --> 00:19:58,332
+desde el sensor del De Dexcom a tu Watch,
+
+342
+00:19:58,565 --> 00:20:01,034
+o Zapp Tennis, que se conecta
+a un sensor en tu raqueta
+
+343
+00:20:01,101 --> 00:20:03,203
+para un análisis de tu juego
+en tiempo real.
+
+344
+00:20:03,370 --> 00:20:06,039
+O Xensr, que conecta
+tu Watch a tu tabla de surf
+
+345
+00:20:06,106 --> 00:20:08,108
+para que veas la altura
+de las olas que montas
+
+346
+00:20:08,175 --> 00:20:10,577
+y cuántas calorías quemas
+sin salir del agua.
+
+347
+00:20:10,777 --> 00:20:13,347
+Son muchas las nuevas posibilidades
+para WatchOS.
+
+348
+00:20:17,718 --> 00:20:20,587
+Hoy habrá una demostración
+para desarrolladores,
+
+349
+00:20:20,654 --> 00:20:23,957
+y habrá una actualización gratuita
+para todos los Watches en este otoño.
+
+350
+00:20:24,324 --> 00:20:26,560
+Eso es sólo algo
+de lo que vendrá con watchOS 4.
+
+351
+00:20:26,627 --> 00:20:27,895
+Recibamos de nuevo a Tim.
+
+352
+00:20:28,095 --> 00:20:28,929
+Gracias.
+
+353
+00:20:30,297 --> 00:20:31,665
+- Gracias, Kevin.
+- Gracias, Tim.
+
+354
+00:20:33,901 --> 00:20:36,803
+watchOS 4 es una actualización grandiosa.
+
+355
+00:20:37,738 --> 00:20:40,707
+Bien, hablemos de un producto
+
+356
+00:20:41,108 --> 00:20:42,643
+que en muchas maneras
+
+357
+00:20:42,843 --> 00:20:44,945
+es el corazón y alma de Apple.
+
+358
+00:20:45,512 --> 00:20:48,482
+Y claro, estoy hablando de la Mac.
+
+359
+00:20:54,555 --> 00:20:57,257
+Nunca ha habido
+una computadora como la Mac.
+
+360
+00:20:58,192 --> 00:21:03,430
+La Mac es muy importante como impulsora
+de la pasión y creatividad en el mundo.
+
+361
+00:21:03,830 --> 00:21:06,200
+Es una computadora
+que a todos nos encanta usar
+
+362
+00:21:06,433 --> 00:21:08,101
+y nadie puede igualar
+
+363
+00:21:08,168 --> 00:21:12,005
+la profunda integración de la Mac
+entro el hardware y el software.
+
+364
+00:21:13,106 --> 00:21:16,577
+Y claro, en el corazón
+de la experiencia con una Mac
+
+365
+00:21:16,910 --> 00:21:18,212
+está macOS.
+
+366
+00:21:18,812 --> 00:21:21,648
+Y para hablarles de lo que vendrá
+en macOS,
+
+367
+00:21:21,715 --> 00:21:23,951
+demos la bienvenida a Craig Federighi.
+
+368
+00:21:24,218 --> 00:21:25,052
+Craig.
+
+369
+00:21:27,788 --> 00:21:28,622
+Gracias.
+
+370
+00:21:29,056 --> 00:21:29,890
+Gracias, Kevin.
+
+371
+00:21:30,190 --> 00:21:31,024
+¡Buenos días!
+
+372
+00:21:32,326 --> 00:21:34,862
+Hablemos de macOS.
+
+373
+00:21:35,128 --> 00:21:39,366
+Bien, el lanzamiento actual de macOS,
+claro, es macOS Sierra.
+
+374
+00:21:39,733 --> 00:21:41,235
+Bien, Sierra llevó a Siri
+
+375
+00:21:41,602 --> 00:21:43,070
+y a Apple Pay a la Mac,
+
+376
+00:21:43,370 --> 00:21:46,540
+permitió que pusieras tus documentos
+y tu escritorio en la nube,
+
+377
+00:21:46,740 --> 00:21:49,409
+e incluso te permite desbloquear
+tu Mac automáticamente
+
+378
+00:21:49,476 --> 00:21:51,745
+utilizando el reloj en tu muñeca.
+
+379
+00:21:52,312 --> 00:21:55,048
+Bien, a la gente le encanta Sierra
+y a nosotros también,
+
+380
+00:21:55,415 --> 00:21:58,652
+así que quisimos pasar este año
+perfeccionándolo.
+
+381
+00:21:59,119 --> 00:22:00,521
+Pero, claro, la pregunta es
+
+382
+00:22:00,988 --> 00:22:02,189
+¿cómo se llamará?
+
+383
+00:22:03,757 --> 00:22:07,094
+Así que de nuevo llamamos
+a nuestro superequipo de mercadotecnia.
+
+384
+00:22:07,160 --> 00:22:09,463
+Estaban encantados de subir a su minibús
+
+385
+00:22:09,530 --> 00:22:11,498
+y aventurarse esta vez al este,
+
+386
+00:22:11,865 --> 00:22:14,101
+en lo profundo de las sierras,
+pero esta vez,
+
+387
+00:22:14,168 --> 00:22:17,104
+ascendiendo a los picos más altos.
+
+388
+00:22:17,871 --> 00:22:19,206
+Y cuando al final volvieron,
+
+389
+00:22:19,273 --> 00:22:22,576
+tenían un nombre que decían
+que se sentía muy, muy bien,
+
+390
+00:22:22,643 --> 00:22:25,846
+y es mi privilegio
+anunciarlo hoy para ustedes
+
+391
+00:22:26,180 --> 00:22:28,582
+MacOS High Sierra.
+
+392
+00:22:36,423 --> 00:22:38,625
+Bien, hablamos con los chicos
+y les dijimos
+
+393
+00:22:38,692 --> 00:22:41,128
+que podría ser malinterpretado,
+
+394
+00:22:41,695 --> 00:22:44,331
+pero nos aseguraron
+que era un nombre bien pensado.
+
+395
+00:22:44,998 --> 00:22:48,235
+Así que ahora, High Sierra
+
+396
+00:22:48,435 --> 00:22:51,371
+se enfoca en tecnologías de punta
+
+397
+00:22:51,438 --> 00:22:55,108
+que generan una plataforma poderosa
+para futuras innovaciones en la Mac.
+
+398
+00:22:55,809 --> 00:22:59,313
+Pero no pudimos evitarlo,
+también refinamos algunas cosas.
+
+399
+00:22:59,546 --> 00:23:01,448
+Y comenzamos con Safari.
+
+400
+00:23:01,815 --> 00:23:06,086
+Safari es famoso por su eficiencia
+y su legendaria vida de batería,
+
+401
+00:23:06,486 --> 00:23:09,223
+pero Safari también es
+increíblemente veloz.
+
+402
+00:23:09,556 --> 00:23:12,826
+De hecho, medimos Safari
+con el mismo hardware
+
+403
+00:23:12,893 --> 00:23:16,930
+y corrimos macOS y Windows
+con todos los navegadores populares,
+
+404
+00:23:16,997 --> 00:23:20,501
+y Safari los hace polvo
+prueba tras prueba,
+
+405
+00:23:20,567 --> 00:23:25,239
+Jetstream, Speedometer, MotionMark,
+Safari los supera a todos.
+
+406
+00:23:25,606 --> 00:23:30,544
+Así es, Safari es el navegador
+más rápido del mundo con High Sierra.
+
+407
+00:23:34,014 --> 00:23:38,218
+Y el dominio de Safari continúa
+con la nueva versión
+
+408
+00:23:38,318 --> 00:23:42,422
+de JavaScript, ECMA Script5,
+donde Safari demuestra
+
+409
+00:23:42,489 --> 00:23:45,692
+un desempeño 80 por ciento
+más rápido que Chrome.
+
+410
+00:23:46,393 --> 00:23:49,229
+Además de ser tremendamente veloz,
+
+411
+00:23:49,329 --> 00:23:53,100
+Safari también brinda una experiencia
+serena de navegación.
+
+412
+00:23:53,367 --> 00:23:55,536
+¿Les ha pasado
+que quieren leer un artículo,
+
+413
+00:23:55,602 --> 00:23:57,104
+y en lugar de algo que leer,
+
+414
+00:23:57,171 --> 00:23:58,338
+encuentran esto?
+
+415
+00:23:59,673 --> 00:24:02,209
+Un escandaloso video o audio
+
+416
+00:24:02,276 --> 00:24:05,412
+que se reproduce en automático
+y te rompe la concentración.
+
+417
+00:24:05,479 --> 00:24:10,984
+Pues ya no se preocupen, porque Safari
+bloquea reproducciones automáticas.
+
+418
+00:24:14,788 --> 00:24:18,225
+Safari detecta los sitios
+que deberían reproducir video
+
+419
+00:24:18,292 --> 00:24:21,094
+y te ponen en control.
+Puedes darle Play, si quieres.
+
+420
+00:24:21,495 --> 00:24:25,566
+Safari también es clave
+en el respeto a tu privacidad.
+
+421
+00:24:25,933 --> 00:24:29,203
+¿Les ha pasado que compran algo en línea
+
+422
+00:24:29,269 --> 00:24:33,440
+y aunque aún no completas la compra,
+no importa a dónde vayas
+
+423
+00:24:33,507 --> 00:24:35,776
+te sigue por todos lados en la web?
+
+424
+00:24:36,610 --> 00:24:38,745
+Pareciera que te estuvieran siguiendo.
+
+425
+00:24:39,046 --> 00:24:40,647
+Eso parece porque así es.
+
+426
+00:24:41,815 --> 00:24:46,220
+No más... porque Safari cuenta
+con prevención inteligente de rastreo.
+
+427
+00:24:52,059 --> 00:24:55,562
+Safari utiliza aprendizaje automatizado
+para identificar rastreadores,
+
+428
+00:24:55,629 --> 00:24:59,566
+separar los datos
+de los scripts de sitios, apartarlos,
+
+429
+00:24:59,633 --> 00:25:03,237
+para que su privacidad,
+su historial de navegación, sea sólo suyo.
+
+430
+00:25:03,303 --> 00:25:06,640
+No se trata de bloquear anuncios.
+La Web se compota de manera normal,
+
+431
+00:25:06,907 --> 00:25:08,642
+pero su privacidad está protegida.
+
+432
+00:25:09,142 --> 00:25:11,612
+Ahora quiero hablar
+de algunas mejoras en Mail,
+
+433
+00:25:11,678 --> 00:25:13,280
+y comenzamos con la búsqueda.
+
+434
+00:25:13,347 --> 00:25:16,517
+Además de poder realizar búsquedas
+por fechas recientes,
+
+435
+00:25:16,583 --> 00:25:20,487
+las búsquedas en Mail ahora usan Spotlight
+para identificar los mejores resultados.
+
+436
+00:25:20,587 --> 00:25:24,091
+Así, el mensaje que busquen
+estará siempre ahí, hasta arriba.
+
+437
+00:25:24,391 --> 00:25:26,727
+Y si les gusta usar Mail
+usando la pantalla completa,
+
+438
+00:25:26,793 --> 00:25:29,897
+ahora Mail soporta Split View
+para la ventana de redacción.
+
+439
+00:25:29,963 --> 00:25:32,599
+Es una gran manera de escribir correos.
+
+440
+00:25:36,570 --> 00:25:38,272
+Y Mail es más eficiente que nunca.
+
+441
+00:25:38,372 --> 00:25:42,042
+De hecho, utiliza 35 por ciento
+menos almacenaje para su correo.
+
+442
+00:25:42,509 --> 00:25:47,748
+Quizá la mejora más extensa
+en High Sierra sea en Photos.
+
+443
+00:25:48,549 --> 00:25:52,186
+¡Sí! Photos ahora tiene fantásticas
+herramientas de organización y edición.
+
+444
+00:25:52,286 --> 00:25:54,121
+Hay una barra lateral persistente
+
+445
+00:25:54,188 --> 00:25:57,057
+y una nueva vista
+con todas sus importaciones
+
+446
+00:25:57,124 --> 00:25:58,425
+en orden cronológico.
+
+447
+00:25:58,492 --> 00:26:01,028
+Y en cualquier vista
+aquí en la parte superior derecha,
+
+448
+00:26:01,094 --> 00:26:05,265
+pueden filtrar con palabras clave,
+por favoritas,
+
+449
+00:26:05,365 --> 00:26:08,001
+por tipos de media, como video.
+
+450
+00:26:08,068 --> 00:26:10,971
+Así es muy fácil encontrar
+justo lo que buscas.
+
+451
+00:26:11,238 --> 00:26:15,075
+También mejoramos Faces.
+Reconoce más caras automáticamente
+
+452
+00:26:15,242 --> 00:26:17,978
+utilizando avanzadas redes
+neuronales convolucionales.
+
+453
+00:26:18,045 --> 00:26:21,748
+Y si hacen un esfuerzo
+en categorizar y añadir los nombres,
+
+454
+00:26:21,815 --> 00:26:25,252
+ahora eso se sincroniza
+automáticamente en todos sus dispositivos.
+
+455
+00:26:30,224 --> 00:26:34,294
+También hay fantásticas mejoras
+en la edición con Photos.
+
+456
+00:26:34,361 --> 00:26:36,263
+Pueden ver aquí, del lado derecho,
+
+457
+00:26:36,330 --> 00:26:40,033
+todas las herramientas de edición
+están ahí, y hay varias nuevas,
+
+458
+00:26:40,400 --> 00:26:43,403
+como Curves,
+que les permitirá ajustar a detalle
+
+459
+00:26:43,470 --> 00:26:45,706
+el color y contraste de sus imágenes.
+
+460
+00:26:45,906 --> 00:26:49,576
+Y el color selectivo permite
+modificar el color en un rango selectivo.
+
+461
+00:26:50,043 --> 00:26:54,281
+Y creo que esto les gustará,
+porque si les gusta editar con Pro Tools,
+
+462
+00:26:54,348 --> 00:26:56,250
+como Pixelmator o Photoshop,
+
+463
+00:26:56,316 --> 00:26:58,986
+ahora, cuando cambien
+a esa herramienta de edición,
+
+464
+00:26:59,052 --> 00:27:03,357
+los cambios se sincronizan automática
+y directamente en su Photo Library.
+
+465
+00:27:07,561 --> 00:27:13,133
+Apple fue pionero en la impresión
+de libros basados en proyectos
+
+466
+00:27:13,200 --> 00:27:15,769
+creados dentro de la aplicación de Photos.
+
+467
+00:27:16,036 --> 00:27:19,206
+Y ahora estamos abriendo esto a terceros.
+
+468
+00:27:19,406 --> 00:27:22,309
+Ellos ofrecerán
+increíbles servicios de impresión,
+
+469
+00:27:22,576 --> 00:27:28,048
+fotografías completamente enmarcadas,
+e incluso sitios web de publicación,
+
+470
+00:27:28,115 --> 00:27:31,218
+todo a partir de proyectos
+al interior de Photos.
+
+471
+00:27:31,351 --> 00:27:33,187
+Esas son unas rápidas mejoras,
+
+472
+00:27:33,287 --> 00:27:35,389
+pero quiero volver
+a la historia principal,
+
+473
+00:27:35,455 --> 00:27:36,790
+y me refiero a la tecnología.
+
+474
+00:27:36,890 --> 00:27:39,326
+Nos hemos concentrado en los pilares:
+
+475
+00:27:39,426 --> 00:27:42,262
+datos, video y gráficos.
+
+476
+00:27:42,429 --> 00:27:47,134
+En lo que respecta a datos
+lo básico está en el sistema de archivos.
+
+477
+00:27:47,201 --> 00:27:53,207
+El sistema de archivos de Mac
+tiene su origen en HFS, de hace 30 años.
+
+478
+00:27:53,640 --> 00:27:56,777
+Mucho ha cambiado desde entonces.
+Tenemos muchas memorias USB,
+
+479
+00:27:56,844 --> 00:27:59,313
+el almacenamiento
+es millones de veces mayor,
+
+480
+00:27:59,413 --> 00:28:02,149
+y llegó la hora de un sistema más moderno.
+
+481
+00:28:02,516 --> 00:28:05,719
+Me complace anunciar el Apple File System
+
+482
+00:28:05,819 --> 00:28:08,088
+para macOS como el nuevo
+sistema predeterminado.
+
+483
+00:28:12,826 --> 00:28:17,898
+El APFS es un sistema de archivos
+moderno, 64 bit de punta a punta.
+
+484
+00:28:17,965 --> 00:28:23,003
+Es muy seguro con protección
+contra bloqueos y encriptación nativa,
+
+485
+00:28:23,270 --> 00:28:25,906
+y es ultra-responsivo
+con nuevas características
+
+486
+00:28:25,973 --> 00:28:28,642
+como clonación instantánea
+de archivos y directorios
+
+487
+00:28:28,709 --> 00:28:32,045
+y operaciones paralelas de metadatos
+de alto rendimiento.
+
+488
+00:28:32,145 --> 00:28:34,181
+Bueno, ¿qué significa eso en la práctica?
+
+489
+00:28:34,248 --> 00:28:39,119
+Veamos una sencilla duplicación
+de un archivo en Sierra.
+
+490
+00:28:39,419 --> 00:28:41,088
+Iremos al menú Archivo,
+
+491
+00:28:41,154 --> 00:28:43,857
+seleccionamos Duplicar
+estos pesados archivos de video,
+
+492
+00:28:44,258 --> 00:28:47,628
+los copia y como es de esperar,
+hay mucha información para copiar,
+
+493
+00:28:47,694 --> 00:28:49,196
+así que lleva un poco de tiempo.
+
+494
+00:28:49,363 --> 00:28:50,397
+Ya casi termina.
+
+495
+00:28:50,964 --> 00:28:54,535
+Ahí está.
+Ahora veamos lo mismo en High Sierra.
+
+496
+00:28:54,935 --> 00:28:56,336
+Iremos al menú Archivo,
+
+497
+00:28:56,403 --> 00:28:58,138
+comenzaremos a duplicar, y...
+
+498
+00:28:58,539 --> 00:28:59,373
+listo.
+
+499
+00:29:04,845 --> 00:29:07,181
+El siguiente es video.
+
+500
+00:29:07,281 --> 00:29:10,284
+El estándar actual es H.264.
+
+501
+00:29:10,350 --> 00:29:12,586
+De hecho, H.264 ha permitido
+
+502
+00:29:12,686 --> 00:29:15,856
+la revolución del video HD
+por streaming en Internet.
+
+503
+00:29:16,256 --> 00:29:20,761
+Pero el juego se ha movido de HD a 4K
+
+504
+00:29:20,827 --> 00:29:23,530
+y 4K de alto rango dinámico.
+
+505
+00:29:23,997 --> 00:29:26,066
+Y hay un nuevo estándar
+para soportar esto.
+
+506
+00:29:26,166 --> 00:29:28,735
+El H.265 o HEVC.
+
+507
+00:29:29,269 --> 00:29:33,473
+Quieren que su video luzca genial,
+que conserve el detalle y el color,
+
+508
+00:29:33,540 --> 00:29:40,280
+y HEVC lo logra con una compresión
+hasta 40 por ciento mayor al H.264.
+
+509
+00:29:40,480 --> 00:29:44,351
+Incorporamos un codificador
+para Macs que soportan High Sierra
+
+510
+00:29:44,451 --> 00:29:49,456
+y aceleración de hardware
+de HEVC para las nuevas Mac.
+
+511
+00:29:49,523 --> 00:29:52,826
+También lo incorporamos a Pro Tools,
+como Final Cut,
+
+512
+00:29:52,893 --> 00:29:54,995
+Motion, y Compressor.
+
+513
+00:29:55,529 --> 00:29:59,099
+Ahora quiero volver al principal,
+es decir, gráficos.
+
+514
+00:29:59,166 --> 00:30:01,802
+Los gráficos dependen del GPU.
+
+515
+00:30:01,869 --> 00:30:05,973
+El GPU ha sido la superestrella
+de desempeño de la última década
+
+516
+00:30:06,039 --> 00:30:09,243
+y ha brindado increíbles beneficios
+en el desempeño informático.
+
+517
+00:30:09,309 --> 00:30:13,780
+Nuestro API para gráficos
+de alto rendimiento es Metal
+
+518
+00:30:13,847 --> 00:30:16,083
+y los desarrolladores
+le han sacado provecho.
+
+519
+00:30:16,149 --> 00:30:20,254
+Este es Dawn of War 3
+de Feral Interactive, gráficos increíbles.
+
+520
+00:30:20,787 --> 00:30:23,323
+Esto es Da Vinci Resolve de Blackmagic,
+
+521
+00:30:23,390 --> 00:30:26,293
+que puede acelerar
+varias operaciones de edición.
+
+522
+00:30:26,693 --> 00:30:29,263
+Y usamos Metal hasta en Photos
+
+523
+00:30:29,329 --> 00:30:31,832
+para la identificación automatizada
+de tus fotos.
+
+524
+00:30:32,299 --> 00:30:35,936
+Pero hemos aprendido
+de los desarrolladores y su uso del Metal,
+
+525
+00:30:36,003 --> 00:30:38,038
+y hoy anunciaremos una nueva versión.
+
+526
+00:30:38,105 --> 00:30:39,740
+No imaginan cómo la llamamos.
+
+527
+00:30:40,440 --> 00:30:41,642
+Es Metal 2.
+
+528
+00:30:42,876 --> 00:30:46,213
+Metal 2 es tremendamente rápido.
+
+529
+00:30:46,280 --> 00:30:49,383
+Tiene grandes optimizaciones y nuevas API
+
+530
+00:30:49,449 --> 00:30:53,420
+que, al ser adoptadas,
+brindan una mejora del 10 por ciento
+
+531
+00:30:53,520 --> 00:30:54,688
+en rendimiento <i>draw call</i>.
+
+532
+00:30:54,821 --> 00:30:59,426
+Algunos recuerdan el lanzamiento de Metal,
+que fue diez veces mejor a OpenGL.
+
+533
+00:30:59,493 --> 00:31:03,096
+Pueden hacer la multiplicación.
+Ha mejorado 100 veces.
+
+534
+00:31:03,363 --> 00:31:07,868
+También hemos conseguido un mejor...
+Disculpen.
+
+535
+00:31:08,001 --> 00:31:11,071
+Mejores herramientas de depuración
+y análisis para que ustedes
+
+536
+00:31:11,138 --> 00:31:12,706
+optimicen su app para Metal.
+
+537
+00:31:12,773 --> 00:31:15,542
+Y estamos tan emocionados
+por los avances en Metal 2
+
+538
+00:31:15,609 --> 00:31:18,011
+que hemos tomado el servidor
+de ventanas de Mac
+
+539
+00:31:18,078 --> 00:31:20,747
+y lo pusimos sobre Metal
+para acelerar las cosas,
+
+540
+00:31:20,814 --> 00:31:24,384
+como Mission Control
+y otros sistemas de animación demandantes,
+
+541
+00:31:24,451 --> 00:31:27,087
+que ahora corren suaves
+como el terciopelo.
+
+542
+00:31:27,421 --> 00:31:32,926
+Ahora, Metal no solo es gráficos.
+También es para aprendizaje automático.
+
+543
+00:31:33,327 --> 00:31:34,728
+Puede acelerar... Sí.
+
+544
+00:31:34,795 --> 00:31:36,763
+Tenemos <i>shaders</i> Metal de rendimiento
+
+545
+00:31:36,830 --> 00:31:40,267
+que aceleran todo tipo
+de algoritmos de aprendizaje.
+
+546
+00:31:40,734 --> 00:31:42,736
+Otra noticia que tenemos hoy sobre Metal
+
+547
+00:31:42,803 --> 00:31:45,072
+es Metal para gráficos externos.
+
+548
+00:31:45,939 --> 00:31:49,943
+Saben que nuestras MacBooks
+tienen un gran equilibrio
+
+549
+00:31:50,010 --> 00:31:52,412
+entre portabilidad y potencia,
+
+550
+00:31:52,779 --> 00:31:56,350
+pero a veces, algunos trabajos
+requieren más poder.
+
+551
+00:31:56,416 --> 00:32:00,020
+Uno quiere aprovechar el increíble
+Thunderbolt I/O
+
+552
+00:32:00,120 --> 00:32:04,258
+de las MacBook Pros
+para acceder a gráficos externos.
+
+553
+00:32:04,925 --> 00:32:07,327
+Esto será posible con Metal 2.
+
+554
+00:32:07,561 --> 00:32:11,398
+Comenzamos con un paquete
+para desarrolladores, disponible hoy.
+
+555
+00:32:11,732 --> 00:32:14,434
+Incluso podrán ordenar
+un disco duro Thunderbolt 3
+
+556
+00:32:14,501 --> 00:32:17,437
+con un GPU AMD de alto rendimiento
+
+557
+00:32:17,738 --> 00:32:21,542
+y ajustas sus aplicaciones para gráficos
+externos de alto rendimiento.
+
+558
+00:32:21,608 --> 00:32:24,978
+Después, daremos soporte
+a todos nuestros clientes
+
+559
+00:32:25,045 --> 00:32:26,313
+en los siguientes meses.
+
+560
+00:32:27,381 --> 00:32:29,249
+Con este poder de gráficos
+
+561
+00:32:29,416 --> 00:32:32,586
+subimos la apuesta
+en la creación de contenido pro.
+
+562
+00:32:33,120 --> 00:32:37,224
+Y esto involucra la creación
+de contenido de RV cada vez más.
+
+563
+00:32:37,424 --> 00:32:42,129
+Por eso traemos Metal
+para RV a High Sierra.
+
+564
+00:32:46,433 --> 00:32:50,537
+Metal brinda un display de RV optimizado
+
+565
+00:32:50,604 --> 00:32:52,706
+con un desempeño realmente alto,
+
+566
+00:32:53,173 --> 00:32:56,009
+y estamos optimizando
+nuestras apps pro, como Final Cut,
+
+567
+00:32:56,076 --> 00:32:59,880
+por ejemplo, para editar video esférico
+dentro de la misma Realidad Virtual.
+
+568
+00:33:00,247 --> 00:33:05,586
+También estamos trabajando con Valve.
+Ellos traen el Steam VR SDK para Mac.
+
+569
+00:33:06,119 --> 00:33:11,758
+Y estamos trabajando con Unity y Unreal
+para incluir sus motores de RV a la Mac.
+
+570
+00:33:16,763 --> 00:33:21,335
+Es genial, y quizá vean un poco más
+sobre este tema más tarde.
+
+571
+00:33:21,702 --> 00:33:24,104
+Ese fue un vistazo rápido a macOS,
+
+572
+00:33:24,171 --> 00:33:30,711
+gran tecnología con el Apple File System,
+video HEVC y gráficos increíbles
+
+573
+00:33:30,777 --> 00:33:34,047
+con el soporte de Metal 2
+para gráficos externos,
+
+574
+00:33:34,114 --> 00:33:39,119
+y el soporte de RV en la Mac.
+Y claro, un montón de fantásticas mejoras.
+
+575
+00:33:39,253 --> 00:33:43,624
+MacOS High Sierra está disponible
+para ustedes desde hoy
+
+576
+00:33:43,690 --> 00:33:48,128
+como versión beta para desarrolladores,
+y si se registran a beta.apple.com,
+
+577
+00:33:48,228 --> 00:33:51,532
+también habrá una versión beta pública
+disponible a finales de mes.
+
+578
+00:33:51,665 --> 00:33:55,169
+Y por supuesto, se entregará a todos
+como una mejora gratuita este otoño
+
+579
+00:33:55,235 --> 00:33:57,905
+en todos los sistemas
+compatibles con Sierra.
+
+580
+00:33:58,071 --> 00:34:01,241
+Esa es la actualización
+sobre macOS High Sierra.
+
+581
+00:34:01,308 --> 00:34:04,444
+Le cedo la palabra al vicepresidente
+de ingeniería de hardware,
+
+582
+00:34:04,511 --> 00:34:07,881
+John Ternus, quien hablará más
+sobre la Mac. Gracias.
+
+583
+00:34:15,489 --> 00:34:16,590
+Gracias, Craig.
+
+584
+00:34:17,524 --> 00:34:20,527
+Hay grandes actualizaciones
+que quiero compartirles hoy
+
+585
+00:34:20,594 --> 00:34:22,996
+que se expanden a toda la línea de Mac.
+
+586
+00:34:23,063 --> 00:34:24,797
+Comencemos con la iMac.
+
+587
+00:34:25,565 --> 00:34:29,268
+La iMac ha sido el estándar dorado
+para las desktops por muchos años,
+
+588
+00:34:29,335 --> 00:34:33,040
+pero vamos a subir el nivel una vez más,
+y como siempre sucede con iMac,
+
+589
+00:34:33,106 --> 00:34:34,541
+todo empieza con la pantalla.
+
+590
+00:34:35,409 --> 00:34:39,545
+Porque las pantallas iMac Retina
+de 4K y 5K con su alta resolución,
+
+591
+00:34:39,612 --> 00:34:42,114
+excelente brillo y su gama de colores P3
+
+592
+00:34:42,181 --> 00:34:44,418
+son las mejores pantallas
+en cualquier desktop.
+
+593
+00:34:44,885 --> 00:34:46,485
+Pero las haremos aún mejores.
+
+594
+00:34:46,920 --> 00:34:50,257
+Estas nuevas pantallas serán de 500 nits.
+
+595
+00:34:50,324 --> 00:34:53,360
+Eso es 43 por ciento más brillante
+que la generación anterior.
+
+596
+00:34:53,760 --> 00:34:57,063
+Y por primera vez,
+soportaremos tramado de 10 bits
+
+597
+00:34:57,264 --> 00:35:00,901
+o sea que estas pantallas
+pueden reproducir mil millones de colores.
+
+598
+00:35:01,502 --> 00:35:04,872
+Así, su contenido se verá
+más real que nunca.
+
+599
+00:35:05,372 --> 00:35:08,942
+Además, tenemos nuevas actualizaciones
+internas para estas iMacs.
+
+600
+00:35:09,176 --> 00:35:12,045
+Empecemos por el CPU,
+porque toda la línea está cambiando
+
+601
+00:35:12,112 --> 00:35:14,414
+al procesador core Intel
+Séptima Generación
+
+602
+00:35:14,481 --> 00:35:15,949
+también conocido como Kaby Lake.
+
+603
+00:35:16,016 --> 00:35:20,053
+Kaby Lake nos da mejores frecuencias turbo
+para un mayor desempeño,
+
+604
+00:35:20,320 --> 00:35:23,624
+así como codificación HEVC
+a 10 bits por hardware
+
+605
+00:35:23,690 --> 00:35:26,193
+que es ideal para reproducir
+videos de alta calidad.
+
+606
+00:35:26,960 --> 00:35:30,497
+Adicionalmente, estas iMac
+tendrán un aumento de memoria.
+
+607
+00:35:30,697 --> 00:35:35,469
+Los sistemas de 21.5 pulgadas pueden
+configurarse con 32 gigabytes de memoria.
+
+608
+00:35:35,536 --> 00:35:39,072
+Y las de 27 pulgadas pueden alcanzar
+64 gigabytes de memoria.
+
+609
+00:35:39,139 --> 00:35:42,242
+Ambas tienen el doble
+de la generación pasada.
+
+610
+00:35:42,943 --> 00:35:46,046
+El almacenamiento rápido
+siempre ha sido clave para la iMac,
+
+611
+00:35:46,113 --> 00:35:50,484
+por lo que Fusion Drive será estándar
+para las configuraciones de 27 pulgadas,
+
+612
+00:35:50,551 --> 00:35:51,985
+y también será estándar
+
+613
+00:35:52,052 --> 00:35:54,721
+en la gama alta de los equipos
+de 21.5 pulgadas.
+
+614
+00:35:55,088 --> 00:35:58,992
+Además, nuestras opciones SSD
+serán 50 por ciento más rápidas
+
+615
+00:35:59,293 --> 00:36:01,495
+y estarán disponibles
+hasta los 2 terabytes.
+
+616
+00:36:02,863 --> 00:36:05,065
+Y las iMac también
+recibieron una mejor en su I/O
+
+617
+00:36:05,132 --> 00:36:09,269
+porque incorporaremos dos conexiones USB-C
+compatibles con Thunderbolt 3.
+
+618
+00:36:09,536 --> 00:36:11,872
+Nuestros clientes,
+sobre todo usuarios pro,
+
+619
+00:36:11,939 --> 00:36:14,441
+amarán esto porque te permite
+hacer cosas geniales
+
+620
+00:36:14,508 --> 00:36:16,844
+como conectar un RAID de alto rendimiento
+
+621
+00:36:16,910 --> 00:36:19,813
+y una pantalla externa de 5k
+al mismo tiempo.
+
+622
+00:36:20,948 --> 00:36:22,416
+Ahora, hablemos de gráficos.
+
+623
+00:36:22,482 --> 00:36:26,420
+Como ya han escuchado, estamos invirtiendo
+en software de gráficos
+
+624
+00:36:26,520 --> 00:36:27,654
+como Metal 2.
+
+625
+00:36:27,754 --> 00:36:30,357
+También estamos invirtiendo
+en hardware de gráficos,
+
+626
+00:36:30,424 --> 00:36:34,328
+y todas las configuraciones de esta línea
+recibirá un gran impulso
+
+627
+00:36:34,428 --> 00:36:38,065
+en su desempeño de gráficos.
+Comencemos con la iMac de nivel inicial.
+
+628
+00:36:38,131 --> 00:36:40,901
+Este sistema tendrá una mejora
+en su GPU integrado
+
+629
+00:36:40,968 --> 00:36:45,038
+por medio del Intel Iris Plus Graphics,
+que ahora tiene 64MB de eDRAM.
+
+630
+00:36:45,572 --> 00:36:47,908
+Y el desempeño que recibimos
+es sorprendente,
+
+631
+00:36:47,975 --> 00:36:52,779
+porque este sistema es 80 por ciento
+más rápido que la generación anterior.
+
+632
+00:36:56,617 --> 00:37:01,388
+La siguiente es la iMac de 21.5 pulgadas
+con pantalla Retina 4K.
+
+633
+00:37:01,522 --> 00:37:04,925
+La gran novedad aquí
+es que cambiaremos a gráficos discretos
+
+634
+00:37:04,992 --> 00:37:07,661
+y será una opción predeterminada
+en todas las iMac 4K
+
+635
+00:37:07,895 --> 00:37:09,763
+Y eso vendrá... Eso es.
+
+636
+00:37:09,830 --> 00:37:12,999
+Y eso vendrá en estos GPU
+Radeon Pro Series
+
+637
+00:37:13,066 --> 00:37:15,068
+con hasta 4 gigabytes de VRAM.
+
+638
+00:37:15,636 --> 00:37:17,371
+Este cambio a gráficos discretos
+
+639
+00:37:17,437 --> 00:37:19,873
+resulta en una espectacular mejora
+del desempeño
+
+640
+00:37:19,940 --> 00:37:22,943
+porque este nuevo sistema
+es hasta tres veces más veloz
+
+641
+00:37:23,010 --> 00:37:24,578
+que en generaciones anteriores.
+
+642
+00:37:29,249 --> 00:37:31,618
+Por último,
+tenemos la iMac de 27 pulgadas.
+
+643
+00:37:31,718 --> 00:37:34,821
+Esta es nuestra computadora
+más popular para clientes pro.
+
+644
+00:37:34,888 --> 00:37:37,658
+Obviamente, hoy también tendrá
+un impulso en gráficos.
+
+645
+00:37:37,991 --> 00:37:41,328
+Incluirá GPUs Radeon Pro 500 Series
+
+646
+00:37:41,395 --> 00:37:43,430
+con hasta 8 gigabytes de VRAM.
+
+647
+00:37:44,031 --> 00:37:45,832
+Y, de nuevo, impulsamos el desempeño.
+
+648
+00:37:45,899 --> 00:37:51,538
+Esta iMac de 27 pulgadas ahora puede dar
+hasta 5.5 teraflops de gráficos.
+
+649
+00:37:54,107 --> 00:37:57,945
+Esto la hace una gran plataforma
+para la creación de contenido en RV.
+
+650
+00:37:58,178 --> 00:38:02,149
+De hecho, le hemos dado esta nueva iMac
+con High Sierra a algunos desarrolladores
+
+651
+00:38:02,416 --> 00:38:06,053
+para ver qué pueden hacer
+con realidad virtual en esta Mac,
+
+652
+00:38:06,153 --> 00:38:10,224
+y me emociona poderles presentar un demo
+de este increíble trabajo, justo ahora.
+
+653
+00:38:10,591 --> 00:38:14,094
+Me gustaría invitar al escenario,
+de Industrial Light and Magic,
+
+654
+00:38:14,161 --> 00:38:16,730
+ganador del premio Óscar
+a los mejores efectos visuales
+
+655
+00:38:16,797 --> 00:38:19,466
+y director creativo, John Knoll.
+
+656
+00:38:19,533 --> 00:38:20,367
+¿John?
+
+657
+00:38:22,836 --> 00:38:23,670
+Gracias, John.
+
+658
+00:38:27,107 --> 00:38:29,243
+En el laboratorio ILM de Lucas Films
+
+659
+00:38:29,309 --> 00:38:32,846
+la historia, diseño conceptual
+y desarrollo técnico están entrelazados.
+
+660
+00:38:33,213 --> 00:38:35,616
+Se unen para crear
+experiencias de inmersión
+
+661
+00:38:35,682 --> 00:38:39,319
+para que la gente las disfrute
+en casa, en los cines o parques temáticos.
+
+662
+00:38:39,753 --> 00:38:42,256
+Yo siempre he hecho
+el desarrollo de mi arte en una Mac,
+
+663
+00:38:42,356 --> 00:38:44,858
+así que estoy muy emocionado
+por la nueva iMac.
+
+664
+00:38:45,292 --> 00:38:50,364
+Realmente me gusta mucho la plataforma,
+y me entusiasma especialmente compartir
+
+665
+00:38:50,430 --> 00:38:53,333
+algo de nuestro contenido de RV
+creado en estas nuevas iMac
+
+666
+00:38:53,400 --> 00:38:54,735
+con Unreal Engine de Epic.
+
+667
+00:38:55,269 --> 00:38:58,005
+Me acompaña Lauren Ridge,
+programadora de Epic,
+
+668
+00:38:58,438 --> 00:39:00,841
+quien estará detrás del escenario
+operando el demo.
+
+669
+00:39:02,276 --> 00:39:05,045
+Al trabajar juntos
+podemos trabajar en tiempo real
+
+670
+00:39:06,280 --> 00:39:09,983
+para crear una experiencia de inmersión
+en el universo de Star Wars.
+
+671
+00:39:10,617 --> 00:39:13,887
+Lauren está allá atrás
+para mostrarles su escenario.
+
+672
+00:39:14,421 --> 00:39:17,224
+Y ahora, lo verán desde mi perspectiva.
+
+673
+00:39:17,524 --> 00:39:19,860
+Nos encontramos en el planeta Mustafar.
+
+674
+00:39:20,661 --> 00:39:24,131
+Gracias al respaldo nativo de RV
+en macOS High Sierra,
+
+675
+00:39:24,198 --> 00:39:29,236
+puedo utilizar el editor de Unreal Engine
+para crear contenido desde la RV,
+
+676
+00:39:29,303 --> 00:39:32,306
+y por primera vez,
+todo está alimentado por mi Mac.
+
+677
+00:39:32,940 --> 00:39:35,442
+En mi controlador izquierdo,
+tengo un menú radial
+
+678
+00:39:35,509 --> 00:39:37,377
+que actúa como la paleta de un pintor.
+
+679
+00:39:37,644 --> 00:39:40,948
+Y en la derecha, tengo el láser
+que uso para interactuar con el mundo.
+
+680
+00:39:41,615 --> 00:39:44,017
+Aquí tengo fuego. Probémoslo.
+
+681
+00:39:45,085 --> 00:39:46,353
+Muy lindo.
+
+682
+00:39:46,753 --> 00:39:48,956
+Adornemos un poco el escenario.
+¿Qué tienes?
+
+683
+00:39:49,656 --> 00:39:51,692
+Veamos. Abriré mi navegador de contenido.
+
+684
+00:39:51,758 --> 00:39:54,361
+Tiene todos lo que necesito
+para montar mi escenario.
+
+685
+00:39:55,128 --> 00:39:57,664
+Vi un buen lugar de aterrizaje
+para una nave imperial.
+
+686
+00:39:57,731 --> 00:39:59,199
+Traigamos una.
+
+687
+00:39:59,900 --> 00:40:03,837
+Preparamos estos recursos inteligentes
+y saben exactamente dónde aterrizar.
+
+688
+00:40:04,872 --> 00:40:06,907
+Genial. Muy bien.
+¿Podemos abrir la toma?
+
+689
+00:40:09,109 --> 00:40:12,613
+Claro, puedo tomarlo con ambas manos
+y cambiar mi tamaño.
+
+690
+00:40:13,180 --> 00:40:15,949
+También puedo usarlo
+para rotar el mundo a mi alrededor.
+
+691
+00:40:16,850 --> 00:40:17,885
+Eso es fabuloso.
+
+692
+00:40:18,018 --> 00:40:20,921
+Aquí tengo un TIE Fighter,
+pongámoslo aquí.
+
+693
+00:40:21,889 --> 00:40:25,225
+Gracias a los 5.5 teraflops
+de procesamiento del GPU,
+
+694
+00:40:25,292 --> 00:40:28,962
+manipular objetos es muy fácil
+y realmente intuitivo.
+
+695
+00:40:29,963 --> 00:40:32,900
+Bien, ¿podemos tener un escuadrón
+de esos volando por encima?
+
+696
+00:40:33,267 --> 00:40:35,636
+Bien. ¿Qué tal desde el horizonte
+
+697
+00:40:37,137 --> 00:40:38,805
+hasta ese castillo?
+
+698
+00:40:39,006 --> 00:40:40,174
+Sí, perfecto.
+
+699
+00:40:40,941 --> 00:40:43,010
+Permíteme teletransportarme hacia abajo.
+
+700
+00:40:44,244 --> 00:40:48,182
+Oye, el castillo me recordó
+que estamos olvidando algo importante.
+
+701
+00:40:48,849 --> 00:40:50,450
+Claro, ¿cómo pude olvidarlo?
+
+702
+00:40:53,654 --> 00:40:55,589
+Eso es. Genial.
+
+703
+00:40:56,823 --> 00:41:00,561
+Su silueta se ve muy bien
+contra el horizonte.
+
+704
+00:41:00,627 --> 00:41:01,728
+¿Podemos acercarnos?
+
+705
+00:41:02,529 --> 00:41:03,363
+Por supuesto.
+
+706
+00:41:04,398 --> 00:41:06,099
+Es genial como Metal 2 libera
+
+707
+00:41:06,166 --> 00:41:08,836
+la función avanzada
+de rendering en la Mac.
+
+708
+00:41:09,069 --> 00:41:12,439
+Vaya, sí. Se ve muy bien.
+Reproduzcamos la escena desde aquí.
+
+709
+00:41:12,973 --> 00:41:13,807
+Okay.
+
+710
+00:41:22,316 --> 00:41:23,617
+Está molesto.
+
+711
+00:41:24,184 --> 00:41:25,752
+Es la tercera esta semana.
+
+712
+00:41:40,767 --> 00:41:42,336
+Me alegra que no me haya visto.
+
+713
+00:41:44,505 --> 00:41:45,973
+Yo no estaría tan seguro.
+
+714
+00:41:52,179 --> 00:41:54,147
+Bueno, detengámoslo ahí.
+
+715
+00:41:55,983 --> 00:41:57,351
+Eso estuvo cerca.
+
+716
+00:42:09,129 --> 00:42:14,701
+Es fantástico ver una iMac procesando
+este nivel de gráficos en modo RV
+
+717
+00:42:14,768 --> 00:42:16,737
+fácilmente a 90 cuadros por segundo.
+
+718
+00:42:16,970 --> 00:42:18,572
+Fabuloso. Gracias, Lauren.
+
+719
+00:42:25,712 --> 00:42:27,781
+Metal 2 y Unreal...
+
+720
+00:42:28,315 --> 00:42:32,686
+Unreal Engine de Epic servirá
+a la próxima generación de creativos.
+
+721
+00:42:32,786 --> 00:42:34,821
+Usamos esta tecnología en el cine cada día
+
+722
+00:42:34,888 --> 00:42:38,892
+para búsquedas virtuales de sets,
+dirección de arte y diseño de toma.
+
+723
+00:42:38,959 --> 00:42:41,495
+De modo que este contenido
+de inmersión puede ser hecho
+
+724
+00:42:41,562 --> 00:42:44,731
+por los mismos que hacen las películas.
+Eso es muy poderoso.
+
+725
+00:42:45,432 --> 00:42:47,601
+En Lucasfilm y IMLxLAB
+
+726
+00:42:47,668 --> 00:42:50,571
+estamos ansiosos por usar las Macs
+para crear experiencias
+
+727
+00:42:50,637 --> 00:42:53,607
+e invitar a todo el mundo
+a sumergirse en nuestras historias.
+
+728
+00:42:53,674 --> 00:42:54,508
+Gracias.
+
+729
+00:42:58,045 --> 00:42:59,079
+Gracias.
+
+730
+00:43:01,481 --> 00:43:04,184
+Gracias, John y Lauren.
+Eso fue fabuloso.
+
+731
+00:43:04,952 --> 00:43:08,422
+Esa es nuestra actualización
+a la línea iMac. En resumen
+
+732
+00:43:08,755 --> 00:43:11,792
+tienen las mejores pantallas Mac
+jamás creadas,
+
+733
+00:43:11,859 --> 00:43:16,029
+procesadores más rápidos, mayor memoria,
+almacenamiento superrápido,
+
+734
+00:43:16,096 --> 00:43:19,666
+Thunderbolt 3, y como ya vieron,
+un increíble procesamiento de gráficos.
+
+735
+00:43:22,669 --> 00:43:27,241
+Aquí está la línea,
+pero hay otro cambio más,
+
+736
+00:43:27,307 --> 00:43:31,178
+porque vamos agregar más valor
+a la línea de productos iMac.
+
+737
+00:43:31,345 --> 00:43:35,315
+Por primera vez, tendremos
+una iMac 4K con precio base
+
+738
+00:43:35,716 --> 00:43:37,584
+de tan solo 1299 dólares.
+
+739
+00:43:44,691 --> 00:43:46,994
+Pero las actualizaciones
+no son solo en las iMac,
+
+740
+00:43:47,060 --> 00:43:49,530
+hoy también actualizaremos
+nuestras notebooks.
+
+741
+00:43:50,197 --> 00:43:52,866
+Y juntas, la MacBook y MacBook Pro
+
+742
+00:43:52,933 --> 00:43:55,602
+integran la mejor línea
+de notebooks que hemos tenido.
+
+743
+00:43:55,702 --> 00:43:57,104
+Pero las haremos aún mejor
+
+744
+00:43:57,171 --> 00:43:59,273
+porque también integraremos el Kaby Lake.
+
+745
+00:43:59,840 --> 00:44:03,677
+Y traeremos SSD más rápidos
+a nuestra MacBook
+
+746
+00:44:03,777 --> 00:44:07,347
+y gráficos estándar más rápidos
+para la MacBook Pro de 15 pulgadas.
+
+747
+00:44:07,981 --> 00:44:10,651
+Ahí tenemos un gran impulso
+de desempeño en toda la línea.
+
+748
+00:44:11,118 --> 00:44:13,353
+Ahí tienen la alineación,
+pero al igual de la iMac,
+
+749
+00:44:13,420 --> 00:44:15,422
+también aquí vamos a sumar valor
+
+750
+00:44:15,489 --> 00:44:18,759
+con una nueva configuración
+de la MacBook Pro de 13 pulgadas
+
+751
+00:44:18,825 --> 00:44:21,562
+que también empieza
+en tan solo 1299 dólares.
+
+752
+00:44:27,334 --> 00:44:31,371
+Ahí lo tienen. Actualizamos
+siete de nuestras Macs más populares,
+
+753
+00:44:31,471 --> 00:44:35,042
+y la MacBook Air también
+recibirá un impulso en megahertz.
+
+754
+00:44:35,209 --> 00:44:37,945
+Y lo mejor de todo
+es que todas serán enviadas hoy.
+
+755
+00:44:43,350 --> 00:44:46,753
+Nos importa mucho el medio ambiente,
+y, como en todos nuestros productos,
+
+756
+00:44:46,854 --> 00:44:49,790
+hemos trabajado muy duro
+para asegurar que estas nuevas Mac
+
+757
+00:44:49,857 --> 00:44:54,361
+estén libres de químicos dañinos,
+que sean eficientes y reciclables.
+
+758
+00:44:55,829 --> 00:44:57,898
+Esas son las actualizaciones de hoy,
+
+759
+00:44:58,098 --> 00:45:01,335
+pero no es lo único
+que queremos mostrarles hoy.
+
+760
+00:45:01,869 --> 00:45:04,371
+La línea iMac ofrece un gran rango.
+
+761
+00:45:04,438 --> 00:45:08,041
+Va de un nivel básico
+perfecto para el hogar o la escuela,
+
+762
+00:45:08,308 --> 00:45:11,078
+hasta el poderoso modelo de 27 pulgadas,
+
+763
+00:45:11,144 --> 00:45:15,148
+que permite a los clientes profesionales
+crear cosas asombrosas todos los días.
+
+764
+00:45:16,216 --> 00:45:19,019
+Dicho eso, hay otra clase de usuarios pro
+
+765
+00:45:19,119 --> 00:45:22,789
+que quisieran aprovechar
+la pantalla y diseño de la iMac,
+
+766
+00:45:22,856 --> 00:45:24,791
+pero al nivel de una estación de trabajo
+
+767
+00:45:24,858 --> 00:45:27,027
+que es imposible conseguir
+en un todo en uno.
+
+768
+00:45:27,694 --> 00:45:29,763
+Nosotros quisimos retar esa conjetura,
+
+769
+00:45:29,830 --> 00:45:34,001
+y trabajamos mucho para ver
+qué tan lejos podemos llevar a la iMac.
+
+770
+00:45:34,635 --> 00:45:37,237
+Esto no será enviado
+hasta finales del año,
+
+771
+00:45:37,304 --> 00:45:39,773
+pero me entusiasma mucho
+poder darles una probada
+
+772
+00:45:39,840 --> 00:45:42,009
+de lo que hemos estado haciendo.
+
+773
+00:46:12,139 --> 00:46:16,810
+Bien, esa es la nueva iMac Pro.
+Ahora, lo primero que notarán
+
+774
+00:46:16,877 --> 00:46:20,380
+es que será el mismo gran diseño
+de nuestra iMac de 27 pulgadas
+
+775
+00:46:21,114 --> 00:46:24,084
+pero está en el acabado
+Space Gray que es muy genial.
+
+776
+00:46:25,719 --> 00:46:28,555
+Y con el nuevo, imponente y hermoso
+monitor con resolución 5k,
+
+777
+00:46:28,622 --> 00:46:31,892
+es sin duda, la iMac más bonita
+que hayamos construido.
+
+778
+00:46:32,259 --> 00:46:34,595
+Pero también será, con diferencia,
+
+779
+00:46:34,661 --> 00:46:36,864
+la iMac más poderosa que hayamos hecho.
+
+780
+00:46:37,231 --> 00:46:41,935
+De hecho, será la Mac más poderosa
+que hayamos creado porque...
+
+781
+00:46:45,806 --> 00:46:49,476
+Porque vamos a colocar un rendimiento
+de estación de trabajo
+
+782
+00:46:49,543 --> 00:46:52,179
+dentro de nuestro increíble diseño
+de la iMac 5K.
+
+783
+00:46:52,479 --> 00:46:56,083
+Para esto, el equipo tuvo que repensar
+totalmente la arquitectura térmica.
+
+784
+00:46:56,583 --> 00:47:00,587
+Y salieron con una solución muy eficiente:
+un ventilador con centrífuga doble,
+
+785
+00:47:00,654 --> 00:47:04,157
+que genera significativamente
+más aire que una iMac tradicional.
+
+786
+00:47:04,391 --> 00:47:08,662
+De hecho, la iMac Pro tiene una capacidad
+de más de 80 % en enfriamiento.
+
+787
+00:47:08,962 --> 00:47:11,532
+Significa que puede darnos
+un desempeño inimaginable
+
+788
+00:47:11,598 --> 00:47:14,935
+y mantener la operación sin ruido
+que esperarías de una iMac.
+
+789
+00:47:15,469 --> 00:47:18,205
+Hablemos de lo que hay dentro
+y quiero comenzar con el CPU
+
+790
+00:47:18,272 --> 00:47:22,176
+porque quería irme a lo grande.
+La iMac Pro va a contar
+
+791
+00:47:22,309 --> 00:47:24,645
+con un procesador Xeon de 8 núcleos.
+
+792
+00:47:27,281 --> 00:47:32,886
+Pero también va a contar
+con un procesador Xeon de 10 núcleos.
+
+793
+00:47:35,122 --> 00:47:38,759
+Y pensamos que hemos llegado muy lejos.
+Vamos a ponernos locos.
+
+794
+00:47:38,825 --> 00:47:41,795
+Vamos a ofrecerla con uno de 18 núcleos.
+
+795
+00:47:45,365 --> 00:47:48,936
+Es bastante poder informático.
+Pero no quisimos parar ahí
+
+796
+00:47:49,102 --> 00:47:51,672
+porque también quisimos ir
+más allá en las gráficas.
+
+797
+00:47:51,872 --> 00:47:55,676
+Y la iMac Pro va a usar
+gráficos AMD Radeon Vega.
+
+798
+00:47:55,776 --> 00:47:59,379
+Es la nueva línea de la arquitectura
+de gráficos de la estación de trabajo.
+
+799
+00:47:59,479 --> 00:48:04,017
+Presenta un nuevo núcleo GPU y un paquete
+de memoria de un gran ancho de banda.
+
+800
+00:48:04,318 --> 00:48:07,988
+Va a estar disponible
+con 16 gigabytes de VRAM,
+
+801
+00:48:08,055 --> 00:48:11,325
+y más de 400 gigabytes por segundo
+de memoria en ancho de banda.
+
+802
+00:48:11,725 --> 00:48:14,294
+No vamos a usar
+un nivel de entrada de configuración
+
+803
+00:48:14,361 --> 00:48:17,731
+porque nuestra implementación
+va a ofrecer 11 teraflops
+
+804
+00:48:17,798 --> 00:48:19,766
+de poder de cómputo de simple precisión.
+
+805
+00:48:19,867 --> 00:48:23,203
+Son tres veces más
+que el mejor GPU en una Mac Pro.
+
+806
+00:48:23,504 --> 00:48:26,406
+Pero se pone todavía mejor
+porque este GPU Radeon Vega
+
+807
+00:48:26,473 --> 00:48:28,709
+también puede hacer la mitad de precisión,
+
+808
+00:48:28,876 --> 00:48:32,913
+eso significa que la iMac Pro
+puede dar 22 teraflops
+
+809
+00:48:33,313 --> 00:48:35,282
+de computación de mediana precisión.
+
+810
+00:48:36,216 --> 00:48:39,653
+Es cosa seria para asuntos
+como desarrollo de aprendizaje automático.
+
+811
+00:48:40,053 --> 00:48:43,590
+La iMac Pro, como pueden ver,
+será un monstruo en cuanto a gráficas,
+
+812
+00:48:43,924 --> 00:48:45,526
+pero tampoco quisimos parar ahí.
+
+813
+00:48:45,592 --> 00:48:50,364
+Vamos a dejar que la configures
+con una memoria ECC de 128 gigabytes.
+
+814
+00:48:50,430 --> 00:48:53,600
+El doble de lo que puedes hacer
+en una iMac de 27 pulgadas.
+
+815
+00:48:57,905 --> 00:49:03,210
+Y hasta 4 terabytes
+de 3 gigabytes por segundo en SSD.
+
+816
+00:49:04,178 --> 00:49:07,648
+La iMac Pro también tendrá un componente
+completo I/O de alto rendimiento,
+
+817
+00:49:07,714 --> 00:49:12,386
+incluyendo 3 puertos Thunderbolt
+y, por primera vez en una Mac,
+
+818
+00:49:12,619 --> 00:49:14,788
+Ethernet integrado de 10-gigabit.
+
+819
+00:49:19,593 --> 00:49:22,696
+Y con ese innovador I/O,
+puedes hacer muchas cosas asombrosas.
+
+820
+00:49:22,763 --> 00:49:27,067
+Puedes colocar dos monitores 5K
+y dos arrays AMD de alto rendimiento.
+
+821
+00:49:27,267 --> 00:49:29,203
+Ninguna iMac pudo hacer eso antes.
+
+822
+00:49:29,469 --> 00:49:31,572
+Cuando lo combinas con el monitor interno,
+
+823
+00:49:31,738 --> 00:49:36,043
+significa que la iMac Pro puede llegar
+hasta los 44 millones de pixeles.
+
+824
+00:49:37,211 --> 00:49:41,248
+Hay mucho más que no hay tiempo de hablar
+de cosas como la cámara FaceTime de 1080p,
+
+825
+00:49:41,348 --> 00:49:43,717
+un soporte Vesa configurable,
+
+826
+00:49:43,951 --> 00:49:48,789
+instrucciones AVX dos veces más anchas
+y una entrada UHS-II SD.
+
+827
+00:49:49,590 --> 00:49:53,360
+Con toda la tecnología de alto rendimiento
+y nuestro increíble monitor de 5K,
+
+828
+00:49:53,427 --> 00:49:55,996
+esta iMac Pro va a ser
+una estación de trabajo asombrosa
+
+829
+00:49:56,063 --> 00:49:58,498
+para cosas como reproducción
+en 3D en tiempo real,
+
+830
+00:49:58,565 --> 00:50:01,635
+alta velocidad, RV de sumersión,
+aprendizaje automático,
+
+831
+00:50:01,702 --> 00:50:05,772
+y con todos los núcleos y la memoria,
+un código de compilación superrápido.
+
+832
+00:50:07,007 --> 00:50:09,710
+Hablando de las estaciones de trabajo,
+quisimos comparar
+
+833
+00:50:09,910 --> 00:50:13,146
+la configuración inicial de la iMac Pro
+con la que está en el mercado.
+
+834
+00:50:13,413 --> 00:50:17,384
+Si van hoy fueran a construir un sistema
+comparable con especificaciones,
+
+835
+00:50:17,784 --> 00:50:19,953
+les costaría más de 7000 dólares.
+
+836
+00:50:20,254 --> 00:50:24,024
+Tengan en cuenta que es un sistema
+que no tiene nuestro mejor monitor.
+
+837
+00:50:24,258 --> 00:50:28,762
+No tiene el diseño increíble de la iMac
+y obviamente no tiene IOS.
+
+838
+00:50:30,364 --> 00:50:34,334
+Bueno, esa es la configuración inicial
+de la iMac Pro y costará
+
+839
+00:50:34,768 --> 00:50:36,303
+unos 4999 dólares.
+
+840
+00:50:43,410 --> 00:50:45,445
+Y va a estar disponible en diciembre.
+
+841
+00:50:47,281 --> 00:50:51,718
+Ese es un pequeño vistazo a la iMac Pro.
+Con un rendimiento de estación de trabajo,
+
+842
+00:50:51,952 --> 00:50:55,889
+dentro de nuestro increíble diseño iMac
+de 27 pulgadas, con un hermoso monitor 5K
+
+843
+00:50:55,956 --> 00:50:59,326
+y va a ser la Mac más poderosa
+que hayamos construido.
+
+844
+00:50:59,693 --> 00:51:02,963
+Esto es todo con las noticias de la Mac.
+Volvemos con Tim.
+
+845
+00:51:04,531 --> 00:51:05,365
+Gracias, John,
+
+846
+00:51:06,800 --> 00:51:07,634
+Muy bien.
+
+847
+00:51:09,837 --> 00:51:13,240
+Muchas cosas maravillosas
+suceden con la Mac,
+
+848
+00:51:13,607 --> 00:51:17,277
+y John, estoy de acuerdo
+que la iMac Pro es muy genial.
+
+849
+00:51:18,245 --> 00:51:20,714
+Muy bien. Lo que sigue.
+
+850
+00:51:21,915 --> 00:51:23,550
+Hablemos de IOS.
+
+851
+00:51:26,787 --> 00:51:30,657
+El mejor y más avanzado
+sistema operativo celular del mundo.
+
+852
+00:51:31,091 --> 00:51:34,661
+Nuestros clientes aman
+la última versión, IOS 10,
+
+853
+00:51:34,761 --> 00:51:39,700
+y que es líder en la industria con
+un 96 % de satisfacción al cliente.
+
+854
+00:51:40,400 --> 00:51:44,638
+Y es absolutamente increíble
+que el 86 % de nuestros clientes
+
+855
+00:51:44,705 --> 00:51:49,510
+tengan IOS 10 y saquen ventaja
+de sus capacidades.
+
+856
+00:51:50,344 --> 00:51:52,980
+Esto aplasta
+
+857
+00:51:53,347 --> 00:51:57,618
+a las otras plataformas
+que sufren de una horrible fragmentación.
+
+858
+00:52:00,921 --> 00:52:06,627
+Con IOS los desarrolladores siempre pueden
+apuntar a las últimas capacidades
+
+859
+00:52:06,894 --> 00:52:10,330
+y características de nuestro
+sistema operativo más reciente
+
+860
+00:52:10,397 --> 00:52:13,600
+y tener confianza
+de que hay clientes para ellos.
+
+861
+00:52:14,835 --> 00:52:15,869
+Y hoy,
+
+862
+00:52:18,272 --> 00:52:21,074
+vamos a tomar el mejor
+
+863
+00:52:21,608 --> 00:52:26,013
+y más avanzado sistema operativo celular
+del mundo y convertirlo...
+
+864
+00:52:26,547 --> 00:52:27,681
+a 11.
+
+865
+00:52:34,555 --> 00:52:38,425
+Y me gustaría volver a invitar a Craig
+para que continúe. ¡Craig!
+
+866
+00:52:40,928 --> 00:52:41,929
+Gracias, Tim.
+
+867
+00:52:43,096 --> 00:52:43,931
+Hola, de nuevo.
+
+868
+00:52:44,498 --> 00:52:46,867
+Hablemos de IOS 11.
+
+869
+00:52:47,601 --> 00:52:48,502
+Es grandioso.
+
+870
+00:52:48,569 --> 00:52:51,805
+Ahora nos enfocamos mucho
+en tecnologías con IOS 11,
+
+871
+00:52:51,872 --> 00:52:56,276
+pero también algunos grandes extras.
+Tenemos mucho de qué hablar.
+
+872
+00:52:56,410 --> 00:52:59,079
+Vamos a comenzar con Messages.
+
+873
+00:52:59,146 --> 00:53:01,081
+Todos saben que en IOS 10,
+
+874
+00:53:01,148 --> 00:53:04,785
+agregamos iMessage apps y stickers.
+
+875
+00:53:05,152 --> 00:53:07,888
+La gente se divierte mucho
+con todo esto y ahora en IOS 11,
+
+876
+00:53:07,955 --> 00:53:11,725
+hacemos que la gente descubra más
+con esta aplicación de dibujo rediseñada.
+
+877
+00:53:11,959 --> 00:53:14,828
+Pueden ver sus apps accesibles
+en el fondo de la pantalla.
+
+878
+00:53:14,895 --> 00:53:19,900
+Con un toque pueden desplegarlas,
+bajar con el scroll y tocar cualquier app.
+
+879
+00:53:20,067 --> 00:53:24,438
+Es muy fácil, te divertirás mucho
+usando tus aplicaciones y stickers.
+
+880
+00:53:24,838 --> 00:53:28,442
+El punto importante con Messages
+es que está en iCloud.
+
+881
+00:53:28,742 --> 00:53:34,348
+porque ahora, con tu iMessages en iCloud,
+cuando te conectas en otro dispositivo,
+
+882
+00:53:34,648 --> 00:53:38,252
+todas tus conversaciones
+se sincronizarán automáticamente.
+
+883
+00:53:43,056 --> 00:53:45,325
+Si siguen sincronizados,
+y si quieren borrar
+
+884
+00:53:45,392 --> 00:53:47,828
+un mensaje vergonzoso
+no deseado en tu transcripción,
+
+885
+00:53:47,895 --> 00:53:50,931
+desaparece por completo,
+lo cual es genial.
+
+886
+00:53:51,365 --> 00:53:55,402
+Esto, por supuesto, nos permite optimizar
+tu capacidad de almacenamiento.
+
+887
+00:53:55,469 --> 00:53:58,305
+porque con tus mensajes en la nube,
+sólo hay que mantener
+
+888
+00:53:58,372 --> 00:54:00,474
+los mensajes más recientes
+en el dispositivo.
+
+889
+00:54:00,541 --> 00:54:03,043
+Eso ocasiona respaldos
+más pequeños y rápidos.
+
+890
+00:54:03,110 --> 00:54:05,879
+Está disponible para iOS y Mac.
+
+891
+00:54:06,213 --> 00:54:09,216
+Claro, tus mensajes permanecen
+cifrados de extremo a extremo.
+
+892
+00:54:09,716 --> 00:54:11,552
+El siguiente, Apple Pay.
+
+893
+00:54:11,618 --> 00:54:15,022
+Amamos usar Apple Pay
+para comprar cosas al por menor.
+
+894
+00:54:15,088 --> 00:54:17,558
+De hecho, Apple Pay es el número uno
+
+895
+00:54:17,624 --> 00:54:21,929
+en servicios de pagos a distancia
+en telefonía celular.
+
+896
+00:54:22,196 --> 00:54:23,964
+Para fin de año, estará disponible
+
+897
+00:54:24,031 --> 00:54:26,366
+en más del 50%
+de los vendedores pequeños
+
+898
+00:54:26,433 --> 00:54:27,568
+en Estados Unidos.
+
+899
+00:54:28,268 --> 00:54:29,102
+Sí.
+
+900
+00:54:31,471 --> 00:54:35,242
+Además de pagos al por menor,
+usamos Apple Pay en apps,
+
+901
+00:54:35,742 --> 00:54:39,913
+lo usamos en la Web y había
+una frontera final que faltaba conquistar,
+
+902
+00:54:40,447 --> 00:54:44,051
+y es en pagos
+de persona a persona con Apple Pay.
+
+903
+00:54:51,959 --> 00:54:55,762
+Es muy simple
+porque está integrado aquí mismo
+
+904
+00:54:55,829 --> 00:54:58,265
+a Messages como una app iMessage.
+
+905
+00:55:05,305 --> 00:55:08,141
+Puedes enviar y recibir dinero
+en tu transcripción.
+
+906
+00:55:08,208 --> 00:55:12,646
+Claro, cuando lo mandes,
+tu marca de seguridad con Touch ID.
+
+907
+00:55:13,313 --> 00:55:18,485
+Y si recibes dinero con iMessage,
+se va a tu tarjeta de pago Apple Pay.
+
+908
+00:55:18,719 --> 00:55:22,155
+Y de ahí, puedes enviar dinero
+a amigos y familia, si eres caritativo.
+
+909
+00:55:22,456 --> 00:55:26,560
+Puedes hacer pequeñas compras
+con Apple Pay en la Web,
+
+910
+00:55:26,627 --> 00:55:29,096
+puedes extraerlo
+y transferirlo a tu cuenta bancaria.
+
+911
+00:55:29,162 --> 00:55:33,200
+Está disponible en todos los dispositivos
+iOS y los Apple Watch.
+
+912
+00:55:34,368 --> 00:55:35,202
+Gracias.
+
+913
+00:55:39,907 --> 00:55:41,875
+Ahora le toca el turno a Siri.
+
+914
+00:55:41,942 --> 00:55:47,948
+Siri se usa en más de 375 millones
+de dispositivos al mes.
+
+915
+00:55:48,048 --> 00:55:52,252
+Es bastante enorme. Y está disponible
+en más idiomas y más países
+
+916
+00:55:52,319 --> 00:55:56,623
+que ningún otro asistente.
+Son 21 idiomas en 36 países.
+
+917
+00:55:56,890 --> 00:56:01,195
+Para iOS 11, desarrollamos
+una actualización de tu interfaz primaria.
+
+918
+00:56:01,261 --> 00:56:03,764
+que se conjunta con Siri,
+y esta es su voz.
+
+919
+00:56:04,565 --> 00:56:09,336
+Usamos mucho aprendizaje para crear,
+naturalmente, una voz expresiva para Siri,
+
+920
+00:56:09,403 --> 00:56:10,771
+y me gustaría que la escucharan
+
+921
+00:56:11,505 --> 00:56:16,143
+<i>Este es el pronóstico para los siguientes</i>
+<i>10 días. Soleado, soleado y soleado.</i>
+
+922
+00:56:16,410 --> 00:56:19,246
+Tres diferentes formas
+de decir "soleado". Muy poderoso.
+
+923
+00:56:19,413 --> 00:56:23,784
+Siri también tiene una voz masculina,
+y también suena fantástica.
+
+924
+00:56:24,218 --> 00:56:28,222
+<i>Me encanta el aprendizaje automático,</i>
+<i>porque soy automático... y aprendo.</i>
+
+925
+00:56:31,058 --> 00:56:35,529
+Siri tiene una gran y nueva
+interfaz visual y es capaz de darte
+
+926
+00:56:35,596 --> 00:56:38,765
+preguntas continuas y respuestas
+con sólo un toque.
+
+927
+00:56:38,832 --> 00:56:43,504
+Resultados múltiples cuando haces
+una consulta, es muy útil.
+
+928
+00:56:43,570 --> 00:56:48,375
+Siri tiene una nueva habilidad:
+traducción.
+
+929
+00:56:48,775 --> 00:56:50,544
+Pueden preguntar algo como:
+
+930
+00:56:50,611 --> 00:56:53,580
+¿Cómo dirías "¿cuáles son
+sus platillos más populares?"
+
+931
+00:56:53,647 --> 00:56:54,548
+en chino?
+
+932
+00:56:54,615 --> 00:56:55,649
+Y Siri puede decir:
+
+933
+00:56:59,119 --> 00:56:59,953
+Totalmente.
+
+934
+00:57:06,260 --> 00:57:09,897
+Inicialmente, la traducción soportará
+la de inglés a chino,
+
+935
+00:57:09,963 --> 00:57:12,599
+francés, alemán, italiano y español.
+
+936
+00:57:12,666 --> 00:57:16,303
+Y tendrá más combinaciones
+de idiomas en los siguientes meses.
+
+937
+00:57:16,570 --> 00:57:20,507
+Ahora, cuando usamos Siri
+para acceder a otras aplicaciones,
+
+938
+00:57:20,574 --> 00:57:26,113
+tenemos SiriKit y éste ahora
+puede hacer más en iOS 11.
+
+939
+00:57:26,180 --> 00:57:31,752
+Ahora puedes administrar tareas
+al usar Siri para hacerlas en OmniFocus,
+
+940
+00:57:31,818 --> 00:57:35,622
+Things 3, tomar notas en Evernote,
+movimientos bancarios en Citi Mobile,
+
+941
+00:57:35,689 --> 00:57:38,525
+o incluso tener un código QR en WeChat.
+
+942
+00:57:39,026 --> 00:57:42,629
+Siri no es sólo un asistente de voz.
+Porque con la inteligencia de Siri,
+
+943
+00:57:42,896 --> 00:57:46,767
+no sólo entiende tu voz,
+entiende el contexto.
+
+944
+00:57:46,934 --> 00:57:51,004
+Entiende tus intereses.
+Entiende cómo usas tu dispositivo.
+
+945
+00:57:51,905 --> 00:57:55,409
+Permite que entienda por fin
+qué quieres después.
+
+946
+00:57:55,709 --> 00:57:59,012
+Todos hemos experimentado
+cuando Siri puede ayudarnos a predecir
+
+947
+00:57:59,179 --> 00:58:03,784
+qué apps quisiéramos usar después,
+nos da una notificación de "despedida",
+
+948
+00:58:03,851 --> 00:58:08,622
+basado en nuestro calendario y ubicación,
+nos ayuda a responder mensajes de texto.
+
+949
+00:58:09,022 --> 00:58:13,794
+En iOS 11, Siri usa un dispositivo de
+aprendizaje para entender mejor los temas
+
+950
+00:58:13,861 --> 00:58:17,197
+que nos interesen,
+para que pueda sugerir temas
+
+951
+00:58:17,464 --> 00:58:20,033
+que quizá nos pueda interesar
+aprender en las noticias.
+
+952
+00:58:20,400 --> 00:58:22,669
+Puede ayudarnos a responder
+con nuestra ubicación
+
+953
+00:58:22,736 --> 00:58:25,739
+para llegar a un compromiso en Messages.
+
+954
+00:58:26,106 --> 00:58:28,542
+Incluso puede ayudarnos
+a programar una cita basada en algo
+
+955
+00:58:28,609 --> 00:58:31,044
+que hayamos reservado
+dentro de Safari en la Web.
+
+956
+00:58:31,278 --> 00:58:33,614
+Lo que Siri aprende en tu dispositivo
+
+957
+00:58:33,947 --> 00:58:38,485
+se mantiene en sincronía con todos
+tus dispositivos que usen Siri.
+
+958
+00:58:38,886 --> 00:58:43,524
+Claro, permanece privado, se puede leer
+sólo por ti y tus dispositivos.
+
+959
+00:58:50,564 --> 00:58:53,267
+Ahora hablemos de la cámara.
+
+960
+00:58:53,500 --> 00:58:58,238
+La gente adora las cámaras fantásticas
+en el iPhone 7 y 7 Plus.
+
+961
+00:58:58,572 --> 00:59:03,911
+De hecho, nuestros clientes ahora
+toman un trillón de fotos al año.
+
+962
+00:59:03,977 --> 00:59:05,279
+Es sumamente asombroso.
+
+963
+00:59:05,345 --> 00:59:09,883
+Y también toman video
+y hoy lo hacen en H.264.
+
+964
+00:59:09,950 --> 00:59:13,253
+Ahora, con los últimos iPhones con iOS 7,
+
+965
+00:59:14,054 --> 00:59:20,060
+están usando HEVC, y nos da
+una compresión dos veces mejor
+
+966
+00:59:20,260 --> 00:59:24,598
+para toma de videos, y es menos espacio
+de almacenamiento usado en tu dispositivo
+
+967
+00:59:24,965 --> 00:59:26,900
+y también en la nube.
+
+968
+00:59:27,100 --> 00:59:31,071
+Y estamos aplicando estas mismas técnicas
+para remplazar las capturas JPEG
+
+969
+00:59:31,338 --> 00:59:35,075
+con lo que llamamos HEIF,
+formato de imagen de alta eficiencia.
+
+970
+00:59:35,142 --> 00:59:39,746
+Está basado en HEVC y también nos provee
+de imágenes en calidad asombrosa
+
+971
+00:59:40,180 --> 00:59:42,916
+a la mitad de espacio en tu dispositivo.
+
+972
+00:59:49,723 --> 00:59:53,493
+Y claro, tiene compatibilidad
+total con otros.
+
+973
+00:59:53,994 --> 00:59:59,199
+Con el iPhone 7 Plus, nos encanta
+tomar estos hermosos portarretratos.
+
+974
+00:59:59,466 --> 01:00:05,439
+Y ahora, con iOS 11, podemos
+tomar fotografías con baja iluminación
+
+975
+01:00:05,672 --> 01:00:08,942
+usando la estabilización óptica
+de imagen, True Tone flash,
+
+976
+01:00:09,142 --> 01:00:14,581
+HDR nos da una calidad de imagen increíble
+y estamos tomando mucha información
+
+977
+01:00:14,648 --> 01:00:18,051
+que podemos capturar con dos cámaras
+y exponiéndola a los desarrolladores
+
+978
+01:00:18,318 --> 01:00:19,653
+con una nueva API,
+
+979
+01:00:19,720 --> 01:00:22,956
+que nos permite tomar fotos
+divertidas y artísticas
+
+980
+01:00:23,023 --> 01:00:27,160
+como esta, al usar API.
+
+981
+01:00:27,227 --> 01:00:28,829
+Cuando estás tomando fotos,
+
+982
+01:00:28,896 --> 01:00:31,899
+las disfrutas cuando vas a la app Photos,
+
+983
+01:00:31,965 --> 01:00:35,435
+y una de las formas en que las disfruto
+es con la característica "Memories".
+
+984
+01:00:35,502 --> 01:00:38,605
+porque Memories es capaz
+de checar mi librería
+
+985
+01:00:38,672 --> 01:00:42,042
+y encontrar cualquier evento divertido
+y ahora puede hacer más que eso.
+
+986
+01:00:42,109 --> 01:00:46,446
+Usa el aprendizaje automático para
+identificar cosas como eventos deportivos,
+
+987
+01:00:47,014 --> 01:00:50,884
+bodas, aniversarios,
+recuerdos de tus hijos.
+
+988
+01:00:50,951 --> 01:00:53,921
+Es grandioso.
+Y cuando los reproduces de nuevo,
+
+989
+01:00:54,354 --> 01:00:56,823
+puedes verlos, no sólo
+en la orientación panorámica,
+
+990
+01:00:56,890 --> 01:01:01,028
+sino verlos en portarretrato, sacando
+total ventaja de la altura de la pantalla.
+
+991
+01:01:01,795 --> 01:01:05,866
+Ahora cuando usamos Live Photos,
+también tenemos grandes mejoras.
+
+992
+01:01:06,099 --> 01:01:09,570
+Ahora puedes recortar tus Live Photos,
+el video alrededor de la toma.
+
+993
+01:01:09,636 --> 01:01:13,006
+Puedes marcar cualquier parte del video,
+como una foto clave, y mucho más.
+
+994
+01:01:13,707 --> 01:01:16,476
+Esas son las grandes características
+en iOS 11.
+
+995
+01:01:16,543 --> 01:01:21,281
+Hay otra que es un mayor rediseño
+del Centro de Control.
+
+996
+01:01:21,949 --> 01:01:24,751
+En lugar de mostrar diapositivas,
+¿qué tal una demo?
+
+997
+01:01:30,157 --> 01:01:34,494
+Muy bien. Echemos nuestro primer vistazo.
+No, no quiero hacer eso.
+
+998
+01:01:34,995 --> 01:01:39,466
+Echemos nuestro primer vistazo a iOS 11.
+
+999
+01:01:39,533 --> 01:01:41,802
+Voy a entrar al Centro de Control,
+como siempre,
+
+1000
+01:01:42,469 --> 01:01:46,206
+y notarán que el Centro de Control
+está ahora en una sola página.
+
+1001
+01:01:46,740 --> 01:01:49,643
+Tiene todas las características
+en una sola página.
+
+1002
+01:01:49,710 --> 01:01:53,046
+Por supuesto, tiene botones simples.
+Voy a hacer un bloqueo.
+
+1003
+01:01:53,313 --> 01:01:56,149
+Está hermosa la animación del bloqueo.
+
+1004
+01:01:56,450 --> 01:01:59,419
+Deslizadores disponibles,
+para poder ajustar el volumen así.
+
+1005
+01:01:59,586 --> 01:02:02,756
+Pero te provee de gran intensidad,
+porque con el Touch 3D...
+
+1006
+01:02:02,823 --> 01:02:06,527
+El Touch 3D lo deslizo así,
+me da acceso a más opciones.
+
+1007
+01:02:06,693 --> 01:02:10,597
+Esto nos permite organizar
+muchas capacidades muy fácilmente
+
+1008
+01:02:10,664 --> 01:02:13,300
+dentro del diseño.
+Tenemos nuestro control inalámbrico,
+
+1009
+01:02:13,367 --> 01:02:15,135
+podría dar un toque para el modo avión.
+
+1010
+01:02:15,202 --> 01:02:17,304
+Pero si uso la función 3D en la fuente,
+
+1011
+01:02:17,371 --> 01:02:19,940
+tengo acceso a más opciones.
+
+1012
+01:02:20,007 --> 01:02:22,242
+Es grandioso con la música
+
+1013
+01:02:22,309 --> 01:02:26,980
+porque puedes controlarla desde aquí,
+o acceder a más información.
+
+1014
+01:02:27,047 --> 01:02:30,584
+Es magnífico el nuevo Centro de Control,
+y creo que de verdad les va a encantar.
+
+1015
+01:02:34,488 --> 01:02:38,926
+También aprovechamos la oportunidad
+para rediseñar la pantalla de bloqueo
+
+1016
+01:02:38,992 --> 01:02:41,862
+y el Centro de Notificación,
+al hacerlos uno solo.
+
+1017
+01:02:41,962 --> 01:02:45,332
+Ahora, cuando estoy en la pantalla
+de bloqueo, si lo desbloqueo,
+
+1018
+01:02:47,134 --> 01:02:50,737
+justo así, en realidad puedo
+deslizarlo hacia abajo.
+
+1019
+01:02:50,804 --> 01:02:53,807
+De hecho estoy en mi pantalla
+de bloqueo viendo las notificaciones,
+
+1020
+01:02:54,074 --> 01:02:59,046
+pero puedo acceder a las demás simplemente
+deslizando hacia arriba, justo así.
+
+1021
+01:02:59,112 --> 01:03:02,916
+Es una grandiosa unificación,
+y claro, puedes acceder
+
+1022
+01:03:02,983 --> 01:03:05,886
+a tus widget a la izquierda,
+y a tu cámara a la derecha.
+
+1023
+01:03:06,353 --> 01:03:08,822
+Ahora, echemos un vistazo a Photos.
+
+1024
+01:03:09,122 --> 01:03:11,525
+Estos hermosos portarretratos,
+
+1025
+01:03:11,859 --> 01:03:15,462
+pero también estas grandiosas Live Photos,
+y también puede capturar una toma.
+
+1026
+01:03:15,529 --> 01:03:18,599
+Y luego una gran cantidad
+de video es capturada automáticamente.
+
+1027
+01:03:18,665 --> 01:03:22,002
+Y a veces la mejor toma
+no era la esperada. En fin,
+
+1028
+01:03:22,169 --> 01:03:25,339
+vamos al modo de edición,
+pero imprimimos este video si queremos,
+
+1029
+01:03:25,606 --> 01:03:31,545
+pero también podemos capturar sólo
+el cuadro que queremos como foto clave.
+
+1030
+01:03:37,284 --> 01:03:40,654
+Ahora, podemos hacer
+cosas divertidas con Live Photos.
+
+1031
+01:03:40,721 --> 01:03:44,725
+Aquí tenemos una toma increíble,
+esta chica mascando chicle.
+
+1032
+01:03:44,791 --> 01:03:48,529
+¿No sería genial si pudiera seguir
+con la burbuja de chicle?
+
+1033
+01:03:49,029 --> 01:03:52,299
+Bueno, ahora puede.
+De hecho usamos visión de computadora.
+
+1034
+01:03:52,366 --> 01:03:57,871
+para hacer un loop continuo alrededor
+de esta Live Photo. Es divertido.
+
+1035
+01:04:00,240 --> 01:04:03,944
+Tenemos otro efecto genial,
+un salto divertido a la piscina.
+
+1036
+01:04:05,412 --> 01:04:07,147
+¿No sería mejor si rebotara?
+
+1037
+01:04:10,484 --> 01:04:11,485
+Ahí está.
+
+1038
+01:04:14,087 --> 01:04:16,957
+Y de verdad, también
+podemos hacer cosas artísticas.
+
+1039
+01:04:17,024 --> 01:04:21,261
+Ven en esta foto, donde
+tenemos la toma de paisaje,
+
+1040
+01:04:21,328 --> 01:04:23,363
+pero está el movimiento del agua.
+
+1041
+01:04:23,430 --> 01:04:26,233
+Ahora, si quieren capturar
+este tipo de movimiento,
+
+1042
+01:04:26,300 --> 01:04:30,204
+normalmente tendrían que tener un tripié
+y descubrir cómo configurar
+
+1043
+01:04:30,270 --> 01:04:32,673
+una larga exposición en tu cámara de lujo.
+
+1044
+01:04:32,739 --> 01:04:36,210
+Pero ahora, puedes ir
+a los efectos de aquí,
+
+1045
+01:04:36,276 --> 01:04:41,048
+y seleccionar "larga exposición",
+y revisarla. Es hermosa.
+
+1046
+01:04:45,619 --> 01:04:48,021
+Ahora, demos un vistazo rápido
+a Memories porque,
+
+1047
+01:04:48,088 --> 01:04:51,692
+Memories puede capturar
+actividades como buceo,
+
+1048
+01:04:52,125 --> 01:04:54,228
+tus aniversarios,
+
+1049
+01:04:54,695 --> 01:04:58,332
+esos momentos conmovedores
+de tus hijos creciendo,
+
+1050
+01:04:58,532 --> 01:05:00,834
+y más importante, tus mascotas.
+
+1051
+01:05:01,668 --> 01:05:06,039
+Pongamos una película de mascotas.
+Lo que veremos
+
+1052
+01:05:07,741 --> 01:05:11,478
+es que la reproducimos, claro,
+normalmente en paisaje,
+
+1053
+01:05:11,545 --> 01:05:13,413
+una forma grandiosa de ver el video.
+
+1054
+01:05:13,981 --> 01:05:17,618
+Por supuesto, Memories usa la visión
+de computadora para identificar
+
+1055
+01:05:17,684 --> 01:05:20,387
+las fotos de tu mascota
+y elegir las mejores escenas.
+
+1056
+01:05:23,457 --> 01:05:26,760
+Lo que es genial es que también
+puedo girar así mi teléfono
+
+1057
+01:05:27,227 --> 01:05:31,565
+en portarretrato y automáticamente cambia
+de formato para sacar el máximo provecho
+
+1058
+01:05:32,099 --> 01:05:33,600
+de la altura de la pantalla.
+
+1059
+01:05:40,073 --> 01:05:42,009
+Fue un vistazo rápido a Memories.
+
+1060
+01:05:45,612 --> 01:05:48,615
+Con Memories, usamos
+el aprendizaje automático para ayudar
+
+1061
+01:05:48,682 --> 01:05:51,185
+a aprender más acerca de ti
+y tus intereses
+
+1062
+01:05:51,251 --> 01:05:52,619
+al ver tu librería de fotos.
+
+1063
+01:05:52,686 --> 01:05:55,856
+Pero ahora en iOS 11, Siri hace mucho más
+
+1064
+01:05:56,623 --> 01:05:59,159
+en aprender cómo usas tu dispositivo.
+
+1065
+01:05:59,226 --> 01:06:01,328
+Un ejemplo muy claro, si estoy en Safari,
+
+1066
+01:06:01,395 --> 01:06:05,232
+y estoy leyendo acerca de Islandia,
+quizá considere viajar allá,
+
+1067
+01:06:05,432 --> 01:06:08,836
+está Reikiavik, un lugar bonito.
+
+1068
+01:06:08,902 --> 01:06:12,573
+Siri, puede ubicar mi interés
+en mi dispositivo,
+
+1069
+01:06:12,639 --> 01:06:15,242
+y cuando voy, por ejemplo, a noticias,
+
+1070
+01:06:16,443 --> 01:06:19,780
+Siri automáticamente
+me manda una recomendación
+
+1071
+01:06:19,847 --> 01:06:22,182
+que quizá esté interesado
+en noticias de Islandia.
+
+1072
+01:06:22,416 --> 01:06:24,718
+Puedo tocar y darle un corazón así.
+
+1073
+01:06:24,952 --> 01:06:27,254
+Y si toco un artículo en particular,
+
+1074
+01:06:27,321 --> 01:06:30,123
+podemos ver que menciona
+ciertas localidades de Islandia.
+
+1075
+01:06:30,190 --> 01:06:32,059
+Creo que hay una llamada, "Snæfellsnes".
+
+1076
+01:06:32,125 --> 01:06:35,462
+Espero que lo haya pronunciado bien.
+
+1077
+01:06:35,929 --> 01:06:38,665
+Lo grandioso es que Siri
+está aprendiendo este vocabulario.
+
+1078
+01:06:38,732 --> 01:06:41,935
+Quizá sea algo
+que voy a usar en un futuro.
+
+1079
+01:06:42,236 --> 01:06:44,605
+Cuando voy a los mensajes
+y comienzo a teclear,
+
+1080
+01:06:44,671 --> 01:06:47,741
+y por ejemplo escribo "Reikiavik",
+echemos un vistazo.
+
+1081
+01:06:47,808 --> 01:06:52,279
+Aprende que "Reikiavik" es una palabra
+que quizá escriba. Y qué tal si...
+
+1082
+01:06:52,613 --> 01:06:55,048
+Ahí está. "Snæfellsnes".
+
+1083
+01:06:55,649 --> 01:06:56,583
+Es impresionante.
+
+1084
+01:06:59,853 --> 01:07:02,656
+Ahora, veamos los stickers
+porque se darán cuenta
+
+1085
+01:07:02,723 --> 01:07:06,493
+aquí al fondo de la pantalla,
+tenemos acceso a todos mis stickers.
+
+1086
+01:07:06,560 --> 01:07:09,429
+Puedo tocar en el fondo mi paquete
+de stickers de Star Wars.
+
+1087
+01:07:09,897 --> 01:07:12,533
+Puedo tocar y deslizarme,
+decir que selecciono música,
+
+1088
+01:07:12,866 --> 01:07:17,237
+y ahora tenemos Apple Pay,
+aquí como una Messages app.
+
+1089
+01:07:17,304 --> 01:07:22,543
+Lo que es genial es que, si recibo
+un mensaje, diciendo que debo dinero,
+
+1090
+01:07:22,609 --> 01:07:26,213
+notarán que el teclado de QuickType
+automáticamente arroja "Apple Pay"
+
+1091
+01:07:26,280 --> 01:07:29,917
+como una opción y arroja una cantidad
+que quizá quiera pagar.
+
+1092
+01:07:30,250 --> 01:07:34,888
+Puedo tocar el botón de pago,
+enviar, autentificar
+
+1093
+01:07:35,222 --> 01:07:37,457
+con mi huella dactilar y es todo.
+
+1094
+01:07:37,858 --> 01:07:43,030
+Pagué con Apple Pay.
+Es una rápida demostración de iOS 11.
+
+1095
+01:07:46,767 --> 01:07:48,635
+Pero esperen, aún hay más.
+
+1096
+01:07:49,002 --> 01:07:50,771
+Comenzamos con Maps.
+
+1097
+01:07:51,171 --> 01:07:54,541
+Ahora, en iOS 10,
+Maps tienen una nueva y hermosa claridad
+
+1098
+01:07:54,808 --> 01:07:59,146
+en navegación y ahora
+les damos información reforzada
+
+1099
+01:07:59,213 --> 01:08:01,381
+en caso de que vayan al centro comercial.
+
+1100
+01:08:01,448 --> 01:08:04,384
+Tenemos planos detallados de los pisos
+
+1101
+01:08:04,484 --> 01:08:08,689
+del centro comercial con tarjetas,
+directorio y buscador.
+
+1102
+01:08:08,755 --> 01:08:11,191
+Y te deja buscar por piso.
+
+1103
+01:08:11,258 --> 01:08:15,095
+Vamos a apoyar a los centros comerciales
+en estas ciudades en primer lugar,
+
+1104
+01:08:15,162 --> 01:08:17,663
+y después, cientos más por mes.
+
+1105
+01:08:18,031 --> 01:08:21,268
+También vamos a dar
+mayor apoyo a los aeropuertos.
+
+1106
+01:08:21,335 --> 01:08:23,904
+Pueden ver dónde está
+la seguridad y puedan planear...
+
+1107
+01:08:28,675 --> 01:08:32,246
+Apoyaremos a estos aeropuertos,
+para empezar, y de nuevo,
+
+1108
+01:08:32,312 --> 01:08:36,483
+construiremos más conforme pase el tiempo.
+Claro, tenemos mejoras en la navegación.
+
+1109
+01:08:36,750 --> 01:08:39,586
+En la parte superior izquierda,
+ven el límite de velocidad,
+
+1110
+01:08:39,653 --> 01:08:43,457
+espero que pongan atención,
+y la guía de carriles.
+
+1111
+01:08:43,524 --> 01:08:46,693
+Y saben qué carril tomar
+para asegurar su siguiente movimiento.
+
+1112
+01:08:50,029 --> 01:08:53,367
+Ahora que sabemos lo de navegación,
+a veces a la gente le gusta hacer más
+
+1113
+01:08:53,433 --> 01:08:55,301
+con sus teléfonos cuando manejan.
+
+1114
+01:08:55,368 --> 01:08:58,971
+Y nuestra solución más segura es CarPlay.
+
+1115
+01:08:59,038 --> 01:09:01,774
+Mantendrán sus ojos en el camino
+mientras hacen cosas
+
+1116
+01:09:01,841 --> 01:09:03,911
+como pedirle a Siri que ponga música.
+
+1117
+01:09:04,278 --> 01:09:08,015
+Queríamos que todos tuvieran
+el mismo nivel de seguridad,
+
+1118
+01:09:08,148 --> 01:09:11,318
+todos quienes no tengan
+uno de los 200 modelos de automóviles
+
+1119
+01:09:11,417 --> 01:09:12,986
+compatibles con CarPlay.
+
+1120
+01:09:13,420 --> 01:09:16,924
+A Do Not Disturb le agregamos
+una nueva función llamada:
+
+1121
+01:09:17,724 --> 01:09:19,193
+"No interrumpir al manejar",
+
+1122
+01:09:20,027 --> 01:09:22,296
+Todo se trata de mantener
+sus ojos en el camino.
+
+1123
+01:09:22,362 --> 01:09:25,165
+Cuando manejen,
+no tienen por qué contestar
+
+1124
+01:09:25,432 --> 01:09:27,401
+a este tipo de mensajes.
+
+1125
+01:09:27,466 --> 01:09:28,836
+No necesitan ni verlos.
+
+1126
+01:09:29,703 --> 01:09:35,442
+Cuando instalen iOS 11,
+se usará el Bluetooth para saber
+
+1127
+01:09:35,509 --> 01:09:37,010
+si están conectados a un auto.
+
+1128
+01:09:37,077 --> 01:09:38,278
+Aun si no tienen Bluetooth,
+
+1129
+01:09:38,645 --> 01:09:43,050
+se usará el efecto Doppler vía wi-fi
+y sabremos si están en uno
+
+1130
+01:09:43,250 --> 01:09:45,385
+y cuando se detengan,
+se les sugerirá:
+
+1131
+01:09:45,551 --> 01:09:47,955
+"Oye, ¿y si activamos
+"No interrumpir al manejar"?
+
+1132
+01:09:48,388 --> 01:09:51,725
+Al activarse, en vez de recibir
+todas esas notificaciones,
+
+1133
+01:09:51,992 --> 01:09:53,861
+les tenemos esta nueva interfaz.
+
+1134
+01:10:03,403 --> 01:10:06,373
+Ahora, si les gana la tentación
+e intentan prender el teléfono,
+
+1135
+01:10:06,573 --> 01:10:08,108
+esto es lo que recibirán.
+
+1136
+01:10:08,275 --> 01:10:09,276
+Un recordatorio
+
+1137
+01:10:09,476 --> 01:10:11,578
+de que no reciben
+notificaciones al manejar.
+
+1138
+01:10:11,645 --> 01:10:13,947
+Pero, claro, tal vez estén
+en el asiento trasero
+
+1139
+01:10:14,248 --> 01:10:17,050
+en tal caso, pueden seleccionar
+"No conduzco", y evitarlo.
+
+1140
+01:10:17,117 --> 01:10:19,553
+¿Y si están manejando
+y les envían un mensaje?
+
+1141
+01:10:20,220 --> 01:10:22,422
+Ahora pueden recibir
+una respuesta automática
+
+1142
+01:10:22,489 --> 01:10:25,058
+que diga: "Veré tu mensaje
+cuando llegue a mi destino."
+
+1143
+01:10:25,392 --> 01:10:28,629
+Y también pueden seleccionar
+de quién sí pueden recibir mensajes,
+
+1144
+01:10:28,695 --> 01:10:30,864
+en caso de emergencia,
+sabrán que pueden
+
+1145
+01:10:30,931 --> 01:10:33,367
+localizarlos si ellos dicen
+que es una emergencia,
+
+1146
+01:10:33,433 --> 01:10:35,068
+así podrán recibir el mensaje.
+
+1147
+01:10:35,302 --> 01:10:37,371
+Creemos que será
+un avance muy importante
+
+1148
+01:10:37,604 --> 01:10:38,605
+en la seguridad vial.
+
+1149
+01:10:45,746 --> 01:10:47,247
+a continuación, HomeKit.
+
+1150
+01:10:47,648 --> 01:10:51,552
+HomeKit brinda una oportunidad
+segura y privada
+
+1151
+01:10:51,752 --> 01:10:55,656
+de automatizar todos los dispositivos
+que se encuentren en su casa
+
+1152
+01:10:55,956 --> 01:10:58,158
+y pueden hacerlo justo
+en Home app,
+
+1153
+01:10:58,225 --> 01:11:01,028
+y controlarlos desde ahí,
+además de usar su voz con Siri.
+
+1154
+01:11:01,595 --> 01:11:05,832
+Casi todos los fabricantes de renombre
+crean increíbles accesorios HomeKit
+
+1155
+01:11:05,899 --> 01:11:08,202
+de todas estas categorías,
+
+1156
+01:11:08,268 --> 01:11:11,939
+desde cámaras de seguridad y cerrojos
+hasta luces y ventiladores.
+
+1157
+01:11:12,573 --> 01:11:15,142
+Pero hay una categoría,
+que llevamos en el corazón,
+
+1158
+01:11:15,209 --> 01:11:16,844
+que queremos agregar a HomeKit,
+
+1159
+01:11:17,744 --> 01:11:19,213
+y es la de Bocinas.
+
+1160
+01:11:23,350 --> 01:11:26,253
+Ahora podrán configurar
+sus bocinas desde HomeKit
+
+1161
+01:11:27,187 --> 01:11:30,591
+y podrán acceder a ellas
+con nuestro nuevo protocolo AirPlay 2.
+
+1162
+01:11:30,991 --> 01:11:35,095
+Crea un audio multiroom
+en todo el iOS.
+
+1163
+01:11:40,267 --> 01:11:43,570
+Pueden poner música y seleccionar bocinas
+que estén en toda su casa
+
+1164
+01:11:43,871 --> 01:11:45,138
+justo desde Music app,
+
+1165
+01:11:45,405 --> 01:11:48,475
+y en Apple Music habrá la función
+de "Siguiente en compartir".
+
+1166
+01:11:48,542 --> 01:11:50,911
+Si los visita un amigo
+y escuchan una playlist,
+
+1167
+01:11:51,345 --> 01:11:53,447
+tal vez su amigo quiera colaborar
+en esa lista.
+
+1168
+01:11:53,614 --> 01:11:56,083
+Podrán hacerlo
+sin interrumpir la música.
+
+1169
+01:11:56,149 --> 01:11:58,352
+Todos podrán poner música
+en la fiesta.
+
+1170
+01:11:59,019 --> 01:12:04,391
+Todos los fabricantes de bocinas
+anunciaron compatibilidad con AirPlay 2.
+
+1171
+01:12:04,591 --> 01:12:08,929
+Claro que muchos ya contamos
+con bocinas compatibles con AirPlay 2,
+
+1172
+01:12:08,996 --> 01:12:11,431
+y son las que están conectadas
+a nuestra Apple TV.
+
+1173
+01:12:11,798 --> 01:12:14,801
+Ahora, Apple TV
+también puede reproducirse
+
+1174
+01:12:14,868 --> 01:12:18,372
+desde su iPhone o dispositivo iOS
+y Mac en cualquier parte de su casa.
+
+1175
+01:12:18,639 --> 01:12:20,807
+Y, claro, si encienden su Apple TV,
+
+1176
+01:12:20,874 --> 01:12:25,946
+podrán controlar desde toda la casa
+Playback, incluyendo el uso de Siri.
+
+1177
+01:12:26,413 --> 01:12:28,916
+Además, se incluye
+un maravilloso developer API,
+
+1178
+01:12:28,982 --> 01:12:33,487
+para que las apps en iOS de terceros
+pueda incluirse en la diversión.
+
+1179
+01:12:34,354 --> 01:12:36,123
+Lo siguiente es Apple Music.
+
+1180
+01:12:36,957 --> 01:12:41,161
+El otoño pasado, introducimos
+un Apple Music todo rediseñado
+
+1181
+01:12:41,228 --> 01:12:43,630
+que era mucho más claro y simple
+
+1182
+01:12:43,697 --> 01:12:45,265
+con la experiencia Apple Music.
+
+1183
+01:12:46,400 --> 01:12:49,703
+Contamos con 27 millones de clientes
+que realmente disfrutan
+
+1184
+01:12:49,770 --> 01:12:53,674
+la restauración, así como
+la personalización de Apple Music,
+
+1185
+01:12:53,907 --> 01:12:55,542
+y la mejor forma
+de descubrir música
+
+1186
+01:12:55,609 --> 01:12:58,645
+es preguntando a nuestros amigos:
+"¿Has escuchado algo nuevo?"
+
+1187
+01:12:59,346 --> 01:13:02,449
+Ahora, en Apple Music,
+lo podrán saber
+
+1188
+01:13:02,649 --> 01:13:04,618
+justo desde la aplicación.
+
+1189
+01:13:09,223 --> 01:13:11,358
+Donde se despliega
+toda la música en "For You",
+
+1190
+01:13:11,425 --> 01:13:14,728
+verán la música
+que sus amigos escuchan.
+
+1191
+01:13:15,162 --> 01:13:19,233
+Podrán configurar su perfil,
+si desean que sea público o privado,
+
+1192
+01:13:19,299 --> 01:13:22,135
+y controlar cuál Lista comparten
+o si comparten toda su música,
+
+1193
+01:13:22,202 --> 01:13:24,037
+o si la quieren disponible para otros.
+
+1194
+01:13:24,505 --> 01:13:28,742
+Para los desarrolladores, tenemos
+un nuevo API MusicKit para Apple Music.
+
+1195
+01:13:29,343 --> 01:13:33,280
+Éste permite acceso completo
+al servicio de Apple Music,
+
+1196
+01:13:33,347 --> 01:13:35,415
+disponible en el dispositivo
+y desde la Nube,
+
+1197
+01:13:36,183 --> 01:13:37,985
+y podrán crear muchas cosas con esto.
+
+1198
+01:13:38,085 --> 01:13:40,888
+Nike ha creado playlists magníficas
+para ejercicio
+
+1199
+01:13:40,954 --> 01:13:42,689
+a partir del catálogo de Apple Music.
+
+1200
+01:13:43,023 --> 01:13:46,894
+Con Anchor, cualquiera puede ser un DJ
+al usar las 40 millones de canciones
+
+1201
+01:13:47,127 --> 01:13:52,232
+y Shazam agrega automáticamente
+canciones similares a las de tu colección.
+
+1202
+01:13:52,866 --> 01:13:58,872
+Una de las mejores historias hoy
+para iOS 11 es sobre App Store.
+
+1203
+01:14:00,307 --> 01:14:03,610
+Y, para compartir las grandes noticias
+sobre App Store,
+
+1204
+01:14:03,744 --> 01:14:07,147
+me gustaría llamar a Phil Schiller.
+Gracias.
+
+1205
+01:14:10,751 --> 01:14:11,752
+Gracias, Craig.
+
+1206
+01:14:14,755 --> 01:14:15,689
+Buenos días a todos.
+
+1207
+01:14:16,823 --> 01:14:18,225
+Oigamos a los de allá atrás.
+
+1208
+01:14:18,292 --> 01:14:19,660
+Vamos.
+Buenos días a todos.
+
+1209
+01:14:20,794 --> 01:14:21,795
+Sí.
+
+1210
+01:14:23,931 --> 01:14:28,302
+Estoy muy emocionado de poder hablarles
+esta mañana sobre App Store.
+
+1211
+01:14:28,669 --> 01:14:32,272
+App Store cumple nueve años
+y todo marcha muy bien.
+
+1212
+01:14:33,373 --> 01:14:37,911
+Por semana, App Store recibe
+500 millones de visitantes
+
+1213
+01:14:38,145 --> 01:14:41,849
+que miran sus maravillosas aplicaciones
+y las descargan.
+
+1214
+01:14:41,915 --> 01:14:47,387
+Hasta ahora, han descargado
+más de 180 mil millones de aplicaciones.
+
+1215
+01:14:47,821 --> 01:14:52,826
+Es increíble. Sin incluir las descargas
+repetidas ni las actualizaciones.
+
+1216
+01:14:53,160 --> 01:14:54,161
+Sorprendente.
+
+1217
+01:14:54,561 --> 01:15:00,167
+Recientemente pasamos los $70 mil millones
+de dólares pagados a los desarrolladores.
+
+1218
+01:15:04,638 --> 01:15:07,374
+Tan solo el 30% de eso
+el último año.
+
+1219
+01:15:08,475 --> 01:15:11,311
+Las aplicaciones son increíbles
+y los clientes hacen cosas
+
+1220
+01:15:11,378 --> 01:15:14,515
+que ninguno de nosotros imaginó,
+como esto.
+
+1221
+01:15:15,182 --> 01:15:18,685
+Esta es gente en Hong Kong
+jugando Pokémon Go.
+
+1222
+01:15:21,421 --> 01:15:24,458
+Pokémon Go es de Niantic.
+Una empresa muy popular del año pasado.
+
+1223
+01:15:24,525 --> 01:15:25,926
+Y hubo bastantes
+el año pasado,
+
+1224
+01:15:25,993 --> 01:15:28,028
+de empresas y desarrolladores.
+
+1225
+01:15:28,495 --> 01:15:30,664
+Y juntos, los desarrolladores en Apple,
+
+1226
+01:15:31,031 --> 01:15:33,800
+podemos llegar a ser
+el mejor apelativo del mundo.
+
+1227
+01:15:34,001 --> 01:15:35,135
+Así que, muchas gracias.
+
+1228
+01:15:38,772 --> 01:15:42,042
+Sí, gracias por las increíbles
+aplicaciones que realizan, que nosotros
+
+1229
+01:15:42,109 --> 01:15:43,810
+y nuestros clientes amamos.
+
+1230
+01:15:44,311 --> 01:15:47,481
+No es casualidad que App Store
+sea tan maravilloso lugar.
+
+1231
+01:15:47,714 --> 01:15:50,417
+Desde el inicio,
+tuvimos dos metas importantes:
+
+1232
+01:15:50,751 --> 01:15:54,388
+hacer de App Store un lugar
+de confianza y seguro para los usuarios,
+
+1233
+01:15:54,621 --> 01:15:58,158
+y que fuera una gran oportunidad
+para todos los desarrolladores.
+
+1234
+01:15:58,458 --> 01:16:00,527
+Continuamos trabajando
+arduamente en eso.
+
+1235
+01:16:00,827 --> 01:16:03,297
+El año pasado,
+nuestro equipo realizó grandes cosas,
+
+1236
+01:16:03,363 --> 01:16:06,600
+para que App Store fuera
+una mejor tienda para todos nosotros.
+
+1237
+01:16:06,934 --> 01:16:08,368
+Podríamos decir muchas cosas,
+
+1238
+01:16:08,435 --> 01:16:10,737
+pero creo que una sobresale del resto,
+
+1239
+01:16:11,071 --> 01:16:13,006
+menor tiempo para revisar aplicaciones.
+
+1240
+01:16:17,377 --> 01:16:18,812
+Sé que están muy conscientes
+
+1241
+01:16:18,946 --> 01:16:22,449
+de que la mayoría de las aplicaciones
+son revisadas en menos de 24 horas,
+
+1242
+01:16:22,616 --> 01:16:24,418
+muchas en una o dos horas.
+
+1243
+01:16:24,651 --> 01:16:26,453
+Nuestro equipo se esforzará en ello.
+
+1244
+01:16:26,887 --> 01:16:29,823
+Hay mucho más por venir
+para el resto del año.
+
+1245
+01:16:29,890 --> 01:16:31,692
+Seleccioné varias características.
+
+1246
+01:16:31,925 --> 01:16:33,360
+Tan solo señalaré una de ellas.
+
+1247
+01:16:33,594 --> 01:16:35,395
+Pueden leer alguna de sus favoritas.
+
+1248
+01:16:35,462 --> 01:16:38,866
+Una petición muy solicitada
+se llama "lanzamiento progresivo",
+
+1249
+01:16:39,132 --> 01:16:40,267
+y cuando... sí.
+
+1250
+01:16:40,767 --> 01:16:42,469
+Vivan los lanzamientos progresivos.
+
+1251
+01:16:42,736 --> 01:16:45,939
+Lanzamiento progresivo significa
+que al mandar una aplicación,
+
+1252
+01:16:46,006 --> 01:16:48,942
+pueden elegir si quieres
+que sea un lanzamiento gradual,
+
+1253
+01:16:49,142 --> 01:16:51,311
+para no lastimar su infraestructura
+de un golpe
+
+1254
+01:16:51,445 --> 01:16:54,281
+y puedan ver la respuesta del cliente
+a esa actualización.
+
+1255
+01:16:54,515 --> 01:16:57,084
+Es una función fabulosa
+de la que pueden sacar provecho.
+
+1256
+01:16:57,651 --> 01:16:59,052
+Llegan muchas cosas este año,
+
+1257
+01:16:59,152 --> 01:17:03,357
+pero hay una
+que es especialmente gigantesca,
+
+1258
+01:17:03,924 --> 01:17:05,158
+y por ello haremos algo
+
+1259
+01:17:05,225 --> 01:17:07,694
+que no habíamos hecho
+en los nueve años de App Store.
+
+1260
+01:17:08,095 --> 01:17:10,230
+Vamos a rediseñarla por completo.
+
+1261
+01:17:10,764 --> 01:17:12,699
+Una App Store totalmente nueva.
+
+1262
+01:17:13,967 --> 01:17:16,203
+Y es sumamente hermosa.
+
+1263
+01:17:20,007 --> 01:17:24,178
+App Store abre con una pestaña nueva
+que se llama Hoy.
+
+1264
+01:17:24,811 --> 01:17:28,282
+¿Recuerdan la primera vez
+que comenzaron a descargar aplicaciones,
+
+1265
+01:17:28,515 --> 01:17:29,783
+cuando usaban App Store
+
+1266
+01:17:29,950 --> 01:17:32,186
+y era divertido entrar cada día
+
+1267
+01:17:32,286 --> 01:17:34,855
+y descubrir
+las nuevas aplicaciones que aparecían?
+
+1268
+01:17:35,055 --> 01:17:36,557
+Es un sentimiento sin igual.
+
+1269
+01:17:37,024 --> 01:17:41,195
+Traeremos eso de vuelta
+con esta nueva pestaña llamada Hoy.
+
+1270
+01:17:41,428 --> 01:17:43,630
+Una nueva forma
+de descubrir aplicaciones.
+
+1271
+01:17:43,697 --> 01:17:46,767
+Un lugar para mostrar
+las aplicaciones que amamos
+
+1272
+01:17:46,834 --> 01:17:49,803
+y mostrar las historias
+de los desarrolladores que las crearon.
+
+1273
+01:17:50,304 --> 01:17:52,239
+Será un gran lugar
+para que los clientes
+
+1274
+01:17:52,306 --> 01:17:55,008
+descubran sus aplicaciones
+todos los días.
+
+1275
+01:17:55,876 --> 01:17:58,111
+Hay una pestaña nueva, Juegos.
+
+1276
+01:17:58,445 --> 01:18:01,548
+La sección más grande de App Store
+ya tiene un lugar solo para ella.
+
+1277
+01:18:01,615 --> 01:18:03,450
+Así que todos los que amamos jugar
+
+1278
+01:18:03,517 --> 01:18:05,719
+y encontrar los mejores juegos del día,
+
+1279
+01:18:06,019 --> 01:18:09,056
+y ver el ranking de los juegos,
+deben de visitar este sitio
+
+1280
+01:18:09,256 --> 01:18:11,425
+para saber todo lo que sucede
+con los juegos.
+
+1281
+01:18:11,625 --> 01:18:14,428
+No podemos encontrar
+los mejores juegos en App Store
+
+1282
+01:18:14,494 --> 01:18:16,697
+también pueden destacarse
+en las ventas.
+
+1283
+01:18:17,030 --> 01:18:19,900
+Gran parte de sus ganancias
+se encuentran en la App Store,
+
+1284
+01:18:19,967 --> 01:18:23,604
+la próxima vez que tengan
+un nuevo nivel, un nuevo personaje,
+
+1285
+01:18:23,770 --> 01:18:25,772
+los clientes podrán verlos
+en la App Store,
+
+1286
+01:18:25,939 --> 01:18:28,575
+y seleccionarlos para hacer la compra,
+de inmediato.
+
+1287
+01:18:29,443 --> 01:18:33,113
+Como los juegos tienen su propia pestaña,
+las aplicaciones también la tienen.
+
+1288
+01:18:33,313 --> 01:18:36,416
+Esto es todo lo que amamos
+de las aplicaciones, además de los juegos,
+
+1289
+01:18:36,517 --> 01:18:40,587
+con características especiales y rankings,
+para que los clientes lo disfruten
+
+1290
+01:18:42,122 --> 01:18:45,659
+Y cada aplicación y juego
+tienen su página descriptiva en la tienda.
+
+1291
+01:18:45,959 --> 01:18:49,730
+Son más hermosas que nunca,
+más interesante, con videos increíbles.
+
+1292
+01:18:49,997 --> 01:18:52,666
+Amarán las características
+de la página de su producto.
+
+1293
+01:18:52,933 --> 01:18:54,701
+Y también las pláticas aquí, en la WWDC
+
+1294
+01:18:54,935 --> 01:18:58,672
+para aprender a sacar ventaja
+de las características de estas páginas.
+
+1295
+01:18:59,806 --> 01:19:02,376
+Estas son algunas características
+de la nueva App Store,
+
+1296
+01:19:02,442 --> 01:19:06,113
+la nueva pestaña de Hoy, la de Juegos,
+la de Aplicaciones,
+
+1297
+01:19:06,446 --> 01:19:09,116
+y nos gustaría mostrárselas en vivo
+por primera vez.
+
+1298
+01:19:09,449 --> 01:19:12,519
+Den la bienvenida
+a la Gerente de contrapublicidad.
+
+1299
+01:19:12,786 --> 01:19:14,454
+Desde App Store al podio, Ann.
+
+1300
+01:19:18,725 --> 01:19:22,930
+Gracias, Phil. Estoy muy emocionada
+de mostrarles la nueva App Store,
+
+1301
+01:19:22,996 --> 01:19:24,031
+así que veámosla.
+
+1302
+01:19:25,899 --> 01:19:29,703
+Abriré la tienda
+y llego directamente a la pestaña de Hoy,
+
+1303
+01:19:30,103 --> 01:19:33,407
+la nueva página de inicio de App Store
+que se actualiza diariamente.
+
+1304
+01:19:34,241 --> 01:19:36,543
+Lo primero que se ve
+es la noticia más popular,
+
+1305
+01:19:37,077 --> 01:19:41,949
+¡el lanzamiento mundial
+de Monument Valley 2 ya es realidad!
+
+1306
+01:19:46,553 --> 01:19:48,555
+Seleccionemos la tarjeta
+para poder verla.
+
+1307
+01:19:49,990 --> 01:19:52,993
+Se abre un escrito
+que nos muestra más sobre el juego
+
+1308
+01:19:53,060 --> 01:19:54,394
+y porqué es tan genial.
+
+1309
+01:19:55,028 --> 01:19:57,998
+Parece ser que será más hermoso
+que la primera parte.
+
+1310
+01:19:59,700 --> 01:20:02,603
+Puedo ver videos que me mostrarán
+cómo será el formato del juego.
+
+1311
+01:20:04,505 --> 01:20:08,842
+Y encontramos una cita de Dan Gray
+de Ustwo Games sobre su inspiración.
+
+1312
+01:20:10,611 --> 01:20:12,379
+Puedo compartirla con un amigo
+
+1313
+01:20:12,779 --> 01:20:16,450
+y lo increíble es que podemos descargarlo
+el día de hoy,
+
+1314
+01:20:16,650 --> 01:20:17,885
+solo por App Store.
+
+1315
+01:20:22,689 --> 01:20:24,491
+Veamos qué otras noticias
+tenemos hoy.
+
+1316
+01:20:27,828 --> 01:20:31,164
+¿qué hay por aquí?
+Una guía sobre VSCO.
+
+1317
+01:20:31,532 --> 01:20:33,700
+Uso esta aplicación todo el tiempo.
+Veámosla.
+
+1318
+01:20:35,135 --> 01:20:37,571
+Es una guía de recomendaciones
+muy útiles,
+
+1319
+01:20:37,938 --> 01:20:41,475
+aún si ya tienen una aplicación,
+tal vez podrían aprender algo nuevo.
+
+1320
+01:20:41,808 --> 01:20:46,246
+Por ejemplo, no sabía que se podían hacer
+GIFs animados o JIFs.
+
+1321
+01:20:48,949 --> 01:20:50,584
+Bueno, se pueden hacer.
+
+1322
+01:20:51,385 --> 01:20:55,255
+Con solo regresar arriba
+y jalar la tarjeta, regreso al menú.
+
+1323
+01:20:56,590 --> 01:21:00,994
+Todos los días hay una aplicación del día
+y un juego del día
+
+1324
+01:21:02,196 --> 01:21:03,197
+y una lista diaria.
+
+1325
+01:21:03,730 --> 01:21:06,600
+Son geniales porque se organizan
+en un tema o meta,
+
+1326
+01:21:06,667 --> 01:21:07,901
+como la meditación.
+
+1327
+01:21:08,735 --> 01:21:11,672
+De hecho la he intentado
+para prepararme para hoy.
+
+1328
+01:21:11,805 --> 01:21:15,809
+Y funciona de maravilla.
+
+1329
+01:21:17,811 --> 01:21:19,179
+Si llego a perdérmelo un día,
+
+1330
+01:21:19,246 --> 01:21:22,449
+puedo bajar la pantalla
+y ver el historial de la semana.
+
+1331
+01:21:23,116 --> 01:21:24,318
+Esta es la pestaña de Hoy.
+
+1332
+01:21:25,285 --> 01:21:29,823
+Si solo quiero ver juegos,
+voy a la pestaña de los juegos nuevos.
+
+1333
+01:21:30,090 --> 01:21:31,825
+Es gigantesco.
+Veámoslo.
+
+1334
+01:21:32,593 --> 01:21:34,962
+En la parte superior están
+los mejores lanzamientos
+
+1335
+01:21:35,329 --> 01:21:38,065
+o lo que están jugando
+los editores el juego esa semana.
+
+1336
+01:21:38,699 --> 01:21:42,302
+Si bajo, puedo ver muchos videos.
+
+1337
+01:21:43,370 --> 01:21:48,208
+No solo avances, también recomendaciones
+y videos hechos por los editores.
+
+1338
+01:21:49,109 --> 01:21:52,946
+Si bajo, puedo ver los rankings
+de los juegos más populares
+
+1339
+01:21:53,146 --> 01:21:56,250
+así que es muy fácil saber
+cuáles son además
+
+1340
+01:21:56,416 --> 01:21:57,651
+de las aplicaciones.
+
+1341
+01:21:59,019 --> 01:22:01,788
+También puedo navegar
+por categorías también.
+
+1342
+01:22:03,156 --> 01:22:05,893
+Esta página está llena
+de recomendaciones.
+
+1343
+01:22:06,260 --> 01:22:08,562
+Este juego artístico se ve divertido.
+Veámoslo.
+
+1344
+01:22:08,862 --> 01:22:13,534
+Seleccionaré el ícono
+y me dirige a una página rediseñada.
+
+1345
+01:22:13,634 --> 01:22:16,003
+Es más hermosa y útil.
+
+1346
+01:22:16,503 --> 01:22:19,573
+Puedo ver más videos
+que muestran lo divertido que es.
+
+1347
+01:22:20,140 --> 01:22:23,777
+La placa en la parte superior muestra
+que fue parte de la selección del editor.
+
+1348
+01:22:24,578 --> 01:22:27,981
+Si bajo,
+puedo ver calificaciones y reseñas
+
+1349
+01:22:28,348 --> 01:22:32,753
+para saber qué piensan otros clientes
+y así decidir, por ejemplo, esta reseña.
+
+1350
+01:22:33,287 --> 01:22:35,822
+Dice que el juego es genial
+para matar el tiempo.
+
+1351
+01:22:36,356 --> 01:22:38,592
+Gracias, FuriousPotatoFace.
+
+1352
+01:22:40,861 --> 01:22:44,731
+Para las nuevas fabulosas aplicaciones
+también hay una pestaña.
+
+1353
+01:22:44,965 --> 01:22:45,866
+Veamos.
+
+1354
+01:22:46,633 --> 01:22:49,803
+Tiene el mismo genial diseño
+que la de los juegos
+
+1355
+01:22:49,903 --> 01:22:52,105
+pero se enfoca en las aplicaciones.
+
+1356
+01:22:53,473 --> 01:22:56,376
+Este fue el primer día
+de la nueva App Store.
+
+1357
+01:22:56,777 --> 01:23:00,380
+Ahora pueden ver porqué
+estamos emocionados por este hermoso lugar
+
+1358
+01:23:00,781 --> 01:23:03,016
+para compartir aplicaciones
+y juegos que amamos.
+
+1359
+01:23:03,383 --> 01:23:04,384
+Vamos contigo, Phil.
+
+1360
+01:23:09,590 --> 01:23:10,591
+Gracias, Ann.
+
+1361
+01:23:11,458 --> 01:23:14,428
+Ese fue un vistazo
+a la totalmente nueva App Store.
+
+1362
+01:23:14,494 --> 01:23:16,830
+Esperemos les haya gustado,
+que los clientes la amen
+
+1363
+01:23:17,130 --> 01:23:20,167
+y la visiten diario
+para descargar sus fabulosas aplicaciones.
+
+1364
+01:23:21,435 --> 01:23:23,670
+Es todo de la App Store.
+De vuelta contigo, Craig.
+
+1365
+01:23:26,440 --> 01:23:27,508
+Gracias, Phil.
+
+1366
+01:23:28,375 --> 01:23:30,677
+La App Store luce magnífica.
+
+1367
+01:23:30,844 --> 01:23:35,249
+Esas son algunas de las funciones
+en iOS 11,
+
+1368
+01:23:35,315 --> 01:23:37,551
+y claro que tenemos
+tecnología central.
+
+1369
+01:23:37,651 --> 01:23:41,655
+Tanto Metal 2 como HEVC
+estarán en el iOS también.
+
+1370
+01:23:42,556 --> 01:23:46,126
+Pero hay más y comienza
+con aprendizaje automático.
+
+1371
+01:23:46,860 --> 01:23:49,963
+Han visto cómo usamos
+el aprendizaje automático
+
+1372
+01:23:50,030 --> 01:23:53,467
+basados en la experiencia
+de Apple Watch, por ejemplo,
+
+1373
+01:23:53,534 --> 01:23:55,502
+y el profético Siri Watch Face.
+
+1374
+01:23:56,503 --> 01:24:01,175
+Usamos <i>palm rejection</i> en el iPad
+al escribir con Apple Pencil.
+
+1375
+01:24:02,476 --> 01:24:05,379
+La usamos para extender
+la vida de la batería
+
+1376
+01:24:05,445 --> 01:24:07,581
+al predecir cómo usarán
+su dispositivo.
+
+1377
+01:24:08,415 --> 01:24:12,920
+Y lo ha visto en los recuerdos en Fotos
+y en el reconocimiento de caras.
+
+1378
+01:24:13,787 --> 01:24:15,389
+Todos ustedes, desarrolladores,
+
+1379
+01:24:15,455 --> 01:24:17,991
+queremos que sea fácil
+el aprendizaje automático
+
+1380
+01:24:18,058 --> 01:24:19,693
+para que lo usen
+en sus aplicaciones.
+
+1381
+01:24:20,060 --> 01:24:22,729
+Y lo haremos estableciendo nuevas APIs.
+
+1382
+01:24:23,130 --> 01:24:26,066
+Se empieza con una Vision API,
+para escaneo y detección de rostro
+
+1383
+01:24:26,233 --> 01:24:28,635
+paisajes y funciones principales
+
+1384
+01:24:28,702 --> 01:24:31,004
+que usamos en nuestras aplicaciones.
+
+1385
+01:24:31,772 --> 01:24:34,908
+Y una API de lenguaje natural,
+que da capacidades
+
+1386
+01:24:34,975 --> 01:24:37,477
+como tokenización
+y reconocimiento del nombre.
+
+1387
+01:24:38,011 --> 01:24:40,681
+Todo esto está diseñado en core ML,
+
+1388
+01:24:41,114 --> 01:24:45,853
+y éste da alto rendimiento
+
+1389
+01:24:45,986 --> 01:24:48,255
+a redes neuronales profundas,
+o recurrentes
+
+1390
+01:24:48,322 --> 01:24:50,924
+o de circunvoluciones,
+máquinas de vectores de soporte
+
+1391
+01:24:51,391 --> 01:24:53,026
+y pueden tomar modelos
+
+1392
+01:24:53,093 --> 01:24:55,829
+hechos con cualquiera
+de estas herramientas de terceros
+
+1393
+01:24:56,263 --> 01:24:58,665
+y con el convertidor
+de modelo de aprendizaje
+
+1394
+01:24:59,066 --> 01:25:02,336
+y ejecutarlo exitosamente
+en el dispositivo.
+
+1395
+01:25:02,402 --> 01:25:04,371
+Da los privilegios
+de la privacidad de datos
+
+1396
+01:25:04,638 --> 01:25:08,141
+y la compatibilidad, cuidadosamente
+ajustada para todas las plataformas.
+
+1397
+01:25:08,542 --> 01:25:11,178
+Y el desempeño
+realmente es increíble.
+
+1398
+01:25:11,445 --> 01:25:14,181
+Vean esta referencia,
+se llama Inception V3,
+
+1399
+01:25:14,248 --> 01:25:16,483
+es una popular marca
+de reconocimiento de fotos.
+
+1400
+01:25:17,117 --> 01:25:20,954
+iPhone es 6 veces más rápido
+que Google pixel
+
+1401
+01:25:21,021 --> 01:25:24,191
+y Samsung S8 al usar Core ML.
+
+1402
+01:25:28,962 --> 01:25:31,565
+Ahora, quisiera seguir con RA.
+
+1403
+01:25:32,099 --> 01:25:36,270
+Con el Multi-Touch,
+realmente hemos cambiado la manera
+
+1404
+01:25:36,403 --> 01:25:39,907
+en el que interactúan con el mundo
+a través de la pantalla de su iPhone.
+
+1405
+01:25:40,707 --> 01:25:44,678
+Y con la cámara, les hemos permitido
+capturar al mundo que los rodea.
+
+1406
+01:25:45,212 --> 01:25:47,147
+Pero al unir estos elementos,
+
+1407
+01:25:47,548 --> 01:25:49,650
+los resultados pueden ser profundos.
+
+1408
+01:25:49,983 --> 01:25:51,785
+Se llama realidad aumentada,
+
+1409
+01:25:52,219 --> 01:25:55,622
+y tenemos una nueva tecnología clave
+llamada ARKit
+
+1410
+01:25:55,689 --> 01:25:59,526
+para dárselas a ustedes, y me gustaría
+vieran una demostración ahora mismo.
+
+1411
+01:26:05,432 --> 01:26:06,867
+Recientemente, hemos visto
+
+1412
+01:26:06,934 --> 01:26:11,071
+videos cuidadosamente editados
+sobre este tema
+
+1413
+01:26:11,672 --> 01:26:14,508
+pero, en este caso,
+quisiera mostrarles algo verdadero.
+
+1414
+01:26:15,242 --> 01:26:17,377
+Lo que vemos es un iPhone
+
+1415
+01:26:18,045 --> 01:26:21,548
+que usa su cámara
+pero al usar visión de computadora
+
+1416
+01:26:21,615 --> 01:26:24,251
+es capaz de identificar superficies,
+
+1417
+01:26:24,484 --> 01:26:28,055
+como esta mesa, y puedo agregar un objeto.
+
+1418
+01:26:28,121 --> 01:26:30,958
+Esta es una aplicación
+de prueba de desarrollador,
+
+1419
+01:26:31,024 --> 01:26:34,261
+de la que obtendrán el código
+y que les permite hacer estas cosas.
+
+1420
+01:26:34,928 --> 01:26:38,465
+Este es un objeto virtual
+en esta mesa.
+
+1421
+01:26:39,733 --> 01:26:40,634
+Ahora...
+
+1422
+01:26:43,170 --> 01:26:45,873
+Sale algo de vapor de la taza.
+
+1423
+01:26:46,206 --> 01:26:49,376
+Puedo agregar más objetos al escenario
+e interactuarán entre sí.
+
+1424
+01:26:49,443 --> 01:26:50,477
+Pongamos una lámpara.
+
+1425
+01:26:51,178 --> 01:26:53,313
+Observen cuando enciendo la lámpara,
+
+1426
+01:26:53,380 --> 01:26:55,415
+las sombras dinámicas.
+
+1427
+01:26:55,682 --> 01:26:56,917
+Voy a mover la taza
+
+1428
+01:26:57,284 --> 01:27:02,189
+y observar como las sombras se mueven
+de acuerdo a la luz.
+
+1429
+01:27:02,256 --> 01:27:03,490
+Es realmente increíble.
+
+1430
+01:27:04,324 --> 01:27:07,494
+Puedo agregar más objetos.
+
+1431
+01:27:07,561 --> 01:27:09,563
+Agreguemos un florero a la escena.
+
+1432
+01:27:09,997 --> 01:27:11,031
+¿No es increíble?
+
+1433
+01:27:11,098 --> 01:27:12,833
+De hecho, ustedes están en la toma
+
+1434
+01:27:13,834 --> 01:27:16,837
+con estos objetos de realidad aumentada.
+
+1435
+01:27:16,904 --> 01:27:20,274
+Esto les da una idea
+de la tecnología que está involucrada.
+
+1436
+01:27:20,440 --> 01:27:21,675
+Realmente sorprendente.
+
+1437
+01:27:21,975 --> 01:27:23,310
+¿Y cómo lo hacemos?
+
+1438
+01:27:26,113 --> 01:27:29,550
+ARKit cuenta con un escaneo
+rápido y estable de movimiento
+
+1439
+01:27:29,616 --> 01:27:33,453
+y usa todos los sensores y la cámara
+de su dispositivo para hacer esto.
+
+1440
+01:27:33,787 --> 01:27:37,090
+De hecho localiza lugares planos
+como pisos y mesas.
+
+1441
+01:27:37,257 --> 01:27:40,694
+Es capaz de estimar la luz ambiental,
+ayudando así con el renderizado
+
+1442
+01:27:40,961 --> 01:27:42,095
+y con las escalas.
+
+1443
+01:27:42,162 --> 01:27:45,032
+Vieron cómo la taza estaba en la mesa
+con el tamaño de una taza
+
+1444
+01:27:45,098 --> 01:27:46,200
+y no de un elefante.
+
+1445
+01:27:46,533 --> 01:27:49,870
+Y se pueden integrar cualquier tipo
+de frameworks de terceros
+
+1446
+01:27:49,937 --> 01:27:51,138
+para ayudar a su render.
+
+1447
+01:27:51,438 --> 01:27:53,240
+La implementación es posible
+
+1448
+01:27:53,607 --> 01:27:56,944
+al tomar ventaja del fabuloso
+hardware de los dispositivos iOS,
+
+1449
+01:27:57,010 --> 01:27:59,746
+cámaras, CPU y GPU
+de alto rendimiento
+
+1450
+01:28:00,047 --> 01:28:01,348
+y sensores de movimiento.
+
+1451
+01:28:01,481 --> 01:28:04,885
+Y al tener un software
+con todo eso junto en los dispositivos,
+
+1452
+01:28:05,385 --> 01:28:10,090
+de hecho tenemos cientos de millones
+de iPhones y iPads
+
+1453
+01:28:10,457 --> 01:28:11,959
+que serán capaces de hacer RA.
+
+1454
+01:28:12,159 --> 01:28:15,829
+De hecho, eso hará que de la noche
+a la mañana, ARKit
+
+1455
+01:28:16,363 --> 01:28:18,732
+sea la más grande plataforma de RA
+en el mundo.
+
+1456
+01:28:26,406 --> 01:28:30,143
+Hicimos que fuentes externas
+le dieran un vistazo a ARKit,
+
+1457
+01:28:30,210 --> 01:28:34,081
+estaban muy emocionados
+y maravillados
+
+1458
+01:28:34,147 --> 01:28:35,916
+por cómo fue que lo logramos.
+
+1459
+01:28:36,316 --> 01:28:38,552
+IKEA, claro, pone muebles
+por todas partes,
+
+1460
+01:28:38,652 --> 01:28:39,887
+y está muy bien.
+
+1461
+01:28:40,654 --> 01:28:43,857
+Pero miren esto.
+Lo que pueden hacer con Batman LEGO.
+
+1462
+01:28:43,924 --> 01:28:45,025
+¿Cuán divertido es?
+
+1463
+01:28:45,092 --> 01:28:48,161
+Justo en la mesa, tenemos un LEGO
+con un LEGO vivo.
+
+1464
+01:28:48,228 --> 01:28:52,032
+Batman y ustedes pueden
+examinar el LEGO
+
+1465
+01:28:52,099 --> 01:28:54,501
+como nunca podrían en el mundo real,
+
+1466
+01:28:54,968 --> 01:28:57,905
+mirar alrededor e interactuar
+con Batman ahí mismo.
+
+1467
+01:28:57,971 --> 01:29:00,474
+Es sorprendente.
+Y, Pokémon Go,
+
+1468
+01:29:00,541 --> 01:29:02,910
+ya lo hemos visto
+pero ahora véanlo con ARKit.
+
+1469
+01:29:03,644 --> 01:29:06,680
+El Pokémon es tan real,
+está ahí en el suelo.
+
+1470
+01:29:06,747 --> 01:29:11,718
+La pokébola rebota, y lo hace
+justo ahí, en un ambiente real.
+
+1471
+01:29:12,119 --> 01:29:14,488
+Es RA como nunca antes
+lo habían visto.
+
+1472
+01:29:15,055 --> 01:29:16,056
+Ahora...
+
+1473
+01:29:20,727 --> 01:29:24,698
+Esto es algo que creo,
+deben de verlo en vivo.
+
+1474
+01:29:24,765 --> 01:29:26,300
+Wingnut AR
+
+1475
+01:29:26,366 --> 01:29:29,303
+es la nueva compañía de producción
+del director Peter Jackson.
+
+1476
+01:29:29,369 --> 01:29:31,438
+Se dedica a desarrollar contenido RA.
+
+1477
+01:29:31,839 --> 01:29:35,008
+Todos conocemos a Peter Jackson
+y su gran trabajo cinematográfico
+
+1478
+01:29:35,075 --> 01:29:37,211
+de películas como
+El Señor de los anillos,
+
+1479
+01:29:37,911 --> 01:29:42,282
+y ahora está entusiasmado con la RA.
+Para mostrarles su trabajo,
+
+1480
+01:29:42,816 --> 01:29:47,221
+Me emociona presentar al Director creativo
+de Wingnut AR, Alasdair Coull.
+
+1481
+01:29:47,321 --> 01:29:48,322
+Alasdair.
+
+1482
+01:29:55,162 --> 01:29:56,163
+Gracias, Craig.
+
+1483
+01:29:56,463 --> 01:29:59,766
+Nos emociona compartirles algo interesante
+en lo que hemos trabajado.
+
+1484
+01:30:00,033 --> 01:30:02,736
+Con ARKit, no necesitas
+equipo especial o marcas de rastreo.
+
+1485
+01:30:02,870 --> 01:30:03,871
+Sólo funciona.
+
+1486
+01:30:04,404 --> 01:30:06,440
+Dan viene de parte de Wingnut AR, veamos.
+
+1487
+01:30:12,579 --> 01:30:14,681
+Usamos ARKit para detectar
+un plano en la mesa,
+
+1488
+01:30:14,882 --> 01:30:17,417
+estimar su tamaño
+y poner contenido en la superficie.
+
+1489
+01:30:17,651 --> 01:30:20,587
+Como es realidad aumentada,
+todos están en la toma también.
+
+1490
+01:30:26,994 --> 01:30:30,397
+Todo el render sea hace a tiempo real
+usando el poder de Unreal Engine 4.
+
+1491
+01:30:30,898 --> 01:30:33,033
+Estamos en la frontera
+de un mundo desolado.
+
+1492
+01:30:33,100 --> 01:30:34,201
+Con pocas provisiones.
+
+1493
+01:30:34,501 --> 01:30:37,538
+Las naves vienen por combustible,
+reparaciones y comercio.
+
+1494
+01:30:38,238 --> 01:30:40,674
+Estos son los ciudadanos,
+esperan unos visitantes,
+
+1495
+01:30:40,908 --> 01:30:42,409
+y se preparan para su llegada.
+
+1496
+01:30:43,744 --> 01:30:45,212
+A excepción de este hombre.
+
+1497
+01:30:45,312 --> 01:30:46,313
+Ya lo escuchaste.
+
+1498
+01:30:56,089 --> 01:30:57,457
+Algunas naves están llegando.
+
+1499
+01:30:57,724 --> 01:31:00,127
+Lo que es genial
+es que con el escaneo de ARKit,
+
+1500
+01:31:00,260 --> 01:31:02,663
+puedes acercarte
+y elegir la vista de la interacción.
+
+1501
+01:31:02,896 --> 01:31:05,232
+Es como ser el director
+de tu propia experiencia.
+
+1502
+01:31:08,869 --> 01:31:10,337
+Parece que están atacando.
+
+1503
+01:31:25,552 --> 01:31:26,820
+Eso se encargó de ese tipo.
+
+1504
+01:31:35,529 --> 01:31:37,197
+Sería genial tener naves de combate
+
+1505
+01:31:37,264 --> 01:31:38,432
+como estás en tu sala.
+
+1506
+01:31:43,237 --> 01:31:45,038
+Parece que no atacarán el puesto.
+
+1507
+01:31:49,776 --> 01:31:50,911
+Otro más cae.
+
+1508
+01:31:53,580 --> 01:31:54,581
+Y, lo tenemos.
+
+1509
+01:31:59,920 --> 01:32:01,488
+Eso no resultó bien para nadie.
+
+1510
+01:32:02,422 --> 01:32:05,025
+Nuestros héroes se van malheridos
+para luchar otro día.
+
+1511
+01:32:07,094 --> 01:32:09,263
+Eso es algo de lo que hemos hecho
+en Wingnut AR.
+
+1512
+01:32:09,429 --> 01:32:10,631
+Y el hecho de que ARKit...
+
+1513
+01:32:11,231 --> 01:32:12,232
+Gracias.
+
+1514
+01:32:17,871 --> 01:32:18,872
+Gracias.
+
+1515
+01:32:20,741 --> 01:32:23,177
+El que ARKit permita
+a cientos de millones de personas
+
+1516
+01:32:23,243 --> 01:32:25,946
+disfrutar de experiencias como ésta,
+abre muchos caminos.
+
+1517
+01:32:26,013 --> 01:32:27,447
+Creo que es revolucionario.
+
+1518
+01:32:27,781 --> 01:32:30,450
+Esperen por una Experiencia RA
+en la App Store este año.
+
+1519
+01:32:31,451 --> 01:32:32,486
+Gracias.
+
+1520
+01:32:35,689 --> 01:32:36,690
+¿Qué les parece?
+
+1521
+01:32:41,628 --> 01:32:45,399
+Éstas son algunas características
+principales del iOS 11.
+
+1522
+01:32:45,465 --> 01:32:48,602
+Claro, hay mucho más
+de lo que no da tiempo de hablar hoy.
+
+1523
+01:32:48,669 --> 01:32:51,605
+Pero quiero subrayar unas características
+de especial interés
+
+1524
+01:32:51,705 --> 01:32:53,440
+para nuestros usuarios de China.
+
+1525
+01:32:53,674 --> 01:32:56,977
+Como el asistente de código QR,
+integrado a la cámara principal,
+
+1526
+01:32:57,044 --> 01:32:58,712
+accesible en la pantalla de bloqueo.
+
+1527
+01:32:58,779 --> 01:33:02,449
+Superútil... Sí. Superútil
+para nuestros usuarios de China.
+
+1528
+01:33:02,883 --> 01:33:06,620
+Ésa es nuestra actualización para iOS 11.
+Voy a devolverle la palabra a Tim.
+
+1529
+01:33:06,720 --> 01:33:07,721
+Gracias.
+
+1530
+01:33:09,356 --> 01:33:10,357
+Gracias, Craig.
+
+1531
+01:33:14,494 --> 01:33:18,966
+iOS 11 está muy bien equipado
+con funciones geniales.
+
+1532
+01:33:19,032 --> 01:33:24,404
+Y no puedo esperar a que comiencen a usar
+la nueva App Store y ARKit.
+
+1533
+01:33:26,106 --> 01:33:27,441
+Número cinco.
+
+1534
+01:33:29,243 --> 01:33:34,481
+Una parte importante
+de la historia de iOS es, claro, el iPad.
+
+1535
+01:33:38,185 --> 01:33:43,690
+iPad ha transformado por completo
+el modo en que trabajamos, jugamos,
+
+1536
+01:33:43,991 --> 01:33:46,360
+enseñamos, aprendemos y creamos.
+
+1537
+01:33:46,860 --> 01:33:52,666
+Es en verdad una pieza mágica de cristal
+que se transforma en lo que quieras.
+
+1538
+01:33:53,867 --> 01:33:56,904
+Hemos expandido los límites con el iPad.
+
+1539
+01:33:57,871 --> 01:34:02,843
+Y hoy vamos a expandirlos
+más lejos que nunca.
+
+1540
+01:34:03,710 --> 01:34:08,115
+Y para hablarles de esto,
+quiero invitar a Joz. ¿Joz?
+
+1541
+01:34:14,655 --> 01:34:17,024
+Gracias, Tim.
+Buenos días a todos.
+
+1542
+01:34:17,090 --> 01:34:20,661
+Estoy muy emocionado de hablarles hoy
+sobre iPad Pro.
+
+1543
+01:34:21,395 --> 01:34:24,531
+Cuando introdujimos iPad Pro
+hace apenas 18 meses,
+
+1544
+01:34:24,898 --> 01:34:27,501
+modificó por completo
+lo que se podía hacer con el iPad.
+
+1545
+01:34:27,801 --> 01:34:30,637
+Junto con sus increíbles aplicaciones,
+los usuarios hacen
+
+1546
+01:34:30,704 --> 01:34:32,005
+cosas de verdad increíbles.
+
+1547
+01:34:32,573 --> 01:34:36,844
+Diseño e ilustración profesionales,
+moda y arquitectura
+
+1548
+01:34:36,910 --> 01:34:38,712
+ingeniería y mucho más.
+
+1549
+01:34:39,680 --> 01:34:44,785
+Nos emociona lo que puede hacerse realidad
+hoy en el mundo con iPad Pro.
+
+1550
+01:34:45,752 --> 01:34:48,722
+Como ustedes saben, hay dos modelos
+del iPad Pro hoy en día.
+
+1551
+01:34:49,089 --> 01:34:51,325
+De 13 y de 9.7 pulgadas.
+
+1552
+01:34:51,592 --> 01:34:54,161
+El de 9.7 pulgadas es nuestro modelo
+más popular.
+
+1553
+01:34:54,728 --> 01:34:57,030
+Tiene una pantalla amplia
+para trabajar con ella.
+
+1554
+01:34:57,364 --> 01:34:59,099
+Pero tiene una caja delgada y ligera
+
+1555
+01:34:59,166 --> 01:35:01,635
+que te permite cargarla
+donde sea que vayas.
+
+1556
+01:35:02,503 --> 01:35:05,506
+Hoy vamos a presentar un iPad Pro
+totalmente nuevo.
+
+1557
+01:35:06,473 --> 01:35:09,042
+Que tiene todo lo que amas
+acerca del de 9.7 pulgadas
+
+1558
+01:35:09,910 --> 01:35:11,378
+y tiene más cosas que amarás.
+
+1559
+01:35:11,712 --> 01:35:12,713
+Echemos un vistazo.
+
+1560
+01:35:14,681 --> 01:35:16,950
+Éste es el nuevo iPad Pro.
+
+1561
+01:35:21,622 --> 01:35:25,592
+Es el primer iPad Pro
+con Retina display de 10.5 pulgadas.
+
+1562
+01:35:26,693 --> 01:35:27,995
+Pero ¿por qué 10.5 pulgadas?
+
+1563
+01:35:28,495 --> 01:35:32,766
+En primer lugar, porque es más amplio.
+Es 20% más amplio que el de 9.7 pulgadas.
+
+1564
+01:35:33,133 --> 01:35:35,836
+Pero logramos reducir los bordes
+en casi 40%,
+
+1565
+01:35:35,903 --> 01:35:39,139
+lo que nos permite ofrecer un diseño
+increíblemente compacto
+
+1566
+01:35:39,306 --> 01:35:42,009
+que todavía pesa menos de 500 gramos.
+
+1567
+01:35:43,577 --> 01:35:46,880
+Claro, la de 10.5 pulgadas
+también nos permite hacer otras cosas.
+
+1568
+01:35:47,114 --> 01:35:52,419
+Es del tamaño ideal para poder desplegar
+un teclado completo en la pantalla.
+
+1569
+01:35:57,558 --> 01:36:02,262
+Es también del tamaño ideal para tener
+un Smart Keyboard completo.
+
+1570
+01:36:03,096 --> 01:36:05,499
+Cuando salga el Smart Keyboard,
+tendremos soporte
+
+1571
+01:36:05,566 --> 01:36:09,203
+para más de 30 idiomas al iniciar,
+incluyendo el chino,
+
+1572
+01:36:09,503 --> 01:36:13,040
+y, por primera vez,
+un teclado JIS para el japonés.
+
+1573
+01:36:17,411 --> 01:36:21,348
+iPad Pro siempre ha tenido
+las mejores pantallas del mercado.
+
+1574
+01:36:21,648 --> 01:36:26,353
+Y ambos modelos tendrán nuevas pantallas
+en verdad increíbles el día de hoy.
+
+1575
+01:36:26,720 --> 01:36:28,822
+Son las mejores pantallas
+que hemos fabricado.
+
+1576
+01:36:29,957 --> 01:36:33,694
+Tienen increíbles funciones como True Tone
+para el balance de blancos automático.
+
+1577
+01:36:34,027 --> 01:36:36,663
+Una gama amplia de colores P3
+para un mejor color.
+
+1578
+01:36:37,698 --> 01:36:40,701
+Muy baja reflectividad.
+La mejor en el mercado.
+
+1579
+01:36:41,401 --> 01:36:44,037
+Y son 50% más brillantes con 600 nits.
+
+1580
+01:36:44,438 --> 01:36:47,441
+Este brillo extra
+y la gama amplia de colores P3 implican
+
+1581
+01:36:47,508 --> 01:36:52,446
+que con iOS 11, podrás proyectar video HDR
+por primera vez en el iPad,
+
+1582
+01:36:52,613 --> 01:36:55,182
+para una experiencia
+cinematográfica profunda.
+
+1583
+01:36:55,382 --> 01:36:57,017
+Son pantallas en verdad asombrosas.
+
+1584
+01:36:57,751 --> 01:37:01,488
+Pero nuestra mayor innovación
+es una función llamada ProMotion.
+
+1585
+01:37:02,289 --> 01:37:03,290
+¿Y qué es ProMotion?
+
+1586
+01:37:03,690 --> 01:37:08,228
+Logramos, con nuestras habilidades
+en software y hardware,
+
+1587
+01:37:08,762 --> 01:37:11,665
+mejorar drásticamente
+el desempeño de la pantalla.
+
+1588
+01:37:12,332 --> 01:37:15,936
+Por lo regular, hasta el día de hoy,
+las pantallas móviles corren a 60 Hertz,
+
+1589
+01:37:16,003 --> 01:37:18,906
+que significa que actualizan su contenido
+60 veces por segundo.
+
+1590
+01:37:19,439 --> 01:37:24,311
+Con el nuevo iPad Pro, hemos duplicado
+el máximo de velocidad de actualización
+
+1591
+01:37:24,578 --> 01:37:27,247
+a la increíble velocidad de 120 Hertz.
+
+1592
+01:37:31,919 --> 01:37:33,320
+¿Qué es lo que esto implica?
+
+1593
+01:37:33,387 --> 01:37:36,657
+Implica que todo tu contenido móvil
+en la pantalla será más parejo,
+
+1594
+01:37:37,524 --> 01:37:39,259
+más nítido, más sensible.
+
+1595
+01:37:40,260 --> 01:37:43,363
+Esto es algo que debes de tocar
+y sentirlo tú mismo para apreciarlo.
+
+1596
+01:37:43,430 --> 01:37:47,334
+Porque nuestro sistema de proyección
+no tiene esa velocidad de actualización.
+
+1597
+01:37:47,668 --> 01:37:49,636
+Pero les digo
+que la diferencia es drástica.
+
+1598
+01:37:50,103 --> 01:37:52,472
+Cuando se desplazan,
+es suave como la mantequilla.
+
+1599
+01:37:53,373 --> 01:37:56,476
+Mayor velocidad de actualización
+implica mejor funcionamiento
+
+1600
+01:37:56,543 --> 01:37:57,544
+con Apple Pencil.
+
+1601
+01:37:57,644 --> 01:38:00,180
+Ya contamos con el mejor desempeño
+en el mercado
+
+1602
+01:38:00,247 --> 01:38:02,382
+para el dibujo y la escritura
+con Apple Pencil.
+
+1603
+01:38:02,449 --> 01:38:04,318
+Pero con ProMotion, es todavía mejor.
+
+1604
+01:38:05,185 --> 01:38:08,922
+Es más sensible y reduce la demora
+a 20 milisegundos,
+
+1605
+01:38:09,356 --> 01:38:10,591
+la mejor del mercado.
+
+1606
+01:38:15,262 --> 01:38:18,365
+Dibujar se vuelve increíblemente fluido
+y muy natural.
+
+1607
+01:38:18,432 --> 01:38:22,035
+Van a enamorarse de Apple Pencil
+con iPad Pro.
+
+1608
+01:38:22,369 --> 01:38:25,172
+Otra novedad del ProMotion es
+que se han convertido
+
+1609
+01:38:25,239 --> 01:38:29,109
+en las primeras pantallas móviles capaces
+de ajustar dinámicamente su velocidad
+
+1610
+01:38:29,376 --> 01:38:30,644
+dependiendo de lo que vean.
+
+1611
+01:38:30,878 --> 01:38:33,947
+Ésta es una verdadera novedad
+tanto para calidad de la pantalla
+
+1612
+01:38:34,248 --> 01:38:36,049
+como para el ahorro de energía.
+
+1613
+01:38:36,316 --> 01:38:39,186
+Cuando hay contenido móvil veloz,
+se actualiza rápidamente.
+
+1614
+01:38:39,987 --> 01:38:42,256
+Pero también puede actualizarse lentamente
+
+1615
+01:38:42,322 --> 01:38:43,957
+cuando no se requiere esa rapidez,
+
+1616
+01:38:44,024 --> 01:38:45,325
+como en una imagen fija.
+
+1617
+01:38:45,592 --> 01:38:48,829
+Esto permite ahorrar energía
+y tener una mejor duración de batería.
+
+1618
+01:38:49,363 --> 01:38:52,199
+Con suerte, pueden apreciar porqué
+son las mejores pantallas
+
+1619
+01:38:52,266 --> 01:38:53,267
+que hemos fabricado.
+
+1620
+01:38:53,634 --> 01:38:56,270
+Creemos que son las pantallas
+más avanzadas del planeta.
+
+1621
+01:38:57,471 --> 01:38:59,139
+Ahora hablemos de desempeño.
+
+1622
+01:39:00,307 --> 01:39:03,076
+iPad es lo mejor en su clase
+en cuanto a desempeño.
+
+1623
+01:39:03,510 --> 01:39:07,848
+Pero no nos hemos echado a dormir.
+Éstos son los mejores que hemos fabricado.
+
+1624
+01:39:08,448 --> 01:39:11,718
+Por dentro,
+cuentan con el chip A10X Fusion.
+
+1625
+01:39:12,386 --> 01:39:17,090
+El chip A10X tiene un CPU de seis núcleos,
+tres núcleos de alto rendimiento,
+
+1626
+01:39:17,157 --> 01:39:20,060
+y tres de alta eficacia,
+controlados automáticamente
+
+1627
+01:39:20,160 --> 01:39:22,196
+por el controlador de rendimiento
+de Apple.
+
+1628
+01:39:22,763 --> 01:39:25,365
+También tiene un GPU de 12 núcleos.
+
+1629
+01:39:25,632 --> 01:39:27,668
+Es una fuente de poder.
+
+1630
+01:39:28,068 --> 01:39:34,074
+Ofrece un desempeño de CPU 30% más veloz
+que nuestro chip líder de mercado, el A9X,
+
+1631
+01:39:34,575 --> 01:39:37,277
+y un desempeño de gráficos 40% más veloz.
+
+1632
+01:39:43,617 --> 01:39:47,087
+Nuestro equipo ha hecho un gran trabajo
+a lo largo de los años
+
+1633
+01:39:47,454 --> 01:39:50,190
+mejorando el rendimiento.
+Los resultados son asombrosos.
+
+1634
+01:39:50,490 --> 01:39:52,893
+Ofrecen un desempeño de gráficos
+líder en el mercado.
+
+1635
+01:39:52,960 --> 01:39:55,896
+Es más de 500 veces más
+que el iPad original
+
+1636
+01:39:55,963 --> 01:39:57,664
+de hace apenas unos años.
+
+1637
+01:39:58,832 --> 01:40:01,435
+Pero los números sólo cuentan
+una parte de la historia.
+
+1638
+01:40:02,135 --> 01:40:05,739
+Para demostrar el desempeño real del A10X
+en el nuevo iPad Pro,
+
+1639
+01:40:05,973 --> 01:40:09,142
+quiero invitar a Ash Hewson de Serif
+
+1640
+01:40:09,209 --> 01:40:11,578
+para demostrar
+la aplicación de edición de fotos
+
+1641
+01:40:11,645 --> 01:40:13,380
+llamada Affinity Photo. ¿Ash?
+
+1642
+01:40:15,916 --> 01:40:16,917
+Gracias, Joz.
+
+1643
+01:40:18,852 --> 01:40:22,322
+Me emociona poder presentarles hoy
+la versión de Affinity Photo para iPad.
+
+1644
+01:40:22,689 --> 01:40:25,859
+Es una herramienta profesional
+de edición de fotos de alta calidad
+
+1645
+01:40:26,260 --> 01:40:29,830
+En el último iPad Pro, es posible
+alcanzar niveles de desempeño
+
+1646
+01:40:29,897 --> 01:40:33,066
+que son imposibles de alcanzar
+en otros dispositivos.
+
+1647
+01:40:33,133 --> 01:40:36,336
+Intentaré mostrárselos hoy
+creando un poster de película.
+
+1648
+01:40:36,403 --> 01:40:38,605
+Ya coloqué algunas capas.
+Tengo este fondo.
+
+1649
+01:40:38,672 --> 01:40:42,109
+Un cielo tormentoso, un mar turbulento,
+y este barco.
+
+1650
+01:40:42,442 --> 01:40:44,311
+Lo primero que notarán
+al usarlo es que,
+
+1651
+01:40:44,378 --> 01:40:47,181
+mientras están manipulando las capas,
+rotándolas,
+
+1652
+01:40:47,247 --> 01:40:50,350
+o tan sólo moviéndose y acercándose
+dentro de su obra,
+
+1653
+01:40:50,551 --> 01:40:53,554
+veo esto ahora
+a 120 cuadros por segundo.
+
+1654
+01:40:53,620 --> 01:40:55,455
+Así que se siente increíblemente suave.
+
+1655
+01:40:56,056 --> 01:40:58,659
+Pero cuando llegan a edición de capas,
+debido a Metal,
+
+1656
+01:40:59,159 --> 01:41:05,165
+logramos un desempeño cuatro veces mayor
+que una PC de procesador i7.
+
+1657
+01:41:05,632 --> 01:41:06,867
+Les mostraré cómo es eso.
+
+1658
+01:41:07,134 --> 01:41:11,205
+Voy a aplicar un filtro sobre el mar.
+Y vean, sólo con mi dedo
+
+1659
+01:41:11,471 --> 01:41:17,477
+puedo mover el mar de un lado a otro.
+Puedo llevar una ola hacia el barco.
+
+1660
+01:41:17,611 --> 01:41:21,682
+Es una manera totalmente nueva
+de interactuar con tus diseños.
+
+1661
+01:41:22,149 --> 01:41:23,650
+De hecho, todo es así de veloz.
+
+1662
+01:41:23,750 --> 01:41:27,821
+Digamos que quiero prender en llamas
+este barco, por ejemplo.
+
+1663
+01:41:28,121 --> 01:41:30,924
+Tengo esta bola de fuego aquí.
+Puedo llevarla atrás del barco.
+
+1664
+01:41:30,991 --> 01:41:34,061
+Para hacerlo más realista,
+tengo que aplicar el modo de mezcla.
+
+1665
+01:41:34,127 --> 01:41:37,497
+Por lo regular, el modo de mezcla requiere
+de prueba y error.
+
+1666
+01:41:37,998 --> 01:41:40,200
+Pero ahora miren esto.
+Puedo restregar aquí
+
+1667
+01:41:40,567 --> 01:41:42,970
+y obtengo una previsualización
+de las mezclas.
+
+1668
+01:41:43,036 --> 01:41:47,174
+Se vuelve muy fácil seleccionar
+la mezcla adecuada que deseo.
+
+1669
+01:41:48,442 --> 01:41:50,911
+Por supuesto, todo esto que he hecho
+ha sido con Touch.
+
+1670
+01:41:50,978 --> 01:41:54,581
+Pero con iPad Pro, tenemos la mejor aguja
+que se ha fabricado.
+
+1671
+01:41:54,982 --> 01:41:57,417
+Y podemos hacer cosas geniales
+con Apple Pencil.
+
+1672
+01:41:57,551 --> 01:42:00,287
+Un buen ejemplo de esto es
+nuestro filtro de luz.
+
+1673
+01:42:00,354 --> 01:42:03,357
+Elijo la iluminación.
+Lo hago un poco más grande.
+
+1674
+01:42:03,590 --> 01:42:07,427
+Y ahora puedo controlar
+el ángulo e inclinación de esa luz
+
+1675
+01:42:07,594 --> 01:42:08,795
+usando Apple Pencil.
+
+1676
+01:42:08,962 --> 01:42:13,367
+No hay ninguna demora.
+Es una manera muy profunda de trabajar.
+
+1677
+01:42:14,735 --> 01:42:17,437
+Dije al principio que estaba creando
+un póster de película.
+
+1678
+01:42:17,504 --> 01:42:20,340
+De hecho, lo que hago
+es un póster de película de piratas.
+
+1679
+01:42:20,440 --> 01:42:21,608
+Ahora necesito un pirata.
+
+1680
+01:42:21,942 --> 01:42:23,544
+Aquí tengo al capitán Jack Sparrow.
+
+1681
+01:42:24,411 --> 01:42:26,613
+Pero por ahora tiene el fondo incorrecto.
+
+1682
+01:42:26,680 --> 01:42:27,814
+Así que debo recortarlo.
+
+1683
+01:42:27,915 --> 01:42:30,317
+Voy a usar algunas herramientas
+de selección.
+
+1684
+01:42:30,384 --> 01:42:32,786
+Para comenzar, voy a...
+¿Ven lo veloz que es?
+
+1685
+01:42:33,053 --> 01:42:37,224
+Seleccionar algo con Pencil,
+para recortar las orillas.
+
+1686
+01:42:37,424 --> 01:42:39,226
+Pero al seleccionar, suele ocurrir
+
+1687
+01:42:39,293 --> 01:42:41,762
+que se requiere una selección
+más precisa del cabello.
+
+1688
+01:42:41,828 --> 01:42:43,764
+Para hacerlo, refinaremos la selección.
+
+1689
+01:42:44,231 --> 01:42:46,934
+Esto es algo que requiere
+gran cantidad de energía del CPU.
+
+1690
+01:42:47,067 --> 01:42:49,870
+Pero en el nuevo iPad,
+es dos veces más rápido que nunca.
+
+1691
+01:42:50,204 --> 01:42:52,506
+Se ve casi al instante,
+que puedo seleccionar
+
+1692
+01:42:52,573 --> 01:42:54,441
+cada hilo de cabello.
+
+1693
+01:43:00,047 --> 01:43:03,851
+Y quedó listo. Éste es mi póster.
+Un póster que se ve profesional,
+
+1694
+01:43:03,917 --> 01:43:08,589
+creado en un dispositivo
+que puedo sostener en mi mano.
+
+1695
+01:43:08,689 --> 01:43:09,756
+Es en verdad increíble.
+
+1696
+01:43:10,123 --> 01:43:14,294
+Creo que iPad Pro, con Affinity Photo,
+es una experiencia
+
+1697
+01:43:14,361 --> 01:43:17,331
+revolucionaria en edición
+de foto profesional.
+
+1698
+01:43:17,397 --> 01:43:20,000
+Lo mejor de todo es
+que puedes usarlo ahora.
+
+1699
+01:43:20,567 --> 01:43:23,604
+Pues me complace anunciar
+que Affinity Photo para iPad
+
+1700
+01:43:23,804 --> 01:43:27,341
+está disponible en la App Store desde hoy.
+Gracias.
+
+1701
+01:43:31,912 --> 01:43:36,049
+Increíble, gracias, Ash.
+Eso es un rendimiento asombroso.
+
+1702
+01:43:36,116 --> 01:43:38,685
+En especial, para dispositivos
+tan pequeños y ligeros
+
+1703
+01:43:38,752 --> 01:43:41,788
+que puedes llevar en un paquete
+de medio kilo adonde sea que vayas.
+
+1704
+01:43:42,623 --> 01:43:45,392
+Lo genial es que, a pesar
+de todo este rendimiento nuevo,
+
+1705
+01:43:45,792 --> 01:43:49,630
+iPad Pro sigue ofreciendo
+una vida de batería de 10 horas,
+
+1706
+01:43:49,696 --> 01:43:51,098
+cosa que aman los usuarios.
+
+1707
+01:43:52,566 --> 01:43:53,967
+Ahora hablemos de cámaras.
+
+1708
+01:43:54,701 --> 01:43:57,971
+La nueva iPad Pro tiene
+el último sistema de cámara
+
+1709
+01:43:58,038 --> 01:43:59,006
+de nuestro iPhone 7.
+
+1710
+01:43:59,072 --> 01:44:03,544
+Es decir, tiene el mismo sensor
+de 12-megapixeles de alto rendimiento,
+
+1711
+01:44:03,610 --> 01:44:08,148
+con estabilización de imagen óptica.
+Incluso tiene la habilidad de capturar
+
+1712
+01:44:08,215 --> 01:44:10,651
+y, por supuesto, editar video 4K
+sobre la marcha.
+
+1713
+01:44:10,751 --> 01:44:12,553
+Son cámaras en verdad fantásticas.
+
+1714
+01:44:13,020 --> 01:44:16,590
+Las cámaras frontales del iPhone 7,
+al igual que todas sus funciones,
+
+1715
+01:44:16,823 --> 01:44:20,761
+como la captura de gama amplia de color,
+estabilización automática de imagen,
+
+1716
+01:44:20,827 --> 01:44:24,331
+y toda la pantalla puede iluminarse
+para volverse la Retina Flash
+
+1717
+01:44:24,398 --> 01:44:26,200
+más brillante y grande del mundo.
+
+1718
+01:44:27,000 --> 01:44:28,969
+Tenemos también accesorios maravillosos.
+
+1719
+01:44:29,970 --> 01:44:33,774
+iPad Pro es compatible con USB 3,
+lo cual implica que tendrás
+
+1720
+01:44:33,841 --> 01:44:37,311
+transferencias más veloces
+con tus adaptadores de USB y cámaras SD.
+
+1721
+01:44:37,711 --> 01:44:41,415
+Y también contamos con carga rápida,
+lo cual significa
+
+1722
+01:44:41,515 --> 01:44:45,485
+que cualquier adaptador de carga USB-C
+te permitirá cargar
+
+1723
+01:44:45,552 --> 01:44:46,687
+a la mitad de tiempo.
+
+1724
+01:44:48,655 --> 01:44:52,192
+Y tenemos nuevas cubiertas inteligentes
+Están disponibles en poliuretano.
+
+1725
+01:44:52,259 --> 01:44:54,828
+y también traemos de vuelta
+la popular cubierta de cuero.
+
+1726
+01:44:54,895 --> 01:44:59,366
+También diseñamos una nueva funda de cuero
+con un sujetador para Apple Pencil.
+
+1727
+01:45:00,334 --> 01:45:02,135
+Ésta es la nueva familia de iPad Pro.
+
+1728
+01:45:02,402 --> 01:45:04,905
+Una línea con las pantallas más avanzadas
+del mundo,
+
+1729
+01:45:04,972 --> 01:45:08,575
+incluido el nuevo tamaño de 10.5 pulgadas,
+un increíble diseño compacto,
+
+1730
+01:45:09,109 --> 01:45:11,345
+el nuevo y poderoso chip A10X Fusion,
+
+1731
+01:45:11,578 --> 01:45:14,982
+increíbles cámaras nuevas.
+Y, por supuesto, como ustedes esperan,
+
+1732
+01:45:15,048 --> 01:45:18,185
+hacemos todo esto de modo
+muy amistoso con el medio ambiente.
+
+1733
+01:45:19,386 --> 01:45:23,290
+También vamos a duplicar
+la cantidad de memoria que viene
+
+1734
+01:45:23,590 --> 01:45:25,459
+en el inicio de estas configuraciones.
+
+1735
+01:45:26,026 --> 01:45:30,430
+Los dos tamaños van a iniciar ahora
+con 64 gigabytes de memoria.
+
+1736
+01:45:36,370 --> 01:45:40,440
+El de 10.5 pulgadas de 64 gigas
+ahora costará $649.
+
+1737
+01:45:40,807 --> 01:45:46,813
+Serán sólo $150 más
+para la pantalla grande de $799.
+
+1738
+01:45:48,048 --> 01:45:52,319
+También contaremos con modelos de 256
+y 512 gigabytes.
+
+1739
+01:45:52,419 --> 01:45:55,222
+Medio terabyte de almacenamiento
+en un iPad.
+
+1740
+01:45:55,756 --> 01:45:58,792
+Y, como siempre, puedes adquirir
+cualquier modelo con LTE.
+
+1741
+01:46:00,294 --> 01:46:03,964
+Éste es el nuevo iPad Pro.
+Lo puedes ordenar hoy mismo.
+
+1742
+01:46:04,565 --> 01:46:06,433
+Los envíos inician la siguiente semana.
+
+1743
+01:46:07,301 --> 01:46:10,370
+Como serán enviadas ahora,
+van a tener iOS 10,
+
+1744
+01:46:10,437 --> 01:46:14,575
+pero podrás actualizar fácilmente a iOS 11
+de manera gratuita este otoño.
+
+1745
+01:46:15,142 --> 01:46:18,612
+Pero todavía no terminan de escuchar
+la historia completa de iOS 11
+
+1746
+01:46:18,679 --> 01:46:19,780
+en relación al iPad.
+
+1747
+01:46:20,280 --> 01:46:22,883
+Quiero invitar a Craig de vuelta
+para hablarles
+
+1748
+01:46:22,983 --> 01:46:26,954
+sobre algunas increíbles funciones
+del iPad en iOS 11.
+
+1749
+01:46:27,921 --> 01:46:29,857
+Gracias.
+Hola a todos.
+
+1750
+01:46:31,692 --> 01:46:35,162
+Sí, todavía hay más iOS 11.
+
+1751
+01:46:35,362 --> 01:46:39,499
+Si aman el iPad como yo,
+abróchense el cinturón.
+
+1752
+01:46:39,566 --> 01:46:43,737
+Porque esto será todo un viaje.
+Llevamos a iOS al siguiente nivel.
+
+1753
+01:46:43,804 --> 01:46:47,608
+Éste es el lanzamiento de iOS para iPad
+más grande que hemos hecho.
+
+1754
+01:46:47,941 --> 01:46:50,177
+Empieza en el dock.
+
+1755
+01:46:50,377 --> 01:46:53,113
+Todos conocemos ese dock
+en la base de la pantalla.
+
+1756
+01:46:53,180 --> 01:46:54,815
+Es más poderoso que nunca.
+
+1757
+01:46:54,882 --> 01:46:56,350
+Puede llenarse de aplicaciones.
+
+1758
+01:46:56,917 --> 01:47:01,054
+A la derecha, hay un área predictiva
+que adivina lo que usarás a continuación,
+
+1759
+01:47:01,154 --> 01:47:05,158
+incluyendo las aplicaciones Continuity.
+Y ahora puedes llamar al dock
+
+1760
+01:47:05,292 --> 01:47:07,694
+desde cualquier punto
+en la base de la pantalla
+
+1761
+01:47:07,761 --> 01:47:10,998
+y usarlo para cambiar de aplicaciones.
+Así de fácil.
+
+1762
+01:47:11,064 --> 01:47:14,701
+Lo increíble es cómo puede usarse
+para multitareas.
+
+1763
+01:47:14,768 --> 01:47:17,004
+Si estás en una aplicación
+y tocas hacia arriba,
+
+1764
+01:47:17,070 --> 01:47:18,805
+podemos extraer una aplicación.
+
+1765
+01:47:19,573 --> 01:47:22,142
+Así de fácil, entramos a Slide Over.
+
+1766
+01:47:29,149 --> 01:47:32,085
+Ahora puedes partir tus aplicaciones
+y verlas en Split View.
+
+1767
+01:47:32,152 --> 01:47:37,524
+Pero lo genial es la nueva App Switcher,
+porque preserva todos tus espacios,
+
+1768
+01:47:37,591 --> 01:47:40,460
+con tus grupos de aplicaciones.
+Es en verdad genial.
+
+1769
+01:47:40,761 --> 01:47:45,532
+Por supuesto, iPad es el mejor dispositivo
+Multi-Touch y multi-manos.
+
+1770
+01:47:45,632 --> 01:47:49,837
+Así que nos emociona traer
+Arrastrar y Soltar en el iPad.
+
+1771
+01:47:54,741 --> 01:47:59,680
+Puedes arrastrar imágenes o texto,
+puedes arrastrar URLs, multiseleccionar
+
+1772
+01:47:59,746 --> 01:48:03,050
+y arrastrar con varias manos.
+Es una fiesta de arrastrados...
+
+1773
+01:48:03,984 --> 01:48:06,887
+Es muy productivo. Pero, claro,
+a veces tienes que teclear.
+
+1774
+01:48:06,954 --> 01:48:09,556
+Así que hicimos el teclado
+todavía más productivo.
+
+1775
+01:48:09,823 --> 01:48:14,361
+Ahora puedes presionar las teclas
+para acceder a puntuaciones y números.
+
+1776
+01:48:14,428 --> 01:48:18,832
+Sin que sea necesario cambiar de planos.
+Es muy rápido y muy fácil.
+
+1777
+01:48:24,638 --> 01:48:27,574
+Tenemos una nueva aplicación
+que vamos a presentar hoy.
+
+1778
+01:48:28,942 --> 01:48:31,178
+Y se llama Files.
+
+1779
+01:48:36,683 --> 01:48:39,520
+Files reúne todos los archivos
+de tu iPad.
+
+1780
+01:48:39,620 --> 01:48:42,623
+Es compatible con todo lo que esperas.
+Carpetas jerarquizadas,
+
+1781
+01:48:42,689 --> 01:48:46,360
+recientes, vistas de lista, favoritos,
+búsquedas, etiquetas.
+
+1782
+01:48:46,426 --> 01:48:51,098
+Y tiene una hermosa vista de recientes,
+que reúne todo desde todos tus recursos.
+
+1783
+01:48:51,164 --> 01:48:55,836
+Porque no sólo es compatible con iCloud,
+sino también con otros proveedores
+
+1784
+01:48:55,903 --> 01:48:58,238
+como Box, Dropbox, OneDrive
+y Google Drive.
+
+1785
+01:48:59,573 --> 01:49:02,576
+Y todos están aquí en tu barra lateral.
+
+1786
+01:49:04,111 --> 01:49:05,946
+¿Saben qué? Hagamos una demostración.
+
+1787
+01:49:08,782 --> 01:49:14,555
+Demos un primer vistazo
+a iOS 11 en el iPad.
+
+1788
+01:49:16,757 --> 01:49:18,492
+Tenemos nuestro nuevo dock en la base.
+
+1789
+01:49:18,559 --> 01:49:22,896
+Puedo fácilmente arrastrar hacia el dock.
+De esta manera.
+
+1790
+01:49:23,163 --> 01:49:25,132
+Es una buena forma
+de iniciar aplicaciones.
+
+1791
+01:49:25,532 --> 01:49:28,335
+Pero también es una buena manera
+de cambiar de aplicaciones.
+
+1792
+01:49:28,669 --> 01:49:30,370
+Con sólo presionar así.
+
+1793
+01:49:30,971 --> 01:49:35,876
+Pero si ahora quiero el modo multitareas,
+chequen esto.
+
+1794
+01:49:37,845 --> 01:49:41,315
+Lo arrastro hacia afuera. Ahí está.
+Y puedo arrastrarlo por la pantalla.
+
+1795
+01:49:41,548 --> 01:49:45,853
+Puedo deslizarlo por aquí.
+Estas dos visualizaciones son en vivo.
+
+1796
+01:49:46,320 --> 01:49:48,422
+Puedo poner Split View de esta manera.
+
+1797
+01:49:49,022 --> 01:49:51,091
+Ahora quiero que vean
+la nueva App Switcher.
+
+1798
+01:49:51,158 --> 01:49:54,094
+Voy a acariciar hacia arriba desde la base
+y sigo acariciando.
+
+1799
+01:49:54,895 --> 01:49:58,031
+Se va al fondo de este modo.
+Hagámoslo de nuevo. Es genial.
+
+1800
+01:49:59,099 --> 01:50:00,100
+Es así de fácil.
+
+1801
+01:50:05,072 --> 01:50:08,542
+Pueden ver que mis espacios se conservan.
+Así que, aquí a la izquierda,
+
+1802
+01:50:08,609 --> 01:50:09,910
+tengo Mail y Safari.
+
+1803
+01:50:10,210 --> 01:50:12,513
+En Split View, puedo abrirlos
+de esta manera.
+
+1804
+01:50:13,146 --> 01:50:16,817
+Vamos a arrastrar y soltar.
+Voy a arrastrar una URL desde Safari
+
+1805
+01:50:16,884 --> 01:50:17,985
+a este mensaje de correo.
+
+1806
+01:50:18,752 --> 01:50:21,121
+Arrastro y suelto.
+
+1807
+01:50:21,388 --> 01:50:24,591
+Puedo arrastrarlo.
+Sí. Vamos a arrastrar una imagen.
+
+1808
+01:50:26,593 --> 01:50:30,664
+Sí, así de fácil.
+Ahora quiero enfocarme sólo en Mail
+
+1809
+01:50:30,731 --> 01:50:33,433
+porque les voy a mostrar cómo
+arrastrar entre espacios.
+
+1810
+01:50:33,834 --> 01:50:37,604
+Vamos a Fotos.
+Tengo muy buenas fotos aquí
+
+1811
+01:50:37,671 --> 01:50:41,775
+sobre opciones de protección con drones
+para el nuevo campus.
+
+1812
+01:50:42,009 --> 01:50:44,444
+Comenzaré a arrastrar,
+pero miren. Con mis otra mano,
+
+1813
+01:50:44,511 --> 01:50:48,115
+Voy a tocar. Puedo añadir a esta selección
+de esta manera.
+
+1814
+01:50:48,248 --> 01:50:52,920
+Y puedo acariciar con mi otra mano
+para activar el multitareas. Irme a Mail
+
+1815
+01:50:53,453 --> 01:50:54,454
+y soltar.
+
+1816
+01:51:02,529 --> 01:51:05,432
+Ahora les quiero mostrar Files.
+Puedo activar Files
+
+1817
+01:51:05,499 --> 01:51:09,303
+claro, desde el dock,
+en Split View de esta manera.
+
+1818
+01:51:09,803 --> 01:51:12,139
+Y es un buen medio para trabajar
+archivos adjuntos.
+
+1819
+01:51:12,239 --> 01:51:14,208
+Porque puedo enviar este archivo adjunto,
+
+1820
+01:51:14,508 --> 01:51:18,412
+tomarlo y soltarlo dentro de este fólder
+
+1821
+01:51:18,478 --> 01:51:20,180
+de proyectos ultra secretos.
+
+1822
+01:51:22,783 --> 01:51:25,519
+Ahora volvamos a sumergirnos
+y echemos un buen vistazo
+
+1823
+01:51:25,619 --> 01:51:26,787
+a la aplicación de Files.
+
+1824
+01:51:27,054 --> 01:51:31,525
+Tiene esta hermosa vista de retícula,
+pero también tiene vista de lista
+
+1825
+01:51:31,592 --> 01:51:34,027
+que me deja ver todos los detalles
+de mis archivos.
+
+1826
+01:51:34,328 --> 01:51:37,064
+Puedo ordenarlos por tamaño o por fecha.
+
+1827
+01:51:37,431 --> 01:51:42,102
+Puedo crear nuevos folders.
+Digamos que quiero un folder R&D aquí.
+
+1828
+01:51:42,636 --> 01:51:46,206
+Voy a tomar algunos de mis proyectos
+ultra secretos,
+
+1829
+01:51:46,273 --> 01:51:50,711
+multiselecciono de esta manera.
+Y los suelto adentro.
+
+1830
+01:51:51,011 --> 01:51:54,681
+También puedo tomar el folder,
+y arrastrarlo hacia mis favoritos,
+
+1831
+01:51:54,781 --> 01:51:57,317
+y quedan sincronizados
+en todos mis dispositivos.
+
+1832
+01:51:57,885 --> 01:52:01,588
+Y si quiero etiquetar un archivo, claro,
+sólo tengo que arrastrarlo hasta aquí
+
+1833
+01:52:01,655 --> 01:52:03,323
+y lo hago ahora importante.
+
+1834
+01:52:03,724 --> 01:52:06,660
+Y notaron una adición a iCloud.
+Aquí a la izquierda tengo acceso
+
+1835
+01:52:06,727 --> 01:52:08,795
+a todos mis proveedores de nubes,
+como Box.
+
+1836
+01:52:08,862 --> 01:52:12,699
+Pueden ver que tengo archivos y folders
+para colaboraciones.
+
+1837
+01:52:13,033 --> 01:52:18,071
+E incluye esta presentación sobre drones.
+
+1838
+01:52:18,305 --> 01:52:20,607
+Quiero mostrarles la vista de recientes.
+
+1839
+01:52:20,974 --> 01:52:24,378
+desde la base, noten que tengo
+una vista de todo
+
+1840
+01:52:24,444 --> 01:52:27,514
+incluyendo la vista adentro de Box.
+
+1841
+01:52:28,215 --> 01:52:30,284
+Voy a seleccionar la presentación
+de Keynote.
+
+1842
+01:52:30,350 --> 01:52:33,086
+y para el gran final, les mostraré
+cómo puedo abrir archivos
+
+1843
+01:52:33,153 --> 01:52:34,388
+directamente desde dock.
+
+1844
+01:52:34,621 --> 01:52:39,826
+Sólo acaricio hacia arriba. Si presiono
+y sostengo, accedo a mis archivos activos.
+
+1845
+01:52:40,093 --> 01:52:44,932
+Puedo recoger esto, soltarlo.
+Así de fácil.
+
+1846
+01:52:45,299 --> 01:52:48,569
+Ésa fue una demostración rápida
+de las funciones de productividad de iPad.
+
+1847
+01:52:52,306 --> 01:52:58,078
+Ahora quiero hablar de Apple Pencil
+porque Apple Pencil ha creado
+
+1848
+01:52:58,145 --> 01:53:00,447
+una nueva manera de trabajar con iPad.
+
+1849
+01:53:00,747 --> 01:53:04,451
+Y con iOS 11, la hemos integrado
+profundamente en el sistema.
+
+1850
+01:53:04,852 --> 01:53:06,954
+Comienza con Markup
+porque puedes resaltar
+
+1851
+01:53:07,020 --> 01:53:08,689
+todo a lo que le des una vista rápida.
+
+1852
+01:53:09,089 --> 01:53:10,824
+Puedes tomar contenido de Safari.
+
+1853
+01:53:10,891 --> 01:53:14,661
+Lo creamos en una vista continua
+de desplazamiento que puedes subrayar.
+
+1854
+01:53:14,895 --> 01:53:17,698
+Y puede usarse con cualquier aplicación
+que imprima,
+
+1855
+01:53:17,764 --> 01:53:21,668
+porque tenemos una opción de Crear PDF
+que generará un PDF subrayado.
+
+1856
+01:53:21,735 --> 01:53:25,472
+Es una buena manera de subrayar algo
+y compartirlo.
+
+1857
+01:53:25,739 --> 01:53:28,842
+Sabemos que mucha gente gusta de compartir
+con capturas de pantalla.
+
+1858
+01:53:28,909 --> 01:53:32,379
+Ahora cuando tomas capturas de pantalla,
+creamos una miniatura en la base
+
+1859
+01:53:32,446 --> 01:53:33,347
+de la pantalla.
+
+1860
+01:53:33,413 --> 01:53:36,183
+Si la presionas, te lleva directamente
+a Markups.
+
+1861
+01:53:36,850 --> 01:53:39,219
+Puedes marcarlo ahí mismo y compartirlo.
+
+1862
+01:53:39,786 --> 01:53:40,787
+Ahora, todos hemos...
+
+1863
+01:53:41,388 --> 01:53:42,389
+Es genial.
+
+1864
+01:53:46,026 --> 01:53:49,563
+También hemos integrado muy bien Pencil
+a Notes.
+
+1865
+01:53:49,863 --> 01:53:52,499
+Si trabajas en una nota,
+y pasas a la pantalla de bloqueo,
+
+1866
+01:53:52,566 --> 01:53:55,002
+y quieres volver,
+das sólo un toque de Pencil,
+
+1867
+01:53:55,068 --> 01:53:57,104
+y vuelves directo a tu nota.
+
+1868
+01:53:57,604 --> 01:54:01,041
+Hicimos que tu nota con texto manuscrito
+sea localizable.
+
+1869
+01:54:01,275 --> 01:54:04,311
+Ya podemos buscar en manuscritos.
+Aprendizaje profundo reconoce
+
+1870
+01:54:04,378 --> 01:54:05,412
+lo que escribes.
+
+1871
+01:54:05,913 --> 01:54:11,919
+Si escribes sobre todo notas tecleadas,
+ahora puedes hacer dibujos de línea.
+
+1872
+01:54:12,052 --> 01:54:13,053
+Ahí lo tienen.
+
+1873
+01:54:14,221 --> 01:54:15,489
+Es muy útil.
+
+1874
+01:54:18,025 --> 01:54:20,694
+Claro, a veces todavía
+tenemos que usar papel.
+
+1875
+01:54:20,794 --> 01:54:23,864
+Así que Notes tiene ahora un escáner
+de documentos integrado.
+
+1876
+01:54:23,964 --> 01:54:26,800
+Puede corregir la perspectiva
+y el contraste.
+
+1877
+01:54:27,935 --> 01:54:32,406
+Y cuando traes la nota,
+puedes subrayarla con tu Pencil.
+
+1878
+01:54:34,408 --> 01:54:39,580
+Y también integramos Markup a Mail.
+Así que puedes personalizar
+
+1879
+01:54:39,646 --> 01:54:41,648
+tus mensajes de correo
+con dibujos de línea.
+
+1880
+01:54:42,349 --> 01:54:45,719
+Para dar un vistazo a todas las funciones
+nuevas de Pencil,
+
+1881
+01:54:46,019 --> 01:54:50,257
+me gustaría presentarles al hombre
+que lidera la ingeniería software de iPad,
+
+1882
+01:54:50,324 --> 01:54:53,026
+Toby Patterson, para una demostración.
+¿Toby?
+
+1883
+01:54:55,696 --> 01:54:56,697
+Buenos días.
+
+1884
+01:54:58,332 --> 01:55:02,169
+Lo primero que les quiero mostrar
+es una manera rápida de acceder a Notes
+
+1885
+01:55:02,503 --> 01:55:03,770
+usando su Apple Pencil.
+
+1886
+01:55:04,671 --> 01:55:06,940
+Sólo presionas
+la pantalla de bloqueo así,
+
+1887
+01:55:07,608 --> 01:55:10,110
+y se desliza hacia arriba
+para mostrar tus Notas debajo.
+
+1888
+01:55:10,744 --> 01:55:12,980
+Como pueden ver,
+tengo una nota escrita a mano,
+
+1889
+01:55:13,247 --> 01:55:16,149
+y quiero mostrarles
+lo fácil que es crear una de éstas.
+
+1890
+01:55:17,017 --> 01:55:19,520
+Miren arriba en la nota
+mientras edito el título.
+
+1891
+01:55:19,920 --> 01:55:24,157
+Basta con poner encima el Lápiz
+y escribir, de esta forma.
+
+1892
+01:55:24,258 --> 01:55:29,363
+"Después del Keynote 2017."
+
+1893
+01:55:30,230 --> 01:55:32,599
+Es tan natural como escribir
+sobre papel con lápiz.
+
+1894
+01:55:33,166 --> 01:55:36,803
+Ahora, algo que el papel no puede hacer,
+es encontrar tus notas de nuevo más tarde.
+
+1895
+01:55:37,304 --> 01:55:38,539
+Usamos
+
+1896
+01:55:38,605 --> 01:55:42,109
+aprendizaje autónomo para reconocer
+su caligrafía e indexarla a Spotlight.
+
+1897
+01:55:42,943 --> 01:55:44,511
+Vayamos a Spotlight ahora,
+
+1898
+01:55:44,645 --> 01:55:47,214
+y busquemos el texto
+que acabo de escribir.
+
+1899
+01:55:47,848 --> 01:55:49,783
+Aquí tengo el nuevo teclado reversible,
+
+1900
+01:55:49,850 --> 01:55:52,019
+con éste, insertar números
+es realmente fácil,
+
+1901
+01:55:52,319 --> 01:55:55,289
+sólo deslizando las teclas
+hacia abajo de esta forma.
+
+1902
+01:55:56,957 --> 01:55:59,927
+Y ahí pueden ver que ya encontró mi nota
+como el evento principal,
+
+1903
+01:56:00,227 --> 01:56:02,129
+incluso con mi espantosa caligrafía.
+
+1904
+01:56:02,930 --> 01:56:06,033
+Sólo presionaremos sobre ella
+y estaremos de vuelta en la nota.
+
+1905
+01:56:08,902 --> 01:56:11,505
+Ahora, voy a cambiar
+a una nota diferente esta vez,
+
+1906
+01:56:11,572 --> 01:56:13,473
+porque mostraré
+cómo combinar el dibujo
+
+1907
+01:56:13,540 --> 01:56:17,644
+con texto escrito, y tablas,
+y todas las otras herramientas de Notas.
+
+1908
+01:56:18,345 --> 01:56:20,380
+Esta es una nota
+que mi hija compartió conmigo
+
+1909
+01:56:20,447 --> 01:56:23,917
+como parte de una tarea escolar,
+donde tenía que trabajar con sus padres
+
+1910
+01:56:23,984 --> 01:56:26,019
+desarrollando una idea
+para una aplicación.
+
+1911
+01:56:26,620 --> 01:56:30,157
+Ella me preguntó cuántas copias
+de nuestra aplicación creía que vendería,
+
+1912
+01:56:30,757 --> 01:56:33,360
+que venderíamos, entonces,
+quiero dibujar una gráfica
+
+1913
+01:56:33,427 --> 01:56:35,095
+para darle una idea al respecto.
+
+1914
+01:56:35,896 --> 01:56:37,764
+Sólo presionaré
+aquí abajo con el Pencil
+
+1915
+01:56:37,831 --> 01:56:39,499
+para hacer un espacio para mi dibujo.
+
+1916
+01:56:40,367 --> 01:56:43,804
+Y podemos tomar ese pequeño ícono
+y hacer un poco más de espacio.
+
+1917
+01:56:44,104 --> 01:56:48,408
+Ahora, soy realmente malo dibujando,
+pero simplemente me encanta hacerlo.
+
+1918
+01:56:48,842 --> 01:56:50,777
+Y lo que es genial de dibujar en el iPad,
+
+1919
+01:56:51,144 --> 01:56:53,413
+es que funciona de la misma manera
+que con el papel,
+
+1920
+01:56:53,780 --> 01:56:58,151
+y eso quiere decir que es realmente fácil
+que yo dibuje realmente mal justo aquí.
+
+1921
+01:56:58,652 --> 01:57:04,424
+Observen. Sólo voy
+a arrastrar el Lápiz, y... sólo así...
+
+1922
+01:57:05,526 --> 01:57:09,429
+¡Zoop! Es muy simple,
+y creo que se van a divertir mucho
+
+1923
+01:57:09,596 --> 01:57:11,398
+redescubriendo la dicha de dibujar.
+
+1924
+01:57:11,899 --> 01:57:13,534
+Pero sigamos adelante ahora.
+
+1925
+01:57:13,834 --> 01:57:17,571
+Entonces, mi hija aprendió algunas cosas
+de mí, acerca de cómo funciona Apple,
+
+1926
+01:57:17,638 --> 01:57:18,972
+y antes de irme esta mañana,
+
+1927
+01:57:19,306 --> 01:57:21,241
+firmé un Acuerdo de Confidencialidad.
+
+1928
+01:57:24,011 --> 01:57:27,214
+Voy a usar el nuevo escáner
+de documentos en Notas, y mi Pencil,
+
+1929
+01:57:27,481 --> 01:57:29,149
+para hacerlo en un dos por tres.
+
+1930
+01:57:29,883 --> 01:57:32,953
+Presionaremos el botón aquí
+para abrir el escáner de documentos,
+
+1931
+01:57:33,420 --> 01:57:36,790
+y todo lo que necesito hacer es apuntar
+la cámara hacia el pedazo de papel.
+
+1932
+01:57:37,291 --> 01:57:41,528
+Notas tomará la foto automáticamente,
+incluso enderezará la página,
+
+1933
+01:57:41,795 --> 01:57:43,564
+lo abrirá aquí en pantalla completa,
+
+1934
+01:57:43,931 --> 01:57:46,133
+y ahora sólo lleno los espacios
+con mi Lápiz.
+
+1935
+01:57:48,735 --> 01:57:52,239
+Y así de fácil, tengo una copia firmada
+del Acuerdo de Confidencialidad
+
+1936
+01:57:52,573 --> 01:57:54,074
+guardada en mis Notas.
+
+1937
+01:57:54,708 --> 01:57:56,543
+Veo que mi hija
+me envió un mensaje,
+
+1938
+01:57:56,610 --> 01:57:59,112
+debe ser muy importante
+si interrumpe mi demostración,
+
+1939
+01:57:59,179 --> 01:58:01,682
+así que, si me disculpan,
+sólo voy a presionarlo,
+
+1940
+01:58:01,748 --> 01:58:03,116
+y veré lo que tiene que decir.
+
+1941
+01:58:03,951 --> 01:58:07,955
+Vaya, una oferta por 100 millones
+de dólares es algo muy emocionante.
+
+1942
+01:58:08,722 --> 01:58:10,891
+Debo enviarle esto
+a mi esposa de inmediato.
+
+1943
+01:58:11,458 --> 01:58:13,360
+Tomaré una captura
+de pantalla de esto,
+
+1944
+01:58:13,760 --> 01:58:15,495
+y luego presionaremos esta miniatura
+
+1945
+01:58:15,863 --> 01:58:18,532
+para abrir la nueva UI
+del editor de capturas de pantalla.
+
+1946
+01:58:19,166 --> 01:58:23,837
+Desde aquí, puedo recortarlo hasta
+la parte de la imagen que quiero enviar.
+
+1947
+01:58:25,172 --> 01:58:27,608
+Puedo garabatear
+una nota rápida con mi Lápiz.
+
+1948
+01:58:30,344 --> 01:58:34,948
+Y luego puedo abrir el menú de compartir
+para enviárselo a mi esposa de inmediato.
+
+1949
+01:58:35,716 --> 01:58:37,217
+Y éstas son algunas de las formas
+
+1950
+01:58:37,284 --> 01:58:40,320
+en las que puedes usar tu Lápiz
+con tu iPad en iOS 11.
+
+1951
+01:58:40,521 --> 01:58:42,089
+Vamos contigo, Craig. Gracias.
+
+1952
+01:58:49,997 --> 01:58:54,034
+Es increíble cuando tu hija de primaria
+recibe 100 millones de dólares de fondos.
+
+1953
+01:58:54,101 --> 01:58:57,137
+Simplemente... Sí que crecen
+muy rápido hoy en día.
+
+1954
+01:58:57,905 --> 01:59:02,209
+Bueno, estas son algunas de las increíbles
+nuevas funciones para el iPad,
+
+1955
+01:59:02,276 --> 01:59:04,611
+y están acompañadas
+de estas otras herramientas
+
+1956
+01:59:04,678 --> 01:59:06,947
+de las que escucharon hoy
+hace unos momentos.
+
+1957
+01:59:07,047 --> 01:59:10,551
+Estamos muy emocionados
+con lo que hacemos con iPad este año,
+
+1958
+01:59:11,018 --> 01:59:13,387
+y muy emocionados por iOS 11.
+
+1959
+01:59:13,654 --> 01:59:18,158
+Ahora, iOS 11 está disponible
+para todos ustedes, desarrolladores, hoy.
+
+1960
+01:59:18,392 --> 01:59:22,963
+Y si se registran en beta.apple.com,
+pueden obtener una Beta al final del mes,
+
+1961
+01:59:23,197 --> 01:59:24,198
+y estará disponible
+
+1962
+01:59:24,264 --> 01:59:26,633
+como una actualización gratuita
+para todos en otoño,
+
+1963
+01:59:26,733 --> 01:59:28,969
+que sea compatible
+con todos estos aparatos.
+
+1964
+01:59:29,670 --> 01:59:31,839
+Esa es su actualización para iOS 11.
+
+1965
+01:59:31,905 --> 01:59:33,774
+Y cederé la palabra a Tim.
+¡Gracias!
+
+1966
+01:59:36,510 --> 01:59:37,511
+Gracias, Craig.
+
+1967
+01:59:39,446 --> 01:59:40,447
+Gracias a ti.
+
+1968
+01:59:41,181 --> 01:59:45,519
+iOS 11 en verdad lleva al iPad
+a un nivel completamente diferente.
+
+1969
+01:59:45,853 --> 01:59:50,224
+Las personas serán capaces de hacer más,
+en más lugares que nunca antes.
+
+1970
+01:59:51,091 --> 01:59:57,097
+Estamos tan emocionados con la fusión
+de iOS 11 y la nueva iPad Pro, que hicimos
+
+1971
+01:59:58,098 --> 02:00:00,467
+un video y quiero
+reproducirlo para ustedes.
+
+1972
+02:01:17,778 --> 02:01:23,217
+Espero que estén tan emocionados con
+la nueva iPad Pro y iOS 11 como nosotros.
+
+1973
+02:01:23,951 --> 02:01:29,957
+Ahora, tenemos una última cosa
+de la que hablarles.
+
+1974
+02:01:33,060 --> 02:01:36,063
+Dirijamos nuestra atención a la música.
+
+1975
+02:01:36,496 --> 02:01:40,267
+La música siempre ha sido
+una parte del ADN de Apple.
+
+1976
+02:01:40,834 --> 02:01:45,639
+Primero revolucionamos
+la industria de la música con iTunes.
+
+1977
+02:01:47,107 --> 02:01:48,909
+Luego cambiamos para siempre
+
+1978
+02:01:48,976 --> 02:01:52,246
+la forma en que la gente escucha
+música sobre la marcha con el iPod.
+
+1979
+02:01:52,980 --> 02:01:58,485
+Y hoy, iPhone se ha convertido en el mejor
+reproductor de música portátil del mundo,
+
+1980
+02:01:58,886 --> 02:02:02,523
+y es aún mejor
+cuando se combina con Apple Music.
+
+1981
+02:02:03,390 --> 02:02:08,028
+Ahora tienen 40 millones
+de canciones en su bolsillo.
+
+1982
+02:02:09,763 --> 02:02:12,499
+Y cuando deciden añadir los AirPods,
+
+1983
+02:02:12,833 --> 02:02:18,071
+les brinda una experiencia completamente
+mágica para el audio inalámbrico.
+
+1984
+02:02:19,506 --> 02:02:24,411
+Ahora, tenemos una experiencia increíble
+en cuanto a la música portable.
+
+1985
+02:02:25,345 --> 02:02:27,047
+Pero ¿qué hay de nuestros hogares?
+
+1986
+02:02:29,416 --> 02:02:34,288
+Creemos que podemos hacer demasiado
+para hacer mucho mejor esta experiencia.
+
+1987
+02:02:35,889 --> 02:02:41,895
+Tal como lo hicimos con la música portable
+queremos reinventar la música del hogar.
+
+1988
+02:02:43,297 --> 02:02:47,534
+Y me gustaría invitar a subir a Phil
+para contarles todo al respecto. ¡Phil!
+
+1989
+02:02:50,871 --> 02:02:51,872
+Gracias.
+
+1990
+02:02:59,079 --> 02:03:00,881
+Esto es muy emocionante.
+
+1991
+02:03:01,281 --> 02:03:05,819
+La oportunidad de reinventar la manera
+en la que disfrutamos la música en casa.
+
+1992
+02:03:06,520 --> 02:03:09,423
+No se me ocurre nada más importante
+para muchos de nosotros.
+
+1993
+02:03:11,191 --> 02:03:12,893
+¿Por qué esto no ha pasado aún?
+
+1994
+02:03:13,493 --> 02:03:17,865
+Ciertamente hay muchas compañías
+que trabajan arduamente haciendo productos
+
+1995
+02:03:17,998 --> 02:03:19,199
+para oír música en casa.
+
+1996
+02:03:19,733 --> 02:03:21,802
+Pero ninguna
+ha dado en el blanco todavía.
+
+1997
+02:03:22,402 --> 02:03:25,072
+Algunas han trabajo duro
+para que la música inalámbrica
+
+1998
+02:03:25,138 --> 02:03:26,573
+suene bien en nuestros hogares.
+
+1999
+02:03:27,207 --> 02:03:28,742
+Pero no son bocinas inteligentes.
+
+2000
+02:03:29,643 --> 02:03:33,247
+Otras han hecho bocinas
+inteligentes a las que pueden hablarles.
+
+2001
+02:03:33,814 --> 02:03:36,183
+Estas no suenan tan bien
+cuando escuchas música.
+
+2002
+02:03:36,984 --> 02:03:38,418
+Queremos combinar todo esto
+
+2003
+02:03:38,519 --> 02:03:42,990
+en un producto que realmente pueda ofrecer
+una experiencia innovadora,
+
+2004
+02:03:43,056 --> 02:03:45,792
+y nuestro equipo ha trabajando
+mucho durante varios años
+
+2005
+02:03:45,859 --> 02:03:48,795
+en una innovadora bocina para casa.
+
+2006
+02:03:50,163 --> 02:03:52,032
+Y debe hacer
+cosas realmente geniales,
+
+2007
+02:03:52,099 --> 02:03:54,134
+si va a ser una bocina innovadora genial.
+
+2008
+02:03:55,502 --> 02:03:57,971
+Primero, necesita sacudir la casa.
+
+2009
+02:03:59,039 --> 02:04:02,276
+¿Cierto? Necesitamos disfrutar
+la música, del género preferido.
+
+2010
+02:04:02,376 --> 02:04:05,812
+Muy bajo, o a todo volumen,
+libre de distorsión.
+
+2011
+02:04:07,114 --> 02:04:10,751
+Segundo, necesita ser
+espacialmente consciente.
+
+2012
+02:04:11,084 --> 02:04:12,786
+Cabrá en diferentes habitaciones,
+
+2013
+02:04:12,853 --> 02:04:13,854
+y debe ser muy lista
+
+2014
+02:04:13,921 --> 02:04:16,256
+para saber qué hacer
+para que la música suene genial.
+
+2015
+02:04:17,691 --> 02:04:20,160
+Tercero, ¡necesita ser
+muy divertida de usar!
+
+2016
+02:04:20,227 --> 02:04:23,297
+Tiene que tener un musicólogo incluido,
+un experto en música,
+
+2017
+02:04:23,530 --> 02:04:27,768
+que nos ayude a escuchar la música que
+amamos o a descubrir música que amaremos.
+
+2018
+02:04:29,636 --> 02:04:32,773
+Ahora, estamos trabajando en esta
+bocina para más tarde este año, pero
+
+2019
+02:04:33,207 --> 02:04:36,009
+queremos darles a ustedes,
+6,000 de nuestros mejores amigos,
+
+2020
+02:04:36,343 --> 02:04:38,312
+un adelanto de ello esta mañana.
+
+2021
+02:04:40,047 --> 02:04:41,048
+Y aquí está.
+
+2022
+02:05:17,451 --> 02:05:22,055
+Es absolutamente hermoso,
+y lo llamamos... ¡HomePod!
+
+2023
+02:05:23,257 --> 02:05:24,258
+Sí.
+
+2024
+02:05:27,227 --> 02:05:30,864
+Tal como el iPod reinventó
+la música en nuestros bolsillos,
+
+2025
+02:05:31,064 --> 02:05:34,935
+el HomePod va a reinventar
+\{la música en nuestros hogares.
+
+2026
+02:05:35,736 --> 02:05:38,906
+Entonces, hablemos de estas funciones.
+Primero, sacudir la casa.
+
+2027
+02:05:39,673 --> 02:05:42,509
+El HomePod mide poco menos
+de 7 pulgadas de alto.
+
+2028
+02:05:43,410 --> 02:05:46,013
+Está cubierto por un tejido
+3D de malla sin costuras,
+
+2029
+02:05:46,079 --> 02:05:48,015
+con propiedades acústicas increíbles.
+
+2030
+02:05:48,549 --> 02:05:52,019
+Y en su interior esconde
+una tecnología de audio asombrosa.
+
+2031
+02:05:52,986 --> 02:05:54,054
+Por ejemplo,
+
+2032
+02:05:54,121 --> 02:06:00,160
+en la parte inferior tiene un paquete
+de 7 bocinas de agudos en forma de barra,
+
+2033
+02:06:00,594 --> 02:06:04,531
+que está equipado con 7 altavoces,
+cada uno con su propio controlador.
+
+2034
+02:06:04,865 --> 02:06:09,269
+Tienen bocinas de precisión acústica
+que llevan el audio desde el interior
+
+2035
+02:06:09,336 --> 02:06:13,006
+y hacia el exterior de la base,
+con un control direccional impresionante,
+
+2036
+02:06:13,407 --> 02:06:16,210
+y que apreciarán en un instante,
+al hablar de cómo funciona.
+
+2037
+02:06:17,277 --> 02:06:18,879
+Tiene un gran altavoz de graves,
+
+2038
+02:06:18,946 --> 02:06:22,649
+un altavoz de 4 pulgadas hacia arriba,
+con un gran motor para mover mucho aire.
+
+2039
+02:06:23,217 --> 02:06:26,186
+Ecualización básica automática
+y software de modelado dinámico,
+
+2040
+02:06:26,253 --> 02:06:29,389
+para que cuando subamos el volumen,
+esté libre de distorsión.
+
+2041
+02:06:30,457 --> 02:06:34,995
+Y todo esto está controlado
+por un chip Apple A8.
+
+2042
+02:06:35,395 --> 02:06:40,734
+Sí, el mismo chip que opera dentro
+del iPhone está dentro del HomePod.
+
+2043
+02:06:40,968 --> 02:06:43,770
+Quizás sea el cerebro más grande
+nunca visto en una bocina,
+
+2044
+02:06:44,271 --> 02:06:45,772
+y hace algunas cosas increíbles.
+
+2045
+02:06:51,411 --> 02:06:55,082
+Hace modelado acústico en tiempo real,
+formación de haces de audio,
+
+2046
+02:06:55,249 --> 02:06:56,884
+y cancelación de eco multicanal.
+
+2047
+02:06:56,950 --> 02:06:58,285
+No necesitan saber qué es eso,
+
+2048
+02:06:58,352 --> 02:07:01,021
+sólo sepan que suena increíble.
+
+2049
+02:07:04,525 --> 02:07:07,895
+En seguida, hablaremos
+acerca de esta consciencia espacial.
+
+2050
+02:07:07,961 --> 02:07:08,962
+¿Qué significa eso?
+
+2051
+02:07:09,229 --> 02:07:12,799
+Bueno, conectas tu HomePod a AC,
+y consigue su música inalámbricamente.
+
+2052
+02:07:13,333 --> 02:07:15,969
+Y es tan compacto que puedes
+ponerlo casi donde sea.
+
+2053
+02:07:16,036 --> 02:07:19,573
+Puedes ponerlo en una mesa, en una repisa,
+contra la pared, en una esquina...
+
+2054
+02:07:20,340 --> 02:07:24,378
+Y de manera inteligente y automática
+detecta el espacio en el que se encuentra.
+
+2055
+02:07:24,945 --> 02:07:29,416
+Y utiliza esa información
+para ajustar el audio y balancearlo
+
+2056
+02:07:29,483 --> 02:07:33,253
+y obtener la ventaja completa del ambiente
+y generar un sonido muy espacioso.
+
+2057
+02:07:34,454 --> 02:07:37,191
+Ahora, queremos darles una idea
+de cómo es esa experiencia,
+
+2058
+02:07:37,624 --> 02:07:42,262
+así que queremos poner música en esta sala
+y mostrarles una simulación visual
+
+2059
+02:07:42,529 --> 02:07:45,666
+para dejarles más claro
+qué tipo de tecnologías está usando
+
+2060
+02:07:45,732 --> 02:07:48,735
+y cómo las está adaptando
+para generar un sonido increíble
+
+2061
+02:07:48,802 --> 02:07:50,137
+con esta compacta bocina.
+
+2062
+02:07:50,571 --> 02:07:54,441
+Entonces, comenzaré poniendo una pista
+de audio, y será una mezcla completa.
+
+2063
+02:07:54,508 --> 02:07:55,475
+Luego la romperemos
+
+2064
+02:07:55,542 --> 02:07:58,645
+en algunos de los componentes
+que el HomePod controla.
+
+2065
+02:08:15,395 --> 02:08:17,598
+Entonces, eso es una mezcla
+de audio completa.
+
+2066
+02:08:17,965 --> 02:08:20,767
+Pero en su interior el HomePod
+detecta las voces centrales,
+
+2067
+02:08:21,001 --> 02:08:22,703
+y lo dirige con la formación de haces
+
+2068
+02:08:31,044 --> 02:08:32,713
+de claridad y precisión increíbles.
+
+2069
+02:08:33,013 --> 02:08:36,483
+Luego detecta algo llamado
+"energía directa" con la instrumentación,
+
+2070
+02:08:36,717 --> 02:08:38,252
+y dirigirlo eso en la habitación.
+
+2071
+02:08:48,762 --> 02:08:50,597
+Además de esa energía directa,
+
+2072
+02:08:50,864 --> 02:08:52,666
+hay algo que suele faltar en la música,
+
+2073
+02:08:52,966 --> 02:08:56,236
+el audio de ambiente,
+los coros y la reverberación.
+
+2074
+02:09:06,013 --> 02:09:08,549
+HomePod puede dirigir todo esto
+y ponerlo todo junto
+
+2075
+02:09:08,615 --> 02:09:11,251
+en una mezcla completa y rica
+que inunda tu habitación.
+
+2076
+02:09:23,931 --> 02:09:24,998
+Sí. Sí.
+
+2077
+02:09:28,969 --> 02:09:32,539
+Es una experiencia sorprendente
+escuchar este tipo de sonido espacioso
+
+2078
+02:09:32,606 --> 02:09:34,341
+salir de una bocina tan compacta.
+
+2079
+02:09:34,808 --> 02:09:38,178
+Y si les gusta una, deberían ver
+lo que sucede cuando enciendes dos,
+
+2080
+02:09:38,245 --> 02:09:41,815
+y automáticamente trabajan juntos para dar
+este increíble sonido espacioso
+
+2081
+02:09:41,882 --> 02:09:44,484
+que de verdad tiene el poder
+de sacudir tu casa.
+
+2082
+02:09:45,986 --> 02:09:48,188
+Siguiente, un musicólogo.
+
+2083
+02:09:48,455 --> 02:09:52,259
+Este asistente inteligente que nos ayuda
+a descubrir la música que mamamos.
+
+2084
+02:09:53,827 --> 02:09:57,898
+HomePod tiene
+un sistema de bocinas increíble,
+
+2085
+02:09:57,998 --> 02:10:01,201
+que trabaja junto con nuestra suscripción
+de Apple Music.
+
+2086
+02:10:01,268 --> 02:10:03,504
+Desde el principio,
+se diseñó para trabajar así.
+
+2087
+02:10:03,937 --> 02:10:06,974
+Ahora, Apple Music, como saben
+proporciona música en la nube,
+
+2088
+02:10:07,040 --> 02:10:09,376
+y la bocina puede obtenerla
+directamente de la nube.
+
+2089
+02:10:09,943 --> 02:10:12,713
+Quizá haya 40 millones de canciones,
+2 millones de artistas,
+
+2090
+02:10:12,779 --> 02:10:14,114
+decenas de miles de listas.
+
+2091
+02:10:14,181 --> 02:10:17,184
+Pero no es cualquier biblioteca musical.
+Es tuya.
+
+2092
+02:10:17,417 --> 02:10:20,387
+Conoce las listas que has agregado,
+los artistas que te encantan,
+
+2093
+02:10:20,454 --> 02:10:23,257
+y todos ellos viajan
+directamente a tu HomePod.
+
+2094
+02:10:25,125 --> 02:10:28,462
+Funciona con un conjunto
+de seis micrófonos alrededor del centro.
+
+2095
+02:10:28,629 --> 02:10:33,400
+Así que, mientras le hablas,
+y dices esas palabras mágicas "Oye, Siri",
+
+2096
+02:10:34,034 --> 02:10:37,971
+ves una luz en forma de onda en la punta
+y ahora puede responder a tus peticiones
+
+2097
+02:10:38,038 --> 02:10:40,507
+y ayudarte a organizar
+la música que quieres oír.
+
+2098
+02:10:42,976 --> 02:10:44,778
+El equipo de Siri ha trabajado muy duro
+
+2099
+02:10:45,012 --> 02:10:47,181
+para adaptar el dominio
+de la música y de Siri
+
+2100
+02:10:47,247 --> 02:10:51,919
+para ser todavía mejores y entender más
+de las preguntas que haremos sobre música.
+
+2101
+02:10:52,186 --> 02:10:54,821
+Cosas simples,
+como "Reproduce <i>Beats One radio</i>."
+
+2102
+02:10:55,189 --> 02:10:58,058
+Todos queremos hacer eso.
+O "Reproduce '<i>I'm Poppy</i>.'"
+
+2103
+02:10:58,225 --> 02:10:59,893
+Averígüenlo si no saben qué es.
+
+2104
+02:11:00,994 --> 02:11:02,162
+"¡Toca algo nuevo!"
+
+2105
+02:11:02,296 --> 02:11:03,497
+"¿Quién canta eso?"
+
+2106
+02:11:03,564 --> 02:11:06,200
+Una vez pregunté:
+"¿Quién toca la batería en esta canción?"
+
+2107
+02:11:06,433 --> 02:11:11,171
+Las preguntas complejas como "¿Cuál fue
+la mejor canción el 5 de mayo del 2016?"
+
+2108
+02:11:11,371 --> 02:11:14,474
+"Sólo reproduce más como esa"
+o "Me gusta esa canción."
+
+2109
+02:11:15,175 --> 02:11:18,912
+Estas son en forma libre. Siri no necesita
+una lista específica de comandos.
+
+2110
+02:11:18,979 --> 02:11:22,649
+Puede interpretar lo que estás diciendo
+y ayudarte a descubrir la música que amas.
+
+2111
+02:11:23,183 --> 02:11:27,521
+Y todavía mejor, no tienes que sentarte
+justo junto al HomePod para hablarle.
+
+2112
+02:11:27,588 --> 02:11:30,457
+Puedes estar al otro lado de la habitación
+y hablarle al HomePod,
+
+2113
+02:11:30,524 --> 02:11:32,292
+incluso si hay música
+a gran volumen,
+
+2114
+02:11:32,459 --> 02:11:36,063
+y el conjunto de bocinas y micrófonos
+pueden distinguir y escuchar lo que dices.
+
+2115
+02:11:37,231 --> 02:11:38,232
+Entonces, el HomePod.
+
+2116
+02:11:39,132 --> 02:11:40,834
+Tiene el poder de sacudir tu casa.
+
+2117
+02:11:41,468 --> 02:11:45,305
+Tiene consciencia espacial, e identifica
+las habitaciones en las que lo colocamos.
+
+2118
+02:11:46,206 --> 02:11:49,776
+Y tiene la interacción divertida
+de Siri convirtiéndose en un musicólogo,
+
+2119
+02:11:50,177 --> 02:11:52,045
+nos ayuda a escuchar
+la música que amamos.
+
+2120
+02:11:52,513 --> 02:11:54,948
+Y ya que Siri está metida ahí
+puedes hablar con ella.
+
+2121
+02:11:55,315 --> 02:11:56,416
+El equipo también trabajó
+
+2122
+02:11:56,483 --> 02:11:59,786
+para convertirla en un increíble y útil
+ayudante de casa también.
+
+2123
+02:12:01,688 --> 02:12:03,123
+Decimos que la música
+
+2124
+02:12:03,190 --> 02:12:05,292
+es algo que Siri conoce
+muy bien en el HomePod.
+
+2125
+02:12:05,592 --> 02:12:06,894
+Pero también otros temas.
+
+2126
+02:12:07,194 --> 02:12:10,197
+Trabajamos duro para elegir
+los que creímos los más importantes
+
+2127
+02:12:10,330 --> 02:12:11,298
+para el HomePod,
+
+2128
+02:12:11,365 --> 02:12:13,567
+así que puede reproducir tus podcasts,
+
+2129
+02:12:13,834 --> 02:12:17,538
+pero también puede hacer cosas
+como darte noticias, el clima,
+
+2130
+02:12:17,604 --> 02:12:19,072
+información vial, reseñas de deportes...
+
+2131
+02:12:19,206 --> 02:12:22,176
+Puedes pedirle que programe
+un recordatorio, un temporizador,
+
+2132
+02:12:22,910 --> 02:12:24,645
+escribirle a alguien con Mensajes,
+
+2133
+02:12:25,012 --> 02:12:27,347
+si tienes algún dispositivo
+de HomeKit en tu hogar,
+
+2134
+02:12:27,414 --> 02:12:30,684
+puedes hablarle a tu HomePod
+y controlar tus dispositivos de HomeKit.
+
+2135
+02:12:32,586 --> 02:12:35,956
+Entonces, por ejemplo,
+con el HomePod instalado, puedes decir:
+
+2136
+02:12:36,390 --> 02:12:38,158
+"¿Cuándo jugarán los Medias Rojas?"
+
+2137
+02:12:38,625 --> 02:12:39,993
+La ganarán a Yankees, créanme.
+
+2138
+02:12:40,627 --> 02:12:42,429
+"Sincroniza la NPR."
+
+2139
+02:12:43,030 --> 02:12:44,097
+"Lanza una moneda."
+
+2140
+02:12:44,331 --> 02:12:46,400
+"Recuérdame traer
+bocadillos a la fiesta"
+
+2141
+02:12:46,767 --> 02:12:50,637
+Puedes programar recordatorios, revisar
+los deportes, las noticias, y el clima,
+
+2142
+02:12:51,038 --> 02:12:52,539
+todo directamente con tu voz,
+
+2143
+02:12:52,673 --> 02:12:55,909
+hablándole a un HomePod que consigue
+la información de la nube.
+
+2144
+02:12:56,577 --> 02:12:58,745
+Y si tienes dispositivos
+de HomeKit instalados,
+
+2145
+02:12:59,146 --> 02:13:00,414
+puedes decir:
+
+2146
+02:13:00,714 --> 02:13:02,583
+"Apaga las luces",
+"Y la calefacción",
+
+2147
+02:13:03,450 --> 02:13:04,518
+"Enciende el aire",
+
+2148
+02:13:05,152 --> 02:13:09,489
+"Baja un poco las persianas",
+"Apaga las luces en la recámara".
+
+2149
+02:13:10,157 --> 02:13:13,126
+Y si programaste secuencias en HomeKit,
+puedes controlarlas.
+
+2150
+02:13:13,293 --> 02:13:17,464
+Puedes decir: "Estoy en casa",
+"Hora de película", "Ya me voy".
+
+2151
+02:13:17,664 --> 02:13:22,302
+Y toda la secuencia puede pasar
+automáticamente hablando con tu HomePod.
+
+2152
+02:13:23,136 --> 02:13:28,609
+Y porque hay una base de HomePod, una base
+de HomeKit dentro de HomePod, significa
+
+2153
+02:13:28,876 --> 02:13:31,979
+que en cualquier parte del mundo
+cuando programas tu HomePod,
+
+2154
+02:13:32,145 --> 02:13:34,748
+puedes controlar tus dispositivos
+de HomeKit,
+
+2155
+02:13:34,915 --> 02:13:38,385
+utilizando la aplicación de HomeApp
+en tu iPhone o iPad.
+
+2156
+02:13:39,586 --> 02:13:43,090
+Ahora, al instalar un HomePod
+y su conjunto de micrófonos en tu hogar,
+
+2157
+02:13:43,156 --> 02:13:46,493
+quizá tengan una pregunta
+que trabajamos muy duro para responder,
+
+2158
+02:13:46,560 --> 02:13:47,728
+que es la privacidad.
+
+2159
+02:13:47,995 --> 02:13:50,564
+Nuestro equipo se preocupa
+por su privacidad.
+
+2160
+02:13:51,064 --> 02:13:54,468
+Entonces, por ejemplo,
+tiene esa frase mágica "Oye, Siri."
+
+2161
+02:13:54,601 --> 02:13:57,638
+Hasta que la dicen,
+nada ha sido enviado a Apple.
+
+2162
+02:13:58,805 --> 02:14:01,608
+Reconoce cuando sí la dices,
+y desde ese punto,
+
+2163
+02:14:01,708 --> 02:14:03,810
+envía un ID de Siri anónimo
+
+2164
+02:14:03,977 --> 02:14:06,113
+para ayudarte con el comando que buscas.
+
+2165
+02:14:06,413 --> 02:14:09,316
+Y por supuesto,
+toda esa comunicación está encriptada.
+
+2166
+02:14:11,084 --> 02:14:12,219
+Este es el HomePod.
+
+2167
+02:14:12,819 --> 02:14:14,788
+Es una bocina innovadora.
+
+2168
+02:14:16,590 --> 02:14:17,991
+Las bocinas con wi-fi,
+
+2169
+02:14:18,058 --> 02:14:20,894
+si son de buena calidad,
+cuestan entre 300 y 500 dólares.
+
+2170
+02:14:23,096 --> 02:14:26,433
+Y una bocina inteligente podría
+costarte entre 100 y 200 dólares.
+
+2171
+02:14:27,067 --> 02:14:32,306
+Entonces, no es ilógico que un HomePod
+esté en el rango de 400 a 700 dólares.
+
+2172
+02:14:33,106 --> 02:14:39,112
+Así que estamos muy felices por decirles
+que el HomePod costará 349 dólares.
+
+2173
+02:14:45,986 --> 02:14:48,155
+Viene en Blanco y Gris Espacial.
+
+2174
+02:14:48,522 --> 02:14:54,094
+Se empezará a embarcar este diciembre,
+primero en EUA, Inglaterra, y Australia.
+
+2175
+02:14:54,561 --> 02:14:57,364
+Y el próximo año, empezaremos
+a distribuirlo en todo el mundo.
+
+2176
+02:14:57,898 --> 02:15:00,367
+Así que eso es el HomePod.
+De vuelta contigo, Tim.
+
+2177
+02:15:04,004 --> 02:15:05,005
+Gracias.
+
+2178
+02:15:07,875 --> 02:15:09,743
+Es tan genial.
+
+2179
+02:15:10,110 --> 02:15:14,047
+Creemos que llevará la experiencia
+de la música en casa al siguiente nivel.
+
+2180
+02:15:15,949 --> 02:15:20,053
+Ahora... Ha sido una mañana increíble.
+
+2181
+02:15:21,154 --> 02:15:23,790
+Hemos compartido con ustedes
+muchas cosas esta mañana,
+
+2182
+02:15:24,258 --> 02:15:30,264
+y todas saldrán a la venta este año,
+algunas ahora, algunas en otoño,
+
+2183
+02:15:31,064 --> 02:15:32,866
+y otras al final del año.
+
+2184
+02:15:33,233 --> 02:15:35,869
+Empezamos con watchOS,
+
+2185
+02:15:36,036 --> 02:15:39,273
+más intuitivo e inteligente
+que nunca antes,
+
+2186
+02:15:39,473 --> 02:15:42,609
+nuevas funciones
+para ayudarnos a vivir una vida más sana.
+
+2187
+02:15:43,677 --> 02:15:45,546
+MacOS High Sierra,
+
+2188
+02:15:45,812 --> 02:15:51,785
+excelentes mejoras y tecnologías
+que impulsarán la experiencia MacOS.
+
+2189
+02:15:53,687 --> 02:15:57,024
+Actualizaciones para MacBook,
+MacBook Pro, y iMac,
+
+2190
+02:15:57,090 --> 02:15:59,927
+más veloces y capaces que nunca antes.
+
+2191
+02:16:00,761 --> 02:16:02,529
+Y iOS 11,
+
+2192
+02:16:03,197 --> 02:16:07,935
+una actualización importante del mejor
+y más avanzado
+
+2193
+02:16:08,001 --> 02:16:12,139
+sistema operativo móvil del mundo,
+totalmente equipado con nuevas funciones,
+
+2194
+02:16:12,239 --> 02:16:16,410
+incluyendo una App Store
+completamente nueva,
+
+2195
+02:16:17,077 --> 02:16:19,646
+pagos directos a través de Apple Pay,
+
+2196
+02:16:19,713 --> 02:16:24,885
+y con ARKit, iOS 11
+se convierte en la más grande
+
+2197
+02:16:25,152 --> 02:16:28,288
+plataforma de realidad aumentada
+del mundo de la noche a la mañana.
+
+2198
+02:16:29,523 --> 02:16:35,162
+El iPad es llevada a otro nivel,
+con increíbles herramientas en iOS 11.
+
+2199
+02:16:35,529 --> 02:16:38,932
+Es el mayor lanzamiento
+para iPad en la historia.
+
+2200
+02:16:40,066 --> 02:16:42,736
+Y por supuesto,
+una nueva versión del iPad Pro,
+
+2201
+02:16:43,170 --> 02:16:49,175
+con un nuevo tamaño perfecto
+de 10.5 pulgadas, con monitores modernos,
+
+2202
+02:16:50,443 --> 02:16:53,513
+nuevas herramientas poderosas,
+que le permiten a la gente
+
+2203
+02:16:53,580 --> 02:16:56,148
+hacer más con sus iPads que nunca antes.
+
+2204
+02:16:56,683 --> 02:16:59,653
+Y les dimos dos avances,
+
+2205
+02:16:59,852 --> 02:17:03,991
+iMac Pro, una clase de productos
+de trabajo completamente nueva,
+
+2206
+02:17:04,057 --> 02:17:07,326
+que diseñamos específicamente
+para nuestros usuarios de Pro.
+
+2207
+02:17:08,428 --> 02:17:14,401
+Y el HomePod, una bocina innovadora
+para el hogar con un sonido asombroso,
+
+2208
+02:17:14,468 --> 02:17:16,602
+y una inteligencia increíble.
+
+2209
+02:17:17,204 --> 02:17:19,706
+Reinventará el sonido en casa.
+
+2210
+02:17:21,375 --> 02:17:25,879
+Ahora, tenemos un área práctica
+para que la prensa se instale
+
+2211
+02:17:25,946 --> 02:17:29,782
+y asista inmediatamente
+después del Keynote.
+
+2212
+02:17:30,117 --> 02:17:31,584
+Y para los desarrolladores,
+
+2213
+02:17:31,684 --> 02:17:35,989
+los invitamos a venir
+de las 4:00 a las 7:00 p.m. esta tarde.
+
+2214
+02:17:36,990 --> 02:17:40,727
+Tenemos alrededor de 100 sesiones
+planeadas para esta semana,
+
+2215
+02:17:41,061 --> 02:17:45,531
+y alrededor de mil ingenieros de Apple
+aquí, para pasar tiempo con ustedes,
+
+2216
+02:17:45,599 --> 02:17:48,568
+así que tomen ventaja del tiempo.
+
+2217
+02:17:49,036 --> 02:17:54,775
+Mañana tenemos una charla especial
+planeada en la mañana, en esta habitación,
+
+2218
+02:17:55,275 --> 02:17:59,413
+y nos acompañará alguien
+que ha dedicado toda su carrera
+
+2219
+02:18:00,180 --> 02:18:05,485
+a reconocer y alentar a los jóvenes,
+a las mujeres, y a los emprendedores.
+
+2220
+02:18:06,253 --> 02:18:12,259
+Estoy muy emocionado por decirles
+que Michelle Obama estará con nosotros.
+
+2221
+02:18:21,502 --> 02:18:25,973
+Nos acompañará en la sesión abierta
+en esta habitación mañana,
+
+2222
+02:18:26,039 --> 02:18:28,609
+y estará hablando sobre personas poderosas
+
+2223
+02:18:28,674 --> 02:18:31,645
+de todos los caminos de la vida
+para cambiar el mundo.
+
+2224
+02:18:32,145 --> 02:18:35,983
+Esta es una ocasión muy especial,
+y los invito a todos a venir.
+
+2225
+02:18:36,884 --> 02:18:41,421
+Espero que todos tengan
+una excelente semana. Gracias.
+
+2226
+02:18:41,655 --> 02:18:42,656
+Gracias.
+
